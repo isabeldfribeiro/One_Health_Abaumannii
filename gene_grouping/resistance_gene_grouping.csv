@@ -1,0 +1,67 @@
+Clustered Gene,Gene
+AAC(3),"AAC(3)-IIc, AAC(3)-IId, AAC(3)-IIe, AAC(3)-IVa, AAC(3)-Ia"
+AAC(6'),"AAC(6')-Iaf, AAC(6')-Ian, AAC(6')-Ib', AAC(6')-Ib10, AAC(6')-Ib3, AAC(6')-Ib9"
+ADC,"ADC-10, ADC-101, ADC-103, ADC-106, ADC-107, ADC-11, ADC-115, ADC-117, ADC-119, ADC-120, ADC-122, ADC-123, ADC-152, ADC-154, ADC-155, ADC-156, ADC-158, ADC-160, ADC-162, ADC-163, ADC-164, ADC-165, ADC-166, ADC-169, ADC-174, ADC-175, ADC-176, ADC-181, ADC-182, ADC-183, ADC-184, ADC-186, ADC-191, ADC-192, ADC-195, ADC-196, ADC-203, ADC-212, ADC-214, ADC-215, ADC-216, ADC-217, ADC-219, ADC-222, ADC-223, ADC-235, ADC-238, ADC-240, ADC-241, ADC-242, ADC-243, ADC-244, ADC-248, ADC-249, ADC-25, ADC-254, ADC-256, ADC-29, ADC-30, ADC-32, ADC-33, ADC-5, ADC-52, ADC-53, ADC-56, ADC-57, ADC-58, ADC-6, ADC-60, ADC-61, ADC-73, ADC-74, ADC-75, ADC-76, ADC-79, ADC-80, ADC-81, ADC-82, ADC-87, ADC-88, ADC-95, ADC-96, ADC-99"
+ANT(2'')-Ia,ANT(2'')-Ia
+"ANT(3"")","ANT(3'')-IIa, ANT(3'')-IIc"
+APH(3'')-Ib,APH(3'')-Ib
+APH(3'),"APH(3')-Ia, APH(3')-VIa, APH(3')-VIb"
+APH(4)-Ia,APH(4)-Ia
+APH(6)-Id,APH(6)-Id
+AbaF,AbaF
+AbaQ,AbaQ
+AmvA,AmvA
+BRP,BRP(MBL)
+CARB,"CARB-16, CARB-3, CARB-4"
+CTX-M,"CTX-M-115, CTX-M-55"
+EF-Tu,EF-Tu
+ErmB,ErmB
+FosA,"FosA3, FosA8"
+GES,"GES-11, GES-35"
+IMP-16,IMP-16
+KPC-100,KPC-100
+LpsB,LpsB
+MCR-4.3,MCR-4.3
+Mrx,Mrx
+NDM,"NDM-1, NDM-40, NDM-44"
+OXA-134-like,"OXA-235, OXA-237"
+OXA-143-like,"OXA-143, OXA-253"
+OXA-2-like,OXA-2
+OXA-23-like,"OXA-169, OXA-225, OXA-23, OXA-366"
+OXA-24-like,"OXA-207, OXA-24, OXA-72"
+OXA-51-like,"OXA-104, OXA-106, OXA-109, OXA-117, OXA-120, OXA-121, OXA-123, OXA-125, OXA-126, OXA-132, OXA-144, OXA-172, OXA-180, OXA-208, OXA-217, OXA-241, OXA-259, OXA-262, OXA-314, OXA-338, OXA-343, OXA-374, OXA-378, OXA-381, OXA-383, OXA-402, OXA-407, OXA-408, OXA-424, OXA-441, OXA-497, OXA-51, OXA-510, OXA-64, OXA-65, OXA-654, OXA-66, OXA-67, OXA-68, OXA-685, OXA-69, OXA-695, OXA-70, OXA-701, OXA-707, OXA-71, OXA-78, OXA-82, OXA-83, OXA-834, OXA-856, OXA-873, OXA-879, OXA-90, OXA-91, OXA-92, OXA-94, OXA-95, OXA-98"
+OXA-58-like,OXA-58
+OXA-9-like,OXA-9
+PER,"PER-1, PER-10, PER-7"
+SAT-2,SAT-2
+SHV,"SHV-11, SHV-12"
+TEM,"TEM-1, TEM-244, TEM-247"
+VEB-9,VEB-9
+aadA,"aadA, aadA2, aadA3, aadA5"
+abeM,abeM
+abeS,abeS
+adeABC,"adeA, adeB, adeC"
+adeFGH,"adeF, adeG, adeH"
+adeIJK,"adeI, adeJ, adeK"
+adeL,adeL
+adeN,adeN
+adeRS,"adeR, adeS"
+ampC,ampC
+armA,armA
+arr,"arr-2, arr-3, arr-4"
+cat,"catB3, catB8, catI"
+cmlA,"cmlA5, cmlA9"
+dfrA,"dfrA1, dfrA12, dfrA16, dfrA19, dfrA5, dfrA7"
+floR,floR
+gyrA,gyrA
+mph,"mphA, mphE"
+msrE,msrE
+parC,parC
+qac efflux pumps,"qacEdelta1, qacG, qacJ"
+rsmA,rsmA
+sul,"sul1, sul2"
+tet efflux pumps,"tet(39), tet(A), tet(B), tet(C), tet(E)"
+tet(M),tet(M)
+tet(X),"tet(X3), tet(X6)"
+tetR,tetR
+vanW,vanW

@@ -1,0 +1,210 @@
+Genome Name,Assembly,Date,Location,N50,Isolation source,Host Group,Contigs,Size,Platform,Grupo,ST
+Acinetobacter baumannii MSP4-16,GCA_000341985.1,2010.0,India,192388.0,soil,Human,53,3944542,Illumina HiSeq,ambiental,52
+Acinetobacter baumannii EGD-HP18,GCA_000465635.1,2012.0,India,187335.0,plant,,148,4142200,Illumina MiSeq,ambiental,221
+Acinetobacter baumannii strain S2/2,GCA_013140255.1,2019.0,Croatia,140559.0,environment,,129,4056103,Illumina HiSeq,ambiental,2
+Acinetobacter baumannii strain S2/10,GCA_013140295.1,2019.0,Croatia,105336.0,environment,,146,4060055,Illumina HiSeq,ambiental,2
+Acinetobacter baumannii strain S2/4,GCA_013140275.1,2019.0,Croatia,123669.0,environment,,225,4098042,Illumina HiSeq,ambiental,2
+Acinetobacter baumannii strain EF31,GCA_013140305.1,2019.0,Croatia,123669.0,environment,,166,4066318,Illumina HiSeq,ambiental,2
+Acinetobacter baumannii strain EF7,GCA_013140315.1,2019.0,Croatia,110212.0,environment,,218,4123377,Illumina HiSeq,ambiental,2
+Acinetobacter baumannii strain EF32,GCA_013140355.1,2019.0,Croatia,122161.0,environment,,154,4062225,Illumina HiSeq,ambiental,2
+Acinetobacter baumannii strain S14,GCA_013140365.1,2019.0,Croatia,123669.0,environment,,152,4063698,Illumina HiSeq,ambiental,2
+Acinetobacter baumannii strain INTEC_AI11,GCA_014323505.1,2018.0,Dominican Republic,300368.0,river,,43,4205625,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii strain INTEC_BI9,GCA_014712715.1,2018.0,Dominican Republic,383037.0,river,,41,3993158,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii strain INTEC_AI12,GCA_014858045.1,2018.0,Dominican Republic,382684.0,river,,45,3995472,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii strain MarinaZ4,GCA_017939285.1,2018.0,Singapore,308830.0,environment,,55,3906238,Illumina MiSeq,ambiental,1230
+Acinetobacter baumannii strain INTEC_OZFC7,GCA_017897205.1,2018.0,Dominican Republic,420901.0,river,,33,3841475,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii strain M476,GCA_018361305.1,2017.0,South Africa,126625.0,sewage,Human,144,4052782,Illumina NextSeq,ambiental,1
+Acinetobacter baumannii strain Ex003,GCA_018831485.1,2012.0,Lebanon,3935232.0,water,,2,3947076,Oxford Nanopore MiniION; Illumina MiSeq,ambiental,1
+Acinetobacter baumannii strain VRL-M19,GCA_018883565.1,2019.0,India,266361.0,air,,47,3921275,Illumina,ambiental,624
+Acinetobacter baumannii NI65,GCA_022014125.1,2016.0,Thailand,61762.0,soil,,114,3666760,Illumina,ambiental,490
+Acinetobacter baumannii DSM30011-VUB,GCA_022466815.1,1944.0,USA,3996233.0,plant,,1,3996233,Illumina + MinION,ambiental,738
+Acinetobacter baumannii strain IITR88,GCF_001516805.1,2015.0,India,3990690.0,river,,23,4167459,Illumina NextSeq,ambiental,54
+Acinetobacter baumannii 204WW,GCA_025456805.1,2018.0,Romania,117476.0,sewage,,121,4105063,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii 18032C2-WW,GCA_025456815.1,2018.0,Romania,46020.0,sewage,,219,4022363,Illumina MiSeq,ambiental,636
+Acinetobacter baumannii 18033O3-WW,GCA_025456825.1,2018.0,Romania,50145.0,sewage,,180,4030508,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii 18033CS-WW1,GCA_025456855.1,2018.0,Romania,33288.0,sewage,,246,3996857,Illumina MiSeq,ambiental,636
+Acinetobacter baumannii 203WW,GCA_025456885.1,2018.0,Romania,117476.0,sewage,,119,4104145,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii 195WW,GCA_025456905.1,2019.0,Romania,445629.0,sewage,,36,3802675,Illumina MiSeq,ambiental,-
+Acinetobacter baumannii 201WW,GCA_025456925.1,2018.0,Romania,117476.0,sewage,,114,4104528,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii 202WW,GCA_025456945.1,2018.0,Romania,117476.0,sewage,,121,4105543,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii 191WW,GCA_025457005.1,2019.0,Romania,173150.0,sewage,,96,4004508,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii 190WW,GCA_025457015.1,2019.0,Romania,453434.0,sewage,,52,3733340,Illumina MiSeq,ambiental,155
+Acinetobacter baumannii 186WW,GCA_025457085.1,2019.0,Romania,168007.0,sewage,,81,4025826,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii 182WW,GCA_025457105.1,2019.0,Romania,154337.0,sewage,,108,4037375,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii 185WW,GCA_025457115.1,2019.0,Romania,162525.0,sewage,,82,4025753,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii 184WW,GCA_025457145.1,2019.0,Romania,122161.0,sewage,,104,4038001,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii 183WW,GCA_025457205.1,2019.0,Romania,122161.0,sewage,,112,4023910,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii 172WW,GCA_025457215.1,2019.0,Romania,145283.0,sewage,,132,4102796,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii 174WW,GCA_025457245.1,2019.0,Romania,145283.0,sewage,,124,4087413,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii 171WW,GCA_025457295.1,2019.0,Romania,124068.0,sewage,,133,3979541,Illumina MiSeq,ambiental,1
+Acinetobacter baumannii 168WW,GCA_025457335.1,2019.0,Romania,143101.0,sewage,,117,4097649,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii 165WW,GCA_025457365.1,2019.0,Romania,159644.0,sewage,,80,3959150,Illumina MiSeq,ambiental,79
+Acinetobacter baumannii 007WW,GCA_025457435.1,2018.0,Romania,141046.0,sewage,,73,3870815,Illumina MiSeq,ambiental,492
+Acinetobacter baumannii 164WW,GCA_025457465.1,2019.0,Romania,97986.0,sewage,,142,3881266,Illumina MiSeq,ambiental,1
+Acinetobacter baumannii INTEC_OZFC5,GCA_025515635.1,2018.0,Dominican Republic,324095.0,river,,22,3809530,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii IY-BUK-17,GCA_025245645.1,2021.0,Nigeria,106702.0,sewage,,109,4020857,Illumina,ambiental,2
+Acinetobacter baumannii IY-BUK-16,GCA_025245665.1,2021.0,Nigeria,110061.0,sewage,,106,4023595,Illumina,ambiental,2
+Acinetobacter baumannii IY-BUK3,GCA_025246225.1,2021.0,Nigeria,123248.0,soil,,73,3658905,Illumina,ambiental,267
+Acinetobacter baumannii 1326924-3,GCA_025854195.1,2018.0,USA,3965229.0,environment,,2,3984896,Illumina; Oxford Nanopore GridION,ambiental,499
+Acinetobacter baumannii 1326924-2,GCA_025854175.1,2018.0,USA,3965152.0,environment,,2,3984819,Illumina; Oxford Nanopore GridION,ambiental,499
+Acinetobacter baumannii 1326924-1,GCA_025854155.1,2018.0,USA,4064267.0,environment,,3,4142911,Illumina; Oxford Nanopore GridION,ambiental,2
+Acinetobacter baumannii 1326927-1,GCA_025854215.1,2018.0,USA,3964660.0,environment,,2,3984327,Illumina; Oxford Nanopore GridION,ambiental,499
+Acinetobacter baumannii 1326927-2,GCA_025854235.1,2018.0,USA,3901216.0,environment,,2,3920883,Illumina; Oxford Nanopore GridION,ambiental,499
+Acinetobacter baumannii 1326932,GCA_025854255.1,2018.0,USA,3871639.0,environment,,2,3981833,Illumina; Oxford Nanopore GridION,ambiental,16
+Acinetobacter baumannii T185,GCA_026189595.1,2019.0,USA,53893.0,draining-matting conveyor,,215,3903701,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T162,GCA_026189635.1,2019.0,USA,151381.0,draining-matting conveyor,,67,3845292,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii T184,GCA_026189655.1,2019.0,USA,55667.0,draining-matting conveyor,,209,3901218,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T161,GCA_026189665.1,2019.0,USA,55922.0,draining-matting conveyor,,183,3883123,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T183,GCA_026189815.1,2019.0,USA,151352.0,draining-matting conveyor,,61,3845888,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii T190,GCA_026189845.2,2019.0,USA,3682829.0,draining-matting conveyor,,26,4085481,Illumina HiSeq; Oxford Nanopore MinION,ambiental,360
+Acinetobacter baumannii T189,GCA_026189965.1,2019.0,USA,154370.0,draining-matting conveyor,,64,3841930,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii T188,GCA_026189975.1,2019.0,USA,53892.0,draining-matting conveyor,,210,3905717,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T160,GCA_026190095.1,2019.0,USA,53890.0,draining-matting conveyor,,193,3899523,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T177,GCA_026190115.1,2019.0,USA,151441.0,draining-matting conveyor,,67,3849052,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii T186,GCA_026190135.1,2019.0,USA,55667.0,draining-matting conveyor,,223,3894774,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T187,GCA_026190255.1,2019.0,USA,144781.0,draining-matting conveyor,,88,3936594,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii T181,GCA_026190315.1,2019.0,USA,53892.0,draining-matting conveyor,,224,3905953,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T182,GCA_026190325.1,2019.0,USA,49940.0,draining-matting conveyor,,193,3884221,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T175,GCA_026190395.1,2019.0,USA,141520.0,draining-matting conveyor,,78,3889361,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii T173,GCA_026190425.1,2019.0,USA,144835.0,draining-matting conveyor,,85,3959385,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii T157,GCA_026190415.1,2019.0,USA,53895.0,draining-matting conveyor,,227,3903532,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T176,GCA_026190435.1,2019.0,USA,49251.0,draining-matting conveyor,,182,3891252,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T159,GCA_026190445.1,2019.0,USA,141548.0,draining-matting conveyor,,73,3948570,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii T151,GCA_026190515.1,2019.0,USA,55865.0,draining-matting conveyor,,183,3887674,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T172,GCA_026190495.1,2019.0,USA,49667.0,draining-matting conveyor,,234,3909718,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T156,GCA_026190535.1,2019.0,USA,49227.0,draining-matting conveyor,,222,3894573,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T155,GCA_026190555.1,2019.0,USA,55865.0,draining-matting conveyor,,214,3909562,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T152,GCA_026190575.1,2019.0,USA,111692.0,draining-matting conveyor,,78,3935095,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii T154,GCA_026190595.1,2019.0,USA,129894.0,draining-matting conveyor,,79,3951662,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii T143,GCA_026190615.1,2019.0,USA,124469.0,draining-matting conveyor,,67,3839708,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii T153,GCA_026190635.1,2019.0,USA,49218.0,draining-matting conveyor,,183,3863231,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T138,GCA_026190675.1,2019.0,USA,141542.0,draining-matting conveyor,,70,3841132,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii T134,GCA_026190685.1,2019.0,USA,136466.0,draining-matting conveyor,,75,3989049,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii C67,GCA_026193955.1,2019.0,USA,146007.0,draining-matting conveyor,,75,3954098,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii C68,GCA_026194075.1,2019.0,USA,141487.0,draining-matting conveyor,,79,3949213,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii C107,GCA_026194095.1,2019.0,USA,56923.0,draining-matting conveyor,,199,4016954,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii C63,GCA_026194115.1,2019.0,USA,60174.0,draining-matting conveyor,,177,3889175,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii C64,GCA_026194145.1,2019.0,USA,141487.0,draining-matting conveyor,,76,3949300,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii T144,GCA_026194245.1,2019.0,USA,49881.0,draining-matting conveyor,,201,3899627,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii T119,GCA_026194385.1,2019.0,USA,129792.0,draining-matting conveyor,,82,3942082,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii T126,GCA_026194465.1,2019.0,USA,83850.0,draining-matting conveyor,,98,3989452,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii C92,GCA_026194555.1,2019.0,USA,57337.0,draining-matting conveyor,,198,4019880,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii C9,GCA_026194635.2,2019.0,USA,3881444.0,draining-matting conveyor,,12,4059506,Illumina HiSeq; Oxford Nanopore MinION,ambiental,40
+Acinetobacter baumannii C16,GCA_026194565.1,2019.0,USA,141487.0,draining-matting conveyor,,84,3950484,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii C85,GCA_026194675.1,2019.0,USA,144781.0,draining-matting conveyor,,81,3955747,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii C13,GCA_026194685.1,2019.0,USA,141487.0,draining-matting conveyor,,79,3951903,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii C39,GCA_026194795.1,2019.0,USA,53892.0,draining-matting conveyor,,219,3893662,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii C41,GCA_026194805.1,2019.0,USA,144781.0,draining-matting conveyor,,72,3953466,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii C122,GCA_026194815.1,2020.0,USA,144781.0,draining-matting conveyor,,91,3962245,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii C123,GCA_026194825.1,2020.0,USA,144781.0,draining-matting conveyor,,83,3955755,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii C42,GCA_026194895.1,2019.0,USA,53892.0,draining-matting conveyor,,181,3869969,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii C120,GCA_026194995.1,2020.0,USA,141487.0,draining-matting conveyor,,84,3960312,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii C102,GCA_026195035.1,2019.0,USA,53879.0,draining-matting conveyor,,163,3732512,Illumina HiSeq,ambiental,193
+Acinetobacter baumannii C38,GCA_026195045.1,2019.0,USA,36025.0,draining-matting conveyor,,229,3864384,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii C119,GCA_026195085.1,2020.0,USA,141487.0,draining-matting conveyor,,85,3960373,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii C118,GCA_026195135.1,2020.0,USA,144781.0,draining-matting conveyor,,84,3952781,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii C114,GCA_026195155.1,2020.0,USA,53892.0,draining-matting conveyor,,190,3881705,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii C10,GCA_026195165.1,2019.0,USA,144842.0,draining-matting conveyor,,75,3951933,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii C117,GCA_026195175.1,2020.0,USA,141487.0,draining-matting conveyor,,85,3961907,Illumina HiSeq,ambiental,40
+Acinetobacter baumannii C17,GCA_026195215.1,2019.0,USA,49036.0,draining-matting conveyor,,209,3888844,Illumina HiSeq,ambiental,360
+Acinetobacter baumannii E7,GCA_026620155.1,2015.0,Brazil,382733.0,oil reservoir,,58,4182036,Illumina NextSeq,ambiental,150
+Acinetobacter baumannii clean83,GCA_027356985.1,2016.0,China,227073.0,sediment,,32,3890078,Illumina,ambiental,52
+Acinetobacter baumannii Ab120,GCA_029478065.1,2010.0,Brazil,36985.0,river,,309,4059310,Illumina NextSeq,ambiental,79
+Acinetobacter baumannii LRT,GCA_029674805.1,2020.0,China,3718767.0,sewage,,5,3989104,Nanopore PromethION+Illumina NovaSeq,ambiental,331
+Acinetobacter baumannii LRB,GCA_029674825.1,2020.0,China,3717007.0,sewage,,5,3990218,Nanopore PromethION+Illumina NovaSeq,ambiental,331
+Acinetobacter baumannii Ab_8_4,GCA_029674845.1,2020.0,China,3715713.0,sewage,,5,3989896,Nanopore PromethION+Illumina NovaSeq,ambiental,331
+Acinetobacter baumannii GC T1 EMB CEF 3,GCA_030131185.1,2019.0,Ireland,909758.0,grass,,19,3907592,Illumina NovaSeq,ambiental,462
+Acinetobacter baumannii G2 BM LAM CEF 5,GCA_030131405.1,2019.0,Ireland,386749.0,grass,,29,3821903,Illumina NovaSeq,ambiental,2118
+Acinetobacter baumannii G2 BM SC CEF 6,GCA_030131505.1,2019.0,Ireland,909758.0,grass,,17,3907143,Illumina NovaSeq,ambiental,462
+Acinetobacter baumannii G2 BM LAM CEF 4,GCA_030131465.1,2019.0,Ireland,530972.0,grass,,22,4040395,Illumina NovaSeq,ambiental,44
+Acinetobacter baumannii 090695,GCA_030188535.1,2019.0,China,147170.0,environment,,106,4146282,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii 090693,GCA_030188435.1,2019.0,China,147293.0,environment,,103,4146112,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii 090704,GCA_030188355.1,2019.0,China,163984.0,environment,,80,4113851,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii 090697,GCA_030188455.1,2019.0,China,168217.0,environment,,78,3966487,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii 090701,GCA_030188475.1,2019.0,China,153475.0,environment,,107,4138350,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii GC T1 EMB CEF 4,GCA_030129975.1,2019.0,Ireland,2156011.0,grass,,17,3849381,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii G2 BM LAM CEF 3,GCA_030129925.1,2019.0,Ireland,530744.0,grass,,21,4040268,Illumina NovaSeq,ambiental,44
+Acinetobacter baumannii GC T3 SC CEF 1,GCA_030130005.1,2019.0,Ireland,530729.0,grass,,23,4041054,Illumina NovaSeq,ambiental,44
+Acinetobacter baumannii G2 EMB CEF 6,GCA_030130025.1,2019.0,Ireland,2156011.0,grass,,15,3849511,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii GC T1 LAM CEF 3,GCA_030130605.1,2019.0,Ireland,530972.0,grass,,20,4042033,Illumina NovaSeq,ambiental,44
+Acinetobacter baumannii GC T1 SC CEF 3,GCA_030130695.1,2019.0,Ireland,250766.0,grass,,52,4113841,Illumina NovaSeq,ambiental,1027
+Acinetobacter baumannii GC T1 SC CEF 4,GCA_030130795.1,2019.0,Ireland,250849.0,grass,,51,4114754,Illumina NovaSeq,ambiental,1027
+Acinetobacter baumannii GC T1 SC CEF 2,GCA_030130645.1,2019.0,Ireland,448651.0,grass,,20,3972463,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii GC T1 LAM CEF 1,GCA_030130845.1,2019.0,Ireland,448651.0,grass,,22,3971541,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii GC T1 EMB CEF 1,GCA_030130865.1,2019.0,Ireland,530729.0,grass,,24,4041444,Illumina NovaSeq,ambiental,44
+Acinetobacter baumannii GC T1 LAM CEF 2,GCA_030131225.1,2019.0,Ireland,909758.0,grass,,19,3907592,Illumina NovaSeq,ambiental,462
+Acinetobacter baumannii G2 BM SC CEF 3,GCA_030131345.1,2019.0,Ireland,909593.0,grass,,19,3907427,Illumina NovaSeq,ambiental,462
+Acinetobacter baumannii G2 BM SC CEF 5,GCA_030131325.1,2019.0,Ireland,909758.0,grass,,17,3907143,Illumina NovaSeq,ambiental,462
+Acinetobacter baumannii GC T1 SC CEF 1,GCA_030131625.1,2019.0,Ireland,448651.0,grass,,22,3970964,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii GC T1 LAM CEF 4,GCA_030131445.1,2019.0,Ireland,2156011.0,grass,,16,3848722,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii GC T1 LAM CEF 6,GCA_030131545.1,2019.0,Ireland,909758.0,grass,,19,3907592,Illumina NovaSeq,ambiental,462
+Acinetobacter baumannii GC T1 LAM CEF 5,GCA_030130585.1,2019.0,Ireland,909593.0,grass,,18,3907226,Illumina NovaSeq,ambiental,462
+Acinetobacter baumannii G2 BM LAM CEF 1,GCA_030130665.1,2019.0,Ireland,530972.0,grass,,19,4041804,Illumina NovaSeq,ambiental,44
+Acinetobacter baumannii G2 EMB CEF 7,GCA_030130555.1,2019.0,Ireland,386749.0,grass,,27,3822364,Illumina NovaSeq,ambiental,2118
+Acinetobacter baumannii G2 BM LAM CEF 2,GCA_030131285.1,2019.0,Ireland,2156011.0,grass,,16,3849430,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii GC T1 EMB CEF 2,GCA_030131085.1,2019.0,Ireland,1947779.0,grass,,17,3848629,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii 090686,GCA_030188495.1,2019.0,China,147170.0,environment,,100,4132530,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii 090703,GCA_030188365.1,2019.0,China,143395.0,environment,,84,3928580,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii 090688,GCA_030188385.1,2019.0,China,147170.0,environment,,100,4132383,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii 090700,GCA_030188735.1,2019.0,China,147168.0,environment,,106,4137928,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii 090696,GCA_030188415.1,2019.0,China,147168.0,environment,,106,4145922,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii 090685,GCA_030188515.1,2019.0,China,143666.0,environment,,99,4146433,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii 090690,GCA_030188565.1,2019.0,China,147168.0,environment,,98,4145494,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii 090694,GCA_030188555.1,2019.0,China,68463.0,environment,,180,4040582,Illumina NovaSeq,ambiental,203
+Acinetobacter baumannii 090699,GCA_030188635.1,2019.0,China,143392.0,environment,,84,3928807,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii 090698,GCA_030188775.1,2019.0,China,121935.0,environment,,114,4096295,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii 090705,GCA_030188795.1,2019.0,China,163938.0,environment,,79,4113050,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii C-ZR-3,GCA_031156835.1,2023.0,China,274372.0,sewage,,41,3861844,Illumina NovaSeq,ambiental,40
+Acinetobacter baumannii M-ZR-1,GCA_031156875.1,2023.0,China,71790.0,sewage,,106,3712900,Illumina NovaSeq,ambiental,131
+Acinetobacter baumannii C-ZR-15,GCA_031156895.1,2023.0,China,164344.0,sewage,,55,3928431,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii C-ZR-17,GCA_031156905.1,2023.0,China,73388.0,sewage,,122,3759738,Illumina NovaSeq,ambiental,130
+Acinetobacter baumannii M-ZR-4,GCA_031157115.1,2023.0,China,189661.0,sewage,,62,4020225,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii M-ZR-3,GCA_031157125.1,2023.0,China,189661.0,sewage,,62,4020297,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii C-ZR-51,GCA_031157155.1,2023.0,China,153484.0,sewage,,94,4120046,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii C-ZR-22,GCA_031157195.1,2023.0,China,73365.0,sewage,,122,3760769,Illumina NovaSeq,ambiental,130
+Acinetobacter baumannii C-ZR-48,GCA_031157215.1,2023.0,China,162153.0,sewage,,69,4037048,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii C-ZR-20,GCA_031157235.1,2023.0,China,73388.0,sewage,,121,3759711,Illumina NovaSeq,ambiental,130
+Acinetobacter baumannii C-SZ-70,GCA_031157665.1,2023.0,China,56911.0,sewage,,158,3694348,Illumina NovaSeq,ambiental,372
+Acinetobacter baumannii C-ZR-2,GCA_031157635.1,2023.0,China,61379.0,sewage,,140,3725530,Illumina NovaSeq,ambiental,203
+Acinetobacter baumannii M-ZR-56,GCA_031157675.1,2023.0,China,164344.0,sewage,,52,3965292,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii C-SZ-27,GCA_031157735.1,2023.0,China,258702.0,sewage,,44,4054443,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii C-RB-40,GCA_031157715.1,2023.0,China,71190.0,sewage,,141,3785288,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii C-SZ-45,GCA_031157755.1,2023.0,China,56915.0,sewage,,158,3694267,Illumina NovaSeq,ambiental,372
+Acinetobacter baumannii C-SZ-23,GCA_031157795.1,2023.0,China,259030.0,sewage,,44,4054586,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii C-RB-73,GCA_031157815.1,2023.0,China,71190.0,sewage,,140,3785426,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii C-SZ-50,GCA_031157855.1,2023.0,China,67990.0,sewage,,124,3752147,Illumina NovaSeq,ambiental,1828
+Acinetobacter baumannii C-SZ-65,GCA_031157905.1,2023.0,China,258716.0,sewage,,43,4055207,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii M-ZR-44,GCA_031157935.1,2023.0,China,164344.0,sewage,,55,3965334,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii C-SZ-13,GCA_031157995.1,2023.0,China,258526.0,sewage,,43,4053684,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii C-SZ-10,GCA_031158015.1,2023.0,China,259030.0,sewage,,47,4052733,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii M-ZR-32,GCA_031158055.1,2023.0,China,162092.0,sewage,,68,3997416,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii C-SZ-92,GCA_031158065.1,2023.0,China,258702.0,sewage,,44,4014154,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii M-RB-64,GCA_031158115.1,2023.0,China,234107.0,sewage,,61,4013104,Illumina NovaSeq,ambiental,40
+Acinetobacter baumannii C-SZ-55,GCA_031158095.1,2023.0,China,57829.0,sewage,,157,3692907,Illumina NovaSeq,ambiental,372
+Acinetobacter baumannii C-YW-34,GCA_031158165.1,2023.0,China,234107.0,sewage,,60,4013906,Illumina NovaSeq,ambiental,40
+Acinetobacter baumannii C-YW-49-2,GCA_031158195.1,2023.0,China,234107.0,sewage,,62,4012949,Illumina NovaSeq,ambiental,40
+Acinetobacter baumannii C-YW-12,GCA_031158265.1,2023.0,China,234107.0,sewage,,58,4014697,Illumina NovaSeq,ambiental,40
+Acinetobacter baumannii C-SD-84,GCA_031158295.1,2023.0,China,131012.0,sewage,,68,3944790,Illumina NovaSeq,ambiental,2
+Acinetobacter baumannii C-SD-57,GCA_031158535.1,2023.0,China,120159.0,sewage,,93,4010088,Illumina NovaSeq,ambiental,40
+Acinetobacter baumannii CUTNBT01,GCA_031632215.1,2022.0,India,120476.0,sewage,,119,4208714,Illumina NextSeq,ambiental,25
+Acinetobacter baumannii CTOTU46837,GCA_031976745.1,2013.0,USA,47480.0,urban,,150,3668809,Illumina,ambiental,1435
+Acinetobacter baumannii CTOTU46909,GCA_031979965.1,2013.0,USA,46451.0,urban,,120,3847069,Illumina,ambiental,37
+Acinetobacter baumannii CTOTU47147,GCA_031983165.1,2013.0,USA,62912.0,urban,,96,3752351,Illumina,ambiental,448
+Acinetobacter baumannii CTOTU47078,GCA_031983725.1,2013.0,USA,50057.0,urban,,135,3629988,Illumina,ambiental,428
+Acinetobacter baumannii CTOTU48210,GCA_032001925.1,2013.0,USA,50084.0,urban,,121,3796795,Illumina,ambiental,1223
+Acinetobacter baumannii CTOTU50840,GCA_032087635.1,2013.0,USA,37891.0,urban,,184,3736923,Illumina,ambiental,505
+Acinetobacter baumannii SAAb472,GCA_032822615.1,2019.0,Australia,3809697.0,lake,,1,3809697,Illumina NextSeq; Oxford Nanopore GridION,ambiental,350
+Acinetobacter baumannii OYA S31,GCA_033345455.1,2023.0,Nigeria,506077.0,soil,,33,3882953,Illumina NovaSeq,ambiental,-
+Acinetobacter baumannii strain I43,GCA_002727055.2,2014.0,Brazil,201041.0,root,,184,4159103,Illumina HiSeq,ambiental,-
+Acinetobacter baumannii strain TG15458,GCA_003948185.1,2010.0,USA,178111.0,environment,Human,62,3975972,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii strain TG15434,GCA_003948675.1,2010.0,USA,337865.0,environment,Human,36,3967573,Illumina MiSeq,ambiental,241
+Acinetobacter baumannii strain NCIMB 8209,GCA_004194555.1,1943.0,USA,3751581.0,plant,,2,3885290,Illumina HiSeq; PacBio,ambiental,1197
+Acinetobacter baumannii strain B-8557(136) strain B-8557(136) strain SCPM-O-B-8557(136),GCA_004912245.1,2013.0,Russia,265382.0,soil,Human,32,3838422,Illumina MiSeq,ambiental,-
+Acinetobacter baumannii strain LWSS- 03-02-11A,GCA_005298065.1,2018.0,Germany,159782.0,water,,102,3988296,Illumina,ambiental,388
+Acinetobacter baumannii strain LWSS- 03-02-11B,GCA_005298085.1,2018.0,Germany,159782.0,water,,102,3936469,Illumina,ambiental,388
+Acinetobacter baumannii strain E0,GCA_007113875.1,2018.0,China,168281.0,environment,,698,4117553,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii strain AB,GCA_008000275.1,2018.0,China,142430.0,environment,,137,3914530,Illumina MiSeq,ambiental,2
+Acinetobacter baumannii strain K09-14,GCA_008632635.1,2017.0,Malaysia,3972439.0,soil,,2,3980230,Illumina HiSeq; Oxford Nanopore MiniION,ambiental,46
+Acinetobacter baumannii strain RADAR24,GCA_009710715.1,2018.0,Romania,114881.0,environment,,99,3918428,Illumina MiSeq,ambiental,636
+Acinetobacter baumannii strain XL380,GCA_009740145.1,2018.0,China,3807241.0,root,,2,3919248,Illumina HiSeq; PacBio RS,ambiental,150
+Acinetobacter baumannii,GCA_031142425.1,2023-04-27,USA:SC,70985.0,sewage,,104,3909232,ILLUMINA,ambiental,109
