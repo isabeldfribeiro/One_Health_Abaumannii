@@ -88,7 +88,6 @@ Files for the phylogenomic analysis and sequence typing.
 | `tree_annotation/oxa_23_tree_annotation.txt` | iTOL annotation: presence of *bla*<sub>OXA-23</sub> |
 | `tree_annotation/oxa_24_tree_annotation.txt` | iTOL annotation: presence of *bla*<sub>OXA-24</sub> |
 
-The tree and annotation files can be loaded directly in [iTOL](https://itol.embl.de/).
 
 ### `rgi_output_tables/`
 Antimicrobial resistance genes detected by comparing the annotated protein sequences against CARD with RGI, one file per group: `rgi_{group}_table.txt`. Each row is one detection in one genome. Only genes annotated as Perfect or Strict hits were kept; Loose hits were not included.
