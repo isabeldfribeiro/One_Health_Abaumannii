@@ -1,0 +1,1260 @@
+Organism group,Assembly,Date,Location,N50,Isolation source,Contigs,Size,Platform
+Acinetobacter baumannii,GCA_001446715.1,2014-07-08,USA: New Mexico,38123,feces,203,3844542,
+Acinetobacter baumannii,GCA_016541665.2,2007-11-28,"USA:Washington, DC",113251,wound,91,4297522,ILLUMINA
+Acinetobacter baumannii,GCA_016541625.2,2008-01-14,"USA:Washington, DC",247863,wound,67,4237139,ILLUMINA
+Acinetobacter baumannii,GCA_016541465.2,2008-02-01,"USA:Washington, DC",339048,wound,44,4220534,ILLUMINA
+Acinetobacter baumannii,GCA_016541445.2,2008-03-09,"USA:Washington, DC",313691,blood,68,4256731,ILLUMINA
+Acinetobacter baumannii,GCA_016541385.2,2007-04-22,"USA:Washington, DC",167720,wound,102,4332704,ILLUMINA
+Acinetobacter baumannii,GCA_019217325.1,2007-06-01,"USA:Washington, DC",99106,urine,87,4058742,ILLUMINA
+Acinetobacter baumannii,GCA_016541605.2,2009-05-08,"USA:Washington, DC",92358,urine,130,4231086,ILLUMINA
+Acinetobacter baumannii,GCA_016541425.2,2009-08-05,"USA:Washington, DC",92358,Surveillance,128,4229743,ILLUMINA
+Acinetobacter baumannii,GCA_016541585.2,2008-03-09,"USA:Washington, DC",154268,respiratory,105,4316492,ILLUMINA
+Acinetobacter baumannii,GCA_016541545.2,2007-06-11,"USA:Washington, DC",84977,Tissue,117,4353285,ILLUMINA
+Acinetobacter baumannii,GCA_016541565.2,2007-06-21,"USA:Washington, DC",97140,Tissue,116,4308885,ILLUMINA
+Acinetobacter baumannii,GCA_016541525.2,2003-10-19,"USA:Washington, DC",97140,Sterile Fluid,110,4365379,ILLUMINA
+Acinetobacter baumannii,GCA_016541505.2,2004-04-12,"USA:Washington, DC",97140,Surveillance,111,4365807,ILLUMINA
+Acinetobacter baumannii,GCA_016541485.2,2003-10-28,"USA:Washington, DC",109097,wound,108,4381184,ILLUMINA
+Acinetobacter baumannii,GCA_016541405.2,2004-07-15,"USA:Washington, DC",84977,Surveillance,107,4363584,ILLUMINA
+Acinetobacter baumannii,GCA_016541325.2,2004-12-15,"USA:Washington, DC",97140,Surveillance,108,4365860,ILLUMINA
+Acinetobacter baumannii,GCA_016541305.2,2005-01-25,"USA:Washington, DC",97140,Surveillance,111,4353377,ILLUMINA
+Acinetobacter baumannii,GCA_016541285.2,2005-04-04,"USA:Washington, DC",97140,Surveillance,115,4364284,ILLUMINA
+Acinetobacter baumannii,GCA_016541365.2,2005-09-09,"USA:Washington, DC",84977,Surveillance,118,4354160,ILLUMINA
+Acinetobacter baumannii,GCA_016541345.2,2006-02-10,"USA:Washington, DC",81050,Surveillance,119,4352933,ILLUMINA
+Acinetobacter baumannii,GCA_016541245.2,2006-11-06,"USA:Washington, DC",81489,Surveillance,116,4351036,ILLUMINA
+Acinetobacter baumannii,GCA_016541185.2,2010-08-11,"USA:Washington, DC",175790,wound,76,4762310,ILLUMINA
+Acinetobacter baumannii,GCA_016541205.2,2010-07-28,"USA:Washington, DC",169931,blood,81,4355056,ILLUMINA
+Acinetobacter baumannii,GCA_016541005.2,2010-09-28,"USA:Washington, DC",172793,blood,79,4674545,ILLUMINA
+Acinetobacter baumannii,GCA_016540945.2,2011-04-24,"USA:Washington, DC",123245,sputum,94,4360679,ILLUMINA
+Acinetobacter baumannii,GCA_016540905.2,2011-05-26,"USA:Washington, DC",87279,wound,121,4274148,ILLUMINA
+Acinetobacter baumannii,GCA_016540985.2,2010-08-04,"USA:Washington, DC",175790,wound,73,4708582,ILLUMINA
+Acinetobacter baumannii,GCA_016540865.2,2010-08-07,"USA:Washington, DC",175790,wound,72,4758517,ILLUMINA
+Acinetobacter baumannii,GCA_016540845.2,2007-09-14,"USA:Washington, DC",124021,Warwound,93,4784741,ILLUMINA
+Acinetobacter baumannii,GCA_016540825.2,2010-07-28,"USA:Washington, DC",175790,wound,75,4730335,ILLUMINA
+Acinetobacter baumannii,GCA_016540805.2,2007-12-16,"USA:Washington, DC",251166,Warwound,71,4296469,ILLUMINA
+Acinetobacter baumannii,GCA_016540745.2,2008-01-25,"USA:Washington, DC",326532,Warwound,50,4442901,ILLUMINA
+Acinetobacter baumannii,GCA_016540785.2,2008-05-04,"USA:Washington, DC",235500,Warwound,87,4566126,ILLUMINA
+Acinetobacter baumannii,GCA_016540705.2,2008-06-25,"USA:Washington, DC",365283,Warwound,65,4603589,ILLUMINA
+Acinetobacter baumannii,GCA_016540685.2,2008-08-03,"USA:Washington, DC",341967,Warwound,56,4393977,ILLUMINA
+Acinetobacter baumannii,GCA_016540655.2,2007-10-07,"USA:Washington, DC",97140,blood,114,4340221,ILLUMINA
+Acinetobacter baumannii,GCA_016540645.2,2004-05-16,"USA:Washington, DC",97140,Surveillance,110,4340463,ILLUMINA
+Acinetobacter baumannii,GCA_016540725.2,2003-09-21,"USA:Washington, DC",101647,wound,92,4568820,ILLUMINA
+Acinetobacter baumannii,GCA_016540565.2,2003-11-09,"USA:Washington, DC",84977,wound,107,4370544,ILLUMINA
+Acinetobacter baumannii,GCA_016540575.2,2004-09-19,"USA:Washington, DC",97140,Surveillance,112,4353080,ILLUMINA
+Acinetobacter baumannii,GCA_016540555.2,2004-10-23,"USA:Washington, DC",346000,blood,43,4217455,ILLUMINA
+Acinetobacter baumannii,GCA_016540545.2,2004-11-21,"USA:Washington, DC",88783,Surveillance,115,4351832,ILLUMINA
+Acinetobacter baumannii,GCA_016540585.2,2004-01-05,"USA:Washington, DC",84976,respiratory,114,4362327,ILLUMINA
+Acinetobacter baumannii,GCA_016540445.2,2005-03-18,"USA:Washington, DC",90661,blood,115,4354064,ILLUMINA
+Acinetobacter baumannii,GCA_016540485.2,2005-05-31,"USA:Washington, DC",84977,Surveillance,114,4352296,ILLUMINA
+Acinetobacter baumannii,GCA_016540505.2,2006-10-16,"USA:Washington, DC",242577,Surveillance,65,4323916,ILLUMINA
+Acinetobacter baumannii,GCA_016540525.2,2009-03-17,"USA:Washington, DC",227699,wound,69,4689849,ILLUMINA
+Acinetobacter baumannii,GCA_016540465.2,2009-06-01,"USA:Washington, DC",198829,blood,63,4333795,ILLUMINA
+Acinetobacter baumannii,GCA_016540345.2,2007-01-04,"USA:Washington, DC",124021,blood,95,4700919,ILLUMINA
+Acinetobacter baumannii,GCA_016540395.2,2006-12-31,"USA:Washington, DC",154606,wound,82,4358740,ILLUMINA
+Acinetobacter baumannii,GCA_016540385.2,2007-02-25,"USA:Washington, DC",107518,wound,104,4713425,ILLUMINA
+Acinetobacter baumannii,GCA_016540405.2,2007-02-26,"USA:Washington, DC",124021,wound,90,4694002,ILLUMINA
+Acinetobacter baumannii,GCA_016540285.2,2007-03-09,"USA:Washington, DC",107638,blood,91,4667829,ILLUMINA
+Acinetobacter baumannii,GCA_016610525.2,2007-03-12,"USA:Washington, DC",123854,wound,94,4727696,ILLUMINA
+Acinetobacter baumannii,GCA_016540295.2,2007-04-10,"USA:Washington, DC",151518,wound,85,4367850,ILLUMINA
+Acinetobacter baumannii,GCA_016540315.2,2008-08-08,"USA:Washington, DC",223645,wound,61,4471979,ILLUMINA
+Acinetobacter baumannii,GCA_016540255.2,2008-08-31,"USA:Washington, DC",81340,wound,109,4004560,ILLUMINA
+Acinetobacter baumannii,GCA_016540185.2,2008-10-27,"USA:Washington, DC",173807,wound,67,4286825,ILLUMINA
+Acinetobacter baumannii,GCA_016540145.2,2006-06-14,"USA:Washington, DC",243976,Surveillance,60,4383928,ILLUMINA
+Acinetobacter baumannii,GCA_016540205.2,2006-07-09,"USA:Washington, DC",323425,Surveillance,62,4486658,ILLUMINA
+Acinetobacter baumannii,GCA_016540065.2,2006-10-09,"USA:Washington, DC",152036,Surveillance,84,4359485,ILLUMINA
+Acinetobacter baumannii,GCA_016540105.2,2006-08-04,"USA:Washington, DC",124021,wound,91,4746624,ILLUMINA
+Acinetobacter baumannii,GCA_016540125.2,2008-08-22,"USA:Washington, DC",412691,wound,54,4717176,ILLUMINA
+Acinetobacter baumannii,GCA_016540055.2,2011-04-17,"USA:Washington, DC",87279,Surveillance,123,4275241,ILLUMINA
+Acinetobacter baumannii,GCA_016540005.2,2004-04-24,"USA:Washington, DC",97140,respiratory,112,4365765,ILLUMINA
+Acinetobacter baumannii,GCA_016539945.2,2004-07-20,"USA:Washington, DC",97140,Surveillance,107,4350043,ILLUMINA
+Acinetobacter baumannii,GCA_016539975.2,2004-08-16,"USA:Washington, DC",97140,wound,112,4366095,ILLUMINA
+Acinetobacter baumannii,GCA_016539965.2,2004-08-23,"USA:Washington, DC",97140,Surveillance,114,4351594,ILLUMINA
+Acinetobacter baumannii,GCA_016540015.2,2004-10-14,"USA:Washington, DC",97140,blood,112,4349221,ILLUMINA
+Acinetobacter baumannii,GCA_016539895.2,2004-10-22,"USA:Washington, DC",97140,Sterile Body Site,112,4351325,ILLUMINA
+Acinetobacter baumannii,GCA_016539855.2,2004-11-01,"USA:Washington, DC",97140,Sterile Fluid,118,4350910,ILLUMINA
+Acinetobacter baumannii,GCA_016539885.2,2004-11-10,"USA:Washington, DC",97140,Surveillance,108,4366423,ILLUMINA
+Acinetobacter baumannii,GCA_016539845.2,2004-11-12,"USA:Washington, DC",97140,Sterile Body Site,110,4364371,ILLUMINA
+Acinetobacter baumannii,GCA_016539805.2,2004-11-16,"USA:Washington, DC",84977,Sterile Body Site,111,4348645,ILLUMINA
+Acinetobacter baumannii,GCA_016539785.2,2004-11-20,"USA:Washington, DC",90661,Sterile Body Site,111,4365268,ILLUMINA
+Acinetobacter baumannii,GCA_016539905.2,2004-11-29,"USA:Washington, DC",90661,Surveillance,113,4363937,ILLUMINA
+Acinetobacter baumannii,GCA_016539795.2,2004-12-15,"USA:Washington, DC",84976,Surveillance,114,4363903,ILLUMINA
+Acinetobacter baumannii,GCA_016539745.2,2004-12-28,"USA:Washington, DC",97140,Surveillance,115,4348692,ILLUMINA
+Acinetobacter baumannii,GCA_016539755.2,2005-02-17,"USA:Washington, DC",313691,Sterile Fluid,61,4346941,ILLUMINA
+Acinetobacter baumannii,GCA_016539665.2,2005-03-15,"USA:Washington, DC",97140,Surveillance,108,4345789,ILLUMINA
+Acinetobacter baumannii,GCA_016539675.2,2005-03-18,"USA:Washington, DC",97140,Surveillance,104,4352699,ILLUMINA
+Acinetobacter baumannii,GCA_016539705.2,2005-03-22,"USA:Washington, DC",97140,respiratory,111,4363869,ILLUMINA
+Acinetobacter baumannii,GCA_016539725.2,2005-05-04,"USA:Washington, DC",97140,Sterile Body Site,109,4354129,ILLUMINA
+Acinetobacter baumannii,GCA_016539465.2,2005-05-29,"USA:Washington, DC",97140,respiratory,106,4352461,ILLUMINA
+Acinetobacter baumannii,GCA_016539445.2,2005-06-26,"USA:Washington, DC",84977,urine,117,4352591,ILLUMINA
+Acinetobacter baumannii,GCA_016539335.2,2005-10-14,"USA:Washington, DC",79866,Surveillance,118,4350690,ILLUMINA
+Acinetobacter baumannii,GCA_016539275.2,2005-10-24,"USA:Washington, DC",97140,Surveillance,112,4351922,ILLUMINA
+Acinetobacter baumannii,GCA_016539405.2,2004-04-15,"USA:Washington, DC",346000,Surveillance,63,4103310,ILLUMINA
+Acinetobacter baumannii,GCA_016539385.2,2004-01-25,"USA:Washington, DC",462517,Surveillance,61,4096650,ILLUMINA
+Acinetobacter baumannii,GCA_016539365.2,2008-03-18,"USA:Washington, DC",313691,blood,65,4296209,ILLUMINA
+Acinetobacter baumannii,GCA_016539425.2,2008-03-24,"USA:Washington, DC",247863,wound,67,4217270,ILLUMINA
+Acinetobacter baumannii,GCA_016539225.2,2008-04-08,"USA:Washington, DC",148769,wound,90,4210719,ILLUMINA
+Acinetobacter baumannii,GCA_016539185.2,2008-04-12,"USA:Washington, DC",122352,wound,92,4271202,ILLUMINA
+Acinetobacter baumannii,GCA_016539195.2,2008-05-05,"USA:Washington, DC",113251,wound,93,4221086,ILLUMINA
+Acinetobacter baumannii,GCA_016539245.2,2008-05-04,"USA:Washington, DC",467197,wound,47,4544246,ILLUMINA
+Acinetobacter baumannii,GCA_016539155.2,2008-08-17,"USA:Washington, DC",230252,wound,53,4592660,ILLUMINA
+Acinetobacter baumannii,GCA_016539145.2,2008-08-29,"USA:Washington, DC",498154,wound,20,4385050,ILLUMINA
+Acinetobacter baumannii,GCA_016539105.2,2008-08-31,"USA:Washington, DC",313691,wound,66,4225794,ILLUMINA
+Acinetobacter baumannii,GCA_016539045.2,2008-09-28,"USA:Washington, DC",260230,wound,67,4282832,ILLUMINA
+Acinetobacter baumannii,GCA_016539125.2,2008-10-03,"USA:Washington, DC",247863,wound,70,4225342,ILLUMINA
+Acinetobacter baumannii,GCA_016539065.2,2008-01-25,"USA:Washington, DC",79777,wound,113,4066691,ILLUMINA
+Acinetobacter baumannii,GCA_016539055.2,2008-02-05,"USA:Washington, DC",110444,wound,82,4215784,ILLUMINA
+Acinetobacter baumannii,GCA_016538985.2,2008-03-09,"USA:Washington, DC",120975,wound,74,4142192,ILLUMINA
+Acinetobacter baumannii,GCA_016538945.2,2008-08-05,"USA:Washington, DC",260905,wound,63,4494472,ILLUMINA
+Acinetobacter baumannii,GCA_016538965.2,2008-02-06,"USA:Washington, DC",181638,wound,67,4444302,ILLUMINA
+Acinetobacter baumannii,GCA_016538845.2,2008-02-24,"USA:Washington, DC",239185,wound,61,4331128,ILLUMINA
+Acinetobacter baumannii,GCA_016538975.2,2008-03-04,"USA:Washington, DC",313691,wound,62,4308040,ILLUMINA
+Acinetobacter baumannii,GCA_016538995.2,2008-03-22,"USA:Washington, DC",247863,wound,64,4228718,ILLUMINA
+Acinetobacter baumannii,GCA_016538905.2,2008-03-26,"USA:Washington, DC",313691,wound,67,4177890,ILLUMINA
+Acinetobacter baumannii,GCA_016538885.2,2008-04-24,"USA:Washington, DC",247863,wound,66,4235551,ILLUMINA
+Acinetobacter baumannii,GCA_016538895.2,2008-04-21,"USA:Washington, DC",313691,cerebrospinal fluid,66,4327448,ILLUMINA
+Acinetobacter baumannii,GCA_016538865.2,2008-05-28,"USA:Washington, DC",247863,wound,69,4190426,ILLUMINA
+Acinetobacter baumannii,GCA_016538765.2,2007-06-11,"USA:Washington, DC",97140,Tissue,114,4350991,ILLUMINA
+Acinetobacter baumannii,GCA_016538745.2,2004-12-08,"USA:Washington, DC",90661,wound,113,4364274,ILLUMINA
+Acinetobacter baumannii,GCA_016538825.2,2004-12-17,"USA:Washington, DC",97140,Surveillance,111,4307911,ILLUMINA
+Acinetobacter baumannii,GCA_016538785.2,2004-12-26,"USA:Washington, DC",84976,Surveillance,111,4362334,ILLUMINA
+Acinetobacter baumannii,GCA_016538755.2,2004-12-26,"USA:Washington, DC",84976,Surveillance,113,4366033,ILLUMINA
+Acinetobacter baumannii,GCA_016538685.2,2004-12-30,"USA:Washington, DC",97140,respiratory,109,4363860,ILLUMINA
+Acinetobacter baumannii,GCA_016538705.2,2004-12-29,"USA:Washington, DC",90661,Surveillance,112,4365164,ILLUMINA
+Acinetobacter baumannii,GCA_016538715.2,2004-12-28,"USA:Washington, DC",97140,Sterile Body Site,116,4351135,ILLUMINA
+Acinetobacter baumannii,GCA_023320605.1,2005-01-25,"USA:Washington, DC",84976,blood,122,4412516,ILLUMINA
+Acinetobacter baumannii,GCA_016538655.2,2005-03-15,"USA:Washington, DC",97140,blood,106,4364707,ILLUMINA
+Acinetobacter baumannii,GCA_016538605.2,2004-09-28,"USA:Washington, DC",401610,wound,31,4598484,ILLUMINA
+Acinetobacter baumannii,GCA_016538615.2,2004-10-04,"USA:Washington, DC",401610,blood,30,4577373,ILLUMINA
+Acinetobacter baumannii,GCA_016538645.2,2005-12-04,"USA:Washington, DC",142830,wound,79,4364658,ILLUMINA
+Acinetobacter baumannii,GCA_016538585.2,2005-12-04,"USA:Washington, DC",152779,blood,80,4360311,ILLUMINA
+Acinetobacter baumannii,GCA_016538495.2,2008-11-03,"USA:Washington, DC",164580,wound,74,4171586,ILLUMINA
+Acinetobacter baumannii,GCA_016538535.2,2003-11-29,"USA:Washington, DC",462517,respiratory,59,4380051,ILLUMINA
+Acinetobacter baumannii,GCA_016538465.2,2003-10-04,"USA:Washington, DC",385173,respiratory,62,4492109,ILLUMINA
+Acinetobacter baumannii,GCA_016538485.2,2003-10-11,"USA:Washington, DC",385112,respiratory,61,4406798,ILLUMINA
+Acinetobacter baumannii,GCA_016538525.2,2007-10-20,"USA:Washington, DC",260412,respiratory,52,4174789,ILLUMINA
+Acinetobacter baumannii,GCA_016538365.2,2008-10-01,"USA:Washington, DC",184423,Tissue,76,4172721,ILLUMINA
+Acinetobacter baumannii,GCA_016538375.2,2008-12-04,"USA:Washington, DC",178338,respiratory,74,4278626,ILLUMINA
+Acinetobacter baumannii,GCA_016538425.2,2010-07-02,"USA:Washington, DC",255463,Surveillance,33,4422094,ILLUMINA
+Acinetobacter baumannii,GCA_016538395.2,2010-08-16,"USA:Washington, DC",151691,Surveillance,79,4376607,ILLUMINA
+Acinetobacter baumannii,GCA_016538435.2,2010-08-20,"USA:Washington, DC",83318,Surveillance,129,4301328,ILLUMINA
+Acinetobacter baumannii,GCA_016538345.2,2010-08-23,"USA:Washington, DC",378152,wound,18,4425843,ILLUMINA
+Acinetobacter baumannii,GCA_016538265.2,2010-08-27,"USA:Washington, DC",172793,wound,76,4461236,ILLUMINA
+Acinetobacter baumannii,GCA_016538305.2,2010-09-14,"USA:Washington, DC",292868,Surveillance,37,4326527,ILLUMINA
+Acinetobacter baumannii,GCA_016537845.2,2008-11-05,"USA:Washington, DC",302945,wound,29,4272191,ILLUMINA
+Acinetobacter baumannii,GCA_016537895.2,2009-06-16,"USA:Washington, DC",259948,Surveillance,51,4507400,ILLUMINA
+Acinetobacter baumannii,GCA_016537675.2,2009-10-01,"USA:Washington, DC",128394,Tissue,69,3987841,ILLUMINA
+Acinetobacter baumannii,GCA_016537775.2,2009-10-02,"USA:Washington, DC",163914,urine,83,4258506,ILLUMINA
+Acinetobacter baumannii,GCA_016537605.2,2011-05-02,"USA:Washington, DC",167034,wound,67,4702123,ILLUMINA
+Acinetobacter baumannii,GCA_016537555.2,2003-07-19,"USA:Washington, DC",462517,Surveillance,59,4360842,ILLUMINA
+Acinetobacter baumannii,GCA_016537745.2,2006-11-29,"USA:Washington, DC",242577,Sterile Body Site,65,4367057,ILLUMINA
+Acinetobacter baumannii,GCA_016537765.2,2004-04-12,"USA:Washington, DC",97140,Surveillance,109,4363281,ILLUMINA
+Acinetobacter baumannii,GCA_016537755.2,2004-06-04,"USA:Washington, DC",97140,respiratory,107,4352248,ILLUMINA
+Acinetobacter baumannii,GCA_016537725.2,2004-07-01,"USA:Washington, DC",97140,Sterile Body Site,113,4366138,ILLUMINA
+Acinetobacter baumannii,GCA_016537545.2,2004-08-15,"USA:Washington, DC",97140,Surveillance,111,4353920,ILLUMINA
+Acinetobacter baumannii,GCA_016537665.2,2004-08-15,"USA:Washington, DC",84977,Surveillance,110,4363655,ILLUMINA
+Acinetobacter baumannii,GCA_016537525.2,2004-08-17,"USA:Washington, DC",97140,respiratory,113,4352350,ILLUMINA
+Acinetobacter baumannii,GCA_016537505.2,2004-09-09,"USA:Washington, DC",84977,Sterile Fluid,112,4352288,ILLUMINA
+Acinetobacter baumannii,GCA_016537405.2,2004-09-21,"USA:Washington, DC",97140,Sterile Body Site,111,4353296,ILLUMINA
+Acinetobacter baumannii,GCA_016537465.2,2004-10-11,"USA:Washington, DC",97140,Surveillance,116,4352045,ILLUMINA
+Acinetobacter baumannii,GCA_016537415.2,2004-10-23,"USA:Washington, DC",97140,Surveillance,111,4352953,ILLUMINA
+Acinetobacter baumannii,GCA_016537455.2,2004-10-24,"USA:Washington, DC",97140,Surveillance,115,4352951,ILLUMINA
+Acinetobacter baumannii,GCA_016537445.2,2004-10-21,"USA:Washington, DC",97140,blood,112,4351543,ILLUMINA
+Acinetobacter baumannii,GCA_016537315.2,2004-10-22,"USA:Washington, DC",97140,Sterile Body Site,111,4350683,ILLUMINA
+Acinetobacter baumannii,GCA_016537305.2,2004-11-02,"USA:Washington, DC",81489,wound,114,4350658,ILLUMINA
+Acinetobacter baumannii,GCA_016537375.2,2004-11-02,"USA:Washington, DC",97140,Sterile Body Site,114,4358578,ILLUMINA
+Acinetobacter baumannii,GCA_016537355.2,2004-11-10,"USA:Washington, DC",81050,respiratory,116,4366082,ILLUMINA
+Acinetobacter baumannii,GCA_016537265.2,2004-11-10,"USA:Washington, DC",81489,Surveillance,114,4351284,ILLUMINA
+Acinetobacter baumannii,GCA_016537085.2,2004-11-10,"USA:Washington, DC",88688,wound,112,4250648,ILLUMINA
+Acinetobacter baumannii,GCA_016537055.2,2004-11-16,"USA:Washington, DC",97140,Surveillance,115,4301749,ILLUMINA
+Acinetobacter baumannii,GCA_016537075.2,2004-11-14,"USA:Washington, DC",97140,Surveillance,111,4351661,ILLUMINA
+Acinetobacter baumannii,GCA_016536985.2,2004-11-20,"USA:Washington, DC",84976,blood,114,4365053,ILLUMINA
+Acinetobacter baumannii,GCA_016537045.2,2004-11-19,"USA:Washington, DC",84977,Sterile Body Site,114,4353253,ILLUMINA
+Acinetobacter baumannii,GCA_016537025.2,2004-11-21,"USA:Washington, DC",90661,Sterile Body Site,112,4366690,ILLUMINA
+Acinetobacter baumannii,GCA_016536965.2,2004-11-30,"USA:Washington, DC",90661,Surveillance,113,4364230,ILLUMINA
+Acinetobacter baumannii,GCA_016537005.2,2007-01-20,"USA:Washington, DC",318053,Tissue,63,4676282,ILLUMINA
+Acinetobacter baumannii,GCA_016537065.2,2007-02-11,"USA:Washington, DC",240470,wound,73,4285865,ILLUMINA
+Acinetobacter baumannii,GCA_016536865.2,2007-03-03,"USA:Washington, DC",134605,Tissue,100,4361384,ILLUMINA
+Acinetobacter baumannii,GCA_016536895.2,2007-05-19,"USA:Washington, DC",221345,wound,63,4363549,ILLUMINA
+Acinetobacter baumannii,GCA_016536925.2,2007-06-02,"USA:Washington, DC",172843,urine,102,4565034,ILLUMINA
+Acinetobacter baumannii,GCA_016536905.2,2007-06-09,"USA:Washington, DC",247863,Tissue,71,4314926,ILLUMINA
+Acinetobacter baumannii,GCA_016536875.2,2007-07-20,"USA:Washington, DC",160677,wound,85,3987290,ILLUMINA
+Acinetobacter baumannii,GCA_016536845.2,2007-08-19,"USA:Washington, DC",462386,wound,21,4608303,ILLUMINA
+Acinetobacter baumannii,GCA_016536825.2,2007-10-14,"USA:Washington, DC",313691,wound,64,4270352,ILLUMINA
+Acinetobacter baumannii,GCA_016536795.2,2007-11-07,"USA:Washington, DC",313691,Tissue,64,4335746,ILLUMINA
+Acinetobacter baumannii,GCA_016536725.2,2007-11-27,"USA:Washington, DC",313691,blood,64,4272682,ILLUMINA
+Acinetobacter baumannii,GCA_016536785.2,2007-07-09,"USA:Washington, DC",310754,wound,41,4262463,ILLUMINA
+Acinetobacter baumannii,GCA_016536735.2,2009-03-10,"USA:Washington, DC",146296,urine,80,4340354,ILLUMINA
+Acinetobacter baumannii,GCA_016536745.2,2009-01-14,"USA:Washington, DC",228289,Surveillance,54,4478681,ILLUMINA
+Acinetobacter baumannii,GCA_016536645.2,2009-01-15,"USA:Washington, DC",191767,blood,56,4215472,ILLUMINA
+Acinetobacter baumannii,GCA_016536695.2,2008-02-12,"USA:Washington, DC",313691,urine,69,4344403,ILLUMINA
+Acinetobacter baumannii,GCA_016536635.2,2008-05-05,"USA:Washington, DC",113251,wound,104,4273620,ILLUMINA
+Acinetobacter baumannii,GCA_016536685.2,2008-05-05,"USA:Washington, DC",122352,wound,94,4266800,ILLUMINA
+Acinetobacter baumannii,GCA_016536545.2,2008-08-27,"USA:Washington, DC",110071,Surveillance,105,4170344,ILLUMINA
+Acinetobacter baumannii,GCA_016536605.2,2008-10-18,"USA:Washington, DC",284631,wound,51,4552342,ILLUMINA
+Acinetobacter baumannii,GCA_016536525.2,2008-12-02,"USA:Washington, DC",287131,wound,59,4678857,ILLUMINA
+Acinetobacter baumannii,GCA_016536585.2,2003-04-25,"USA:Washington, DC",160677,,95,4346112,ILLUMINA
+Acinetobacter baumannii,GCA_016536535.2,2003-11-16,"USA:Washington, DC",360278,,38,4272073,ILLUMINA
+Acinetobacter baumannii,GCA_016536475.2,2003-11-17,"USA:Washington, DC",457225,wound,26,4526575,ILLUMINA
+Acinetobacter baumannii,GCA_016536465.2,2003-06-16,"USA:Washington, DC",120976,Tissue,70,4180174,ILLUMINA
+Acinetobacter baumannii,GCA_016536445.2,2003-06-16,"USA:Washington, DC",247863,blood,60,4483637,ILLUMINA
+Acinetobacter baumannii,GCA_016536485.2,2003-09-27,"USA:Washington, DC",271028,respiratory,64,4468284,ILLUMINA
+Acinetobacter baumannii,GCA_016536425.2,2003-10-24,"USA:Washington, DC",489325,Sterile Fluid,45,4389579,ILLUMINA
+Acinetobacter baumannii,GCA_016536375.2,2008-09-22,"USA:Washington, DC",247863,wound,69,4162034,ILLUMINA
+Acinetobacter baumannii,GCA_016536345.2,2007-12-26,"USA:Washington, DC",313691,respiratory,64,4385343,ILLUMINA
+Acinetobacter baumannii,GCA_016536325.2,2003-04-25,"USA:Washington, DC",377333,wound,33,4489725,ILLUMINA
+Acinetobacter baumannii,GCA_016536355.2,2003-04-20,"USA:Washington, DC",160677,wound,86,4371792,ILLUMINA
+Acinetobacter baumannii,GCA_016536395.2,2003-05-27,"USA:Washington, DC",120977,respiratory,68,4243714,ILLUMINA
+Acinetobacter baumannii,GCA_016536285.2,2004-02-23,"USA:Washington, DC",247863,Surveillance,40,4271238,ILLUMINA
+Acinetobacter baumannii,GCA_016536305.2,2004-03-11,"USA:Washington, DC",273188,Surveillance,42,4211610,ILLUMINA
+Acinetobacter baumannii,GCA_016536225.2,2004-04-13,"USA:Washington, DC",189179,Sterile Body Site,74,4397374,ILLUMINA
+Acinetobacter baumannii,GCA_016536185.2,2004-04-24,"USA:Washington, DC",247863,Surveillance,55,4184851,ILLUMINA
+Acinetobacter baumannii,GCA_016536265.2,2004-05-12,"USA:Washington, DC",339047,wound,55,4208567,ILLUMINA
+Acinetobacter baumannii,GCA_016536235.2,2003-07-16,"USA:Washington, DC",317964,Surveillance,57,4518531,ILLUMINA
+Acinetobacter baumannii,GCA_016536025.2,2003-11-02,"USA:Washington, DC",205337,Surveillance,72,4503405,ILLUMINA
+Acinetobacter baumannii,GCA_016535945.2,2003-12-18,"USA:Washington, DC",221416,Sterile Body Site,70,4518034,ILLUMINA
+Acinetobacter baumannii,GCA_016535985.2,2004-07-10,"USA:Washington, DC",181635,respiratory,96,4507954,ILLUMINA
+Acinetobacter baumannii,GCA_016536005.2,2004-08-19,"USA:Washington, DC",180690,Sterile Body Site,75,4394597,ILLUMINA
+Acinetobacter baumannii,GCA_016537535.2,2004-09-26,"USA:Washington, DC",180690,Surveillance,76,4303794,ILLUMINA
+Acinetobacter baumannii,GCA_016537345.2,2004-10-11,"USA:Washington, DC",180690,respiratory,79,4326922,ILLUMINA
+Acinetobacter baumannii,GCA_016537285.2,2004-10-19,"USA:Washington, DC",181635,Sterile Body Site,97,4554632,ILLUMINA
+Acinetobacter baumannii,GCA_016537245.2,2004-12-08,"USA:Washington, DC",124021,Sterile Body Site,84,4660774,ILLUMINA
+Acinetobacter baumannii,GCA_016537635.2,2004-12-07,"USA:Washington, DC",127588,blood,84,4516322,ILLUMINA
+Acinetobacter baumannii,GCA_016537215.2,2005-02-11,"USA:Washington, DC",92650,blood,90,4172764,ILLUMINA
+Acinetobacter baumannii,GCA_016537685.2,2005-03-03,"USA:Washington, DC",247863,blood,68,4259520,ILLUMINA
+Acinetobacter baumannii,GCA_016537155.2,2005-04-21,"USA:Washington, DC",152848,Sterile Body Site,81,4362822,ILLUMINA
+Acinetobacter baumannii,GCA_016537625.2,2005-04-23,"USA:Washington, DC",109209,respiratory,97,4578984,ILLUMINA
+Acinetobacter baumannii,GCA_016537145.2,2005-05-04,"USA:Washington, DC",368592,Surveillance,45,4509061,ILLUMINA
+Acinetobacter baumannii,GCA_016537185.2,2005-09-16,"USA:Washington, DC",346000,blood,57,3996233,ILLUMINA
+Acinetobacter baumannii,GCA_002245665.1,2011-10-18,Brazil,35939,bedside table,248,3877561,
+Acinetobacter baumannii,GCA_004378605.1,2015-10,Brazil:Ribeirao Preto,471749,soil,30,3882472,
+Acinetobacter baumannii,GCA_004564095.1,2018,Czech Republic,3708164,,4,3956226,
+Acinetobacter baumannii,GCA_005298085.1,2018,Germany,159782,water,102,3936469,
+Acinetobacter baumannii,GCA_005298065.1,2018,Germany,159782,water,102,3988296,
+Acinetobacter baumannii,GCA_008000275.1,2018-11-21,China:Shenzhen,142430,Environment,138,3914530,
+Acinetobacter baumannii,GCA_008124045.1,2018-05-18,,3843574,mouse gut,1,3843574,
+Acinetobacter baumannii,GCA_008632635.1,2017-12-10,Malaysia,3972439,soil,2,3980230,
+Acinetobacter baumannii,GCA_016497365.1,2016-03-28,Korea: Seongnam,87114,Bed surface,108,4053623,ILLUMINA
+Acinetobacter baumannii,GCA_016497285.1,2016-03-25,Korea: Seongnam,118868,Bed surface,103,4023380,ILLUMINA
+Acinetobacter baumannii,GCA_016497305.1,2016-03-25,Korea: Seongnam,141739,Keyboard surface,79,4167043,ILLUMINA
+Acinetobacter baumannii,GCA_016497245.1,2016-03-28,Korea: Seongnam,87836,Bed surface,109,4053567,ILLUMINA
+Acinetobacter baumannii,GCA_012974585.1,2017-12,China:Guangdong province,3861977,trachea,2,4126782,
+Acinetobacter baumannii,GCA_014323505.1,2018-06,"Dominican Republic:Santo Domingo, Isabela River",253391,,47,4205625,
+Acinetobacter baumannii,GCA_014705645.1,2018-06,Dominican Republic:Santo Domingo,383375,Isabela River,45,4461496,
+Acinetobacter baumannii,GCA_014705785.1,2007,USA:DC,4040626,urine,2,4151591,
+Acinetobacter baumannii,GCA_014705825.1,2009,USA:DC,4031161,urine,2,4045800,
+Acinetobacter baumannii,GCA_014712715.1,2018-06,Dominican Republic:Santo Domingo,328795,Isabela River,48,3993158,
+Acinetobacter baumannii,GCA_014858025.1,2018-06,Dominican Republic:Santo Domingo,372323,Isabela River,53,4491903,
+Acinetobacter baumannii,GCA_014858045.1,2018-06,Dominican Republic:Santo Domingo,382684,Isabela River,53,3995472,
+Acinetobacter baumannii,GCA_014858105.1,2018-06,Dominican Republic:Santo Domingo,445244,Isabela River,45,4465154,
+Acinetobacter baumannii,GCA_014926505.1,2018-06,Dominican Republic:Santo Domingo,400571,Isabela River,64,4690858,
+Acinetobacter baumannii,GCA_015571935.1,2018-01-17,Canada: Quebec,3747579,swab,5,3953079,
+Acinetobacter baumannii,GCA_015676585.1,2018-01-17,Canada: Quebec,28626,swab,263,3809181,
+Acinetobacter baumannii,GCA_015676635.1,2018-01-17,Canada: Quebec,36099,swab,265,3987853,
+Acinetobacter baumannii,GCA_015676835.1,2018-01-17,Canada: Quebec,25752,swab,300,3778658,
+Acinetobacter baumannii,GCA_015676875.1,2018-01-17,Canada: Quebec,24432,swab,302,3803897,
+Acinetobacter baumannii,GCA_016064815.1,2017-03-15,Malaysia,4070688,soil,1,4070688,
+Acinetobacter baumannii,GCA_016811255.1,2018-01-20,"USA:Washington, D.C.",108527,ground beef,86,4131543,
+Acinetobacter baumannii,GCA_017298055.1,2020,USA:CA,116946,Animal-Calf-Bob Veal,61,4180522,ILLUMINA
+Acinetobacter baumannii,GCA_017897205.1,2018-06,Dominican Republic:Santo Domingo,323883,Ozama River,40,3841475,
+Acinetobacter baumannii,GCA_018138965.1,2018-11-25,China:ShangHai Zoo,3936987,Ailuropoda melanoleuca,1,3936987,
+Acinetobacter baumannii,GCA_018361325.1,2017-05,South Africa,185924,hospital wastewater,105,4041888,
+Acinetobacter baumannii,GCA_018831465.1,2015,Lebanon,3764882,Animal (cat),1,3764882,
+Acinetobacter baumannii,GCA_018831485.1,2012,Lebanon,3935232,Water (artesian well),2,3947076,
+Acinetobacter baumannii,GCA_019264765.1,,Thailand,24802,other,334,3954626,
+Acinetobacter baumannii,GCA_019264785.1,,Thailand: Phra Nakhon Si Ayutthaya,37203,food,334,3780190,
+Acinetobacter baumannii,GCA_019264805.1,,Thailand: Nakhon Ratchasima,31703,food,344,3780190,
+Acinetobacter baumannii,GCA_019264845.1,,Thailand: Narathiwat,34206,food,328,3780190,
+Acinetobacter baumannii,GCA_019352475.1,2019-10,Reunion,75212,Chair in hospital room,113,3949516,
+Acinetobacter baumannii,GCA_019903155.1,,Finland,3970467,paper mill kaolin,4,4106662,
+Acinetobacter baumannii,GCA_019903175.1,,USA,3816508,field soil,1,3816508,
+Acinetobacter baumannii,GCA_019903195.1,,USA,3810320,field soil,1,3810320,
+Acinetobacter baumannii,GCA_019903215.1,,France,3776716,Seine River,1,3776716,
+Acinetobacter baumannii,GCA_020110975.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Computer_P19_BU20,155,4643337,ILLUMINA
+Acinetobacter baumannii,GCA_020108075.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82687,Infusion stand_P8_BU9,162,4560567,ILLUMINA
+Acinetobacter baumannii,GCA_020113595.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",112191,Ventilator_P132_BU20,152,4595101,ILLUMINA
+Acinetobacter baumannii,GCA_020108115.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",104813,Bedside table_P57_BU19,98,4159253,ILLUMINA
+Acinetobacter baumannii,GCA_020108135.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127031,Bed controller_P57_BU19,149,4579677,ILLUMINA
+Acinetobacter baumannii,GCA_020107975.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127031,ECG monitor_P57_BU19,138,4595611,ILLUMINA
+Acinetobacter baumannii,GCA_020107995.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",77911,Ventilator_P57_BU19,140,4393109,ILLUMINA
+Acinetobacter baumannii,GCA_020108015.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",74442,Bedside table_P19_BU18,141,4474161,ILLUMINA
+Acinetobacter baumannii,GCA_020107955.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",77849,Ventilator shelf_P19_BU18,133,4335732,ILLUMINA
+Acinetobacter baumannii,GCA_020112315.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93943,Syringe driver_P19_BU18,118,4525805,ILLUMINA
+Acinetobacter baumannii,GCA_020108925.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90420,Ventilator_P138_BU17,178,4449499,ILLUMINA
+Acinetobacter baumannii,GCA_020107895.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",94329,Nebuliser_P137_BU16,164,4388502,ILLUMINA
+Acinetobacter baumannii,GCA_020110955.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",107961,ECG monitor_P19_BU20,104,4421308,ILLUMINA
+Acinetobacter baumannii,GCA_020108435.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",76159,Syringe driver_P137_BU16,126,4180762,ILLUMINA
+Acinetobacter baumannii,GCA_020107915.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93905,Bed controller_P135_BU13,118,4363239,ILLUMINA
+Acinetobacter baumannii,GCA_020107935.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",92483,Syringe driver_P126_BU12,108,4283935,ILLUMINA
+Acinetobacter baumannii,GCA_020108955.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",99473,Infusion stand_P113_BU11,100,4096593,ILLUMINA
+Acinetobacter baumannii,GCA_020107875.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90405,Nebuliser_P113_BU11,116,4327084,ILLUMINA
+Acinetobacter baumannii,GCA_020107855.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",102699,Syringe driver_P113_BU11,113,4462864,ILLUMINA
+Acinetobacter baumannii,GCA_020113615.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",74745,ECG monitor_P113_BU11,124,4280691,ILLUMINA
+Acinetobacter baumannii,GCA_020107835.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",77786,Bed rail_P113_BU11,131,4421118,ILLUMINA
+Acinetobacter baumannii,GCA_020107795.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90407,Dispensing trolley_P121_BU10,123,4408413,ILLUMINA
+Acinetobacter baumannii,GCA_020113555.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",94523,Nebuliser_P121_BU10,118,4457467,ILLUMINA
+Acinetobacter baumannii,GCA_020108235.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Ventilator_P19_BU20,102,4466770,ILLUMINA
+Acinetobacter baumannii,GCA_020111935.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",68932,Inside sink drain_P91_BU9,220,4456879,ILLUMINA
+Acinetobacter baumannii,GCA_020108255.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82837,Computer_P91_BU9,212,4540310,ILLUMINA
+Acinetobacter baumannii,GCA_020107695.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",78440,Nebuliser_P91_BU9,190,4558391,ILLUMINA
+Acinetobacter baumannii,GCA_020107635.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82646,ECG monitor_P91_BU9,203,4437154,ILLUMINA
+Acinetobacter baumannii,GCA_020108455.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",60368,Ventilator_P91_BU9,218,4468294,ILLUMINA
+Acinetobacter baumannii,GCA_020113475.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",64052,Ventilator shelf_P87_BU8,211,4461571,ILLUMINA
+Acinetobacter baumannii,GCA_020108485.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",78655,Bed rail_P91_BU9,200,4507763,ILLUMINA
+Acinetobacter baumannii,GCA_020107655.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93962,Syringe driver_P87_BU8,201,4576823,ILLUMINA
+Acinetobacter baumannii,GCA_020107675.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",106483,Ventilator_P87_BU8,130,4689763,ILLUMINA
+Acinetobacter baumannii,GCA_020107715.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Nebuliser_P134_BU7,123,4620273,ILLUMINA
+Acinetobacter baumannii,GCA_020107815.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",77387,Bedside table_P35_BU19,132,4269952,ILLUMINA
+Acinetobacter baumannii,GCA_020109005.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90460,Ventilator shelf_P115_BU5,138,4551810,ILLUMINA
+Acinetobacter baumannii,GCA_020107775.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",100982,Syringe driver_P115_BU5,132,4533388,ILLUMINA
+Acinetobacter baumannii,GCA_020113535.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",71004,ECG monitor_P115_BU5,162,4589627,ILLUMINA
+Acinetobacter baumannii,GCA_020107755.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",102345,Bed rail_P115_BU5,123,4629861,ILLUMINA
+Acinetobacter baumannii,GCA_020113505.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",97066,Infusion stand_P131_BU4,111,4531249,ILLUMINA
+Acinetobacter baumannii,GCA_020107735.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",98187,Bed controller_P131_BU4,139,4613399,ILLUMINA
+Acinetobacter baumannii,GCA_020107615.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",88584,Ventilator shelf_P131_BU4,191,4433366,ILLUMINA
+Acinetobacter baumannii,GCA_020107595.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",87616,Nebuliser_P131_BU4,192,4511108,ILLUMINA
+Acinetobacter baumannii,GCA_020107555.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",46691,Switch button_P131_BU4,252,4367298,ILLUMINA
+Acinetobacter baumannii,GCA_020107575.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",59438,Bed rail_P3_BU2,172,4551943,ILLUMINA
+Acinetobacter baumannii,GCA_020110815.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127030,Ventilator shelf_P35_BU19,84,4305541,ILLUMINA
+Acinetobacter baumannii,GCA_020107535.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",94287,Ventilator_P26_BU28,184,4449106,ILLUMINA
+Acinetobacter baumannii,GCA_020107515.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",86861,Bed rail_P26_BU28,116,4252082,ILLUMINA
+Acinetobacter baumannii,GCA_020109035.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",85955,Ventilator shelf_P77_BU25,195,4541377,ILLUMINA
+Acinetobacter baumannii,GCA_020107495.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90442,Syringe driver_P77_BU25,196,4358517,ILLUMINA
+Acinetobacter baumannii,GCA_020107475.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",106274,ECG monitor_P77_BU25,126,4532321,ILLUMINA
+Acinetobacter baumannii,GCA_020107455.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109120,Syringe driver_P97_BU24,102,4454397,ILLUMINA
+Acinetobacter baumannii,GCA_020107435.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",97115,Bed rail_P97_BU24,189,4581541,ILLUMINA
+Acinetobacter baumannii,GCA_020107395.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",92434,Bedside table_P130_BU23,105,4372456,ILLUMINA
+Acinetobacter baumannii,GCA_020107375.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",115335,Ventilator shelf_P130_BU23,89,4302549,ILLUMINA
+Acinetobacter baumannii,GCA_020107415.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",126795,Stethoscope_P130_BU23,89,4408400,ILLUMINA
+Acinetobacter baumannii,GCA_020107355.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Ventilator shelf_P27_BU18,147,4642613,ILLUMINA
+Acinetobacter baumannii,GCA_020107295.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",115423,Syringe driver_P130_BU23,92,4440040,ILLUMINA
+Acinetobacter baumannii,GCA_020107275.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",73812,ECG monitor_P101_BU22,141,4264118,ILLUMINA
+Acinetobacter baumannii,GCA_020107335.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",100982,Ventilator_P101_BU22,109,4484945,ILLUMINA
+Acinetobacter baumannii,GCA_020107315.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",84079,Bedside table_P124_BU21,190,4514333,ILLUMINA
+Acinetobacter baumannii,GCA_020107255.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",102071,Nebuliser_P124_BU21,169,4484361,ILLUMINA
+Acinetobacter baumannii,GCA_020107215.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",100982,Bed rail_P124_BU21,169,4478958,ILLUMINA
+Acinetobacter baumannii,GCA_020107175.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109961,Ventilator_P50_BU20,159,4569682,ILLUMINA
+Acinetobacter baumannii,GCA_020110155.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",113904,Ventilator_P19_BU18,101,4416949,ILLUMINA
+Acinetobacter baumannii,GCA_020107195.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",113904,Bed rail_P19_BU18,96,4378244,ILLUMINA
+Acinetobacter baumannii,GCA_020107155.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",126784,Nebuliser_P27_BU18,86,4508400,ILLUMINA
+Acinetobacter baumannii,GCA_020107095.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",130855,Bedside table_P96_BU15,93,4066997,ILLUMINA
+Acinetobacter baumannii,GCA_020113495.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",113771,Syringe driver_P127_BU14,95,4206381,ILLUMINA
+Acinetobacter baumannii,GCA_020107075.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Nebuliser_NA_BU13,177,4482745,ILLUMINA
+Acinetobacter baumannii,GCA_020107135.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",130854,Ventilator_NA_BU13,88,4223624,ILLUMINA
+Acinetobacter baumannii,GCA_020107105.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",106164,Bed rail_NA_BU13,106,4263059,ILLUMINA
+Acinetobacter baumannii,GCA_020106845.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",121905,Switch button_NA_BU12,93,4269086,ILLUMINA
+Acinetobacter baumannii,GCA_020106875.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",115461,Infusion stand_NA_BU11,174,4374173,ILLUMINA
+Acinetobacter baumannii,GCA_020106895.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",84071,ECG monitor_NA_BU11,203,4534288,ILLUMINA
+Acinetobacter baumannii,GCA_020107055.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",121738,Ventilator_P125_BU10,170,4599134,ILLUMINA
+Acinetobacter baumannii,GCA_020107035.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",122278,Bedside table_P91_BU9,172,4559077,ILLUMINA
+Acinetobacter baumannii,GCA_020107015.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",115422,Computer_P34_BU17,90,4300381,ILLUMINA
+Acinetobacter baumannii,GCA_020110175.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",121738,Stethoscope_P91_BU9,176,4567890,ILLUMINA
+Acinetobacter baumannii,GCA_020106995.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Nebuliser_P91_BU9,174,4636581,ILLUMINA
+Acinetobacter baumannii,GCA_020106915.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109956,Syringe driver_P91_BU9,180,4600648,ILLUMINA
+Acinetobacter baumannii,GCA_020106975.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",115441,ECG monitor_P91_BU9,181,4528742,ILLUMINA
+Acinetobacter baumannii,GCA_020106955.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Ventilator_P91_BU9,177,4601640,ILLUMINA
+Acinetobacter baumannii,GCA_020113775.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Bed rail_P91_BU9,181,4468738,ILLUMINA
+Acinetobacter baumannii,GCA_020106835.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",115441,Bedside table_P87_BU8,133,4533507,ILLUMINA
+Acinetobacter baumannii,GCA_020110795.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127029,Dispensing trolley_P121_BU7,108,4701941,ILLUMINA
+Acinetobacter baumannii,GCA_020106935.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",97009,Syringe driver_P121_BU7,98,4201231,ILLUMINA
+Acinetobacter baumannii,GCA_020106815.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",104946,Infusion stand_P113_BU6,103,4296886,ILLUMINA
+Acinetobacter baumannii,GCA_020106755.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",115422,Ventilator shelf_P34_BU17,85,4504513,ILLUMINA
+Acinetobacter baumannii,GCA_020109855.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",115422,Ventilator_P113_BU6,95,4492845,ILLUMINA
+Acinetobacter baumannii,GCA_020106775.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Bedside table_P115_BU5,178,4600255,ILLUMINA
+Acinetobacter baumannii,GCA_020106795.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",94007,Stethoscope_P115_BU5,127,4668920,ILLUMINA
+Acinetobacter baumannii,GCA_020106735.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",119974,Ventilator_P115_BU5,115,4707777,ILLUMINA
+Acinetobacter baumannii,GCA_020106555.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",106474,Bed rail_P115_BU5,115,4655766,ILLUMINA
+Acinetobacter baumannii,GCA_020106715.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Syringe driver_P4_BU3,116,4714052,ILLUMINA
+Acinetobacter baumannii,GCA_020106695.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",100982,Bed rail_P26_BU28,171,4634491,ILLUMINA
+Acinetobacter baumannii,GCA_020106675.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",104659,Bedside table_P77_BU25,171,4574804,ILLUMINA
+Acinetobacter baumannii,GCA_020106635.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",38981,Nebuliser_P77_BU25,270,4517044,ILLUMINA
+Acinetobacter baumannii,GCA_020106575.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",54760,Infusion stand_NA_BU23,182,4243508,ILLUMINA
+Acinetobacter baumannii,GCA_020109835.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",136853,Dispensing trolley_P31_BU12,71,4371344,ILLUMINA
+Acinetobacter baumannii,GCA_020110835.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",57984,Bedside table_P101_BU22,155,4229348,ILLUMINA
+Acinetobacter baumannii,GCA_020106595.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",50406,Ventilator_P101_BU22,238,4628646,ILLUMINA
+Acinetobacter baumannii,GCA_020106535.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",69276,Bed rail_P101_BU22,139,4261922,ILLUMINA
+Acinetobacter baumannii,GCA_020106515.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90408,Sink countertop_P50_BU21,116,4401206,ILLUMINA
+Acinetobacter baumannii,GCA_020106655.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",61126,Stethoscope_P50_BU21,162,4503556,ILLUMINA
+Acinetobacter baumannii,GCA_020106615.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",51325,Bed rail_P50_BU21,182,4345360,ILLUMINA
+Acinetobacter baumannii,GCA_020106495.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",78705,Nebuliser_P122_BU20,183,4567078,ILLUMINA
+Acinetobacter baumannii,GCA_020106455.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82035,Dispensing trolley_P121_BU17,123,4237814,ILLUMINA
+Acinetobacter baumannii,GCA_020106475.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90445,Infusion stand_P121_BU17,127,4245212,ILLUMINA
+Acinetobacter baumannii,GCA_020106315.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",67794,Bedside table_P121_BU17,154,4370197,ILLUMINA
+Acinetobacter baumannii,GCA_020106275.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109980,Ventilator_P7_BU6,160,4631317,ILLUMINA
+Acinetobacter baumannii,GCA_020106415.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",78662,Bed rail_NA_BU7,189,4617698,ILLUMINA
+Acinetobacter baumannii,GCA_020106295.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",130855,Bedside table_P120_BU16,120,4127892,ILLUMINA
+Acinetobacter baumannii,GCA_020112295.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82084,Bedside table_P96_BU15,113,4316192,ILLUMINA
+Acinetobacter baumannii,GCA_020106335.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",67841,Bed controller_P96_BU15,127,4271775,ILLUMINA
+Acinetobacter baumannii,GCA_020111875.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",140786,Ventilator shelf_P96_BU15,99,4030224,ILLUMINA
+Acinetobacter baumannii,GCA_020106255.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",83167,ECG monitor_P96_BU15,117,4274796,ILLUMINA
+Acinetobacter baumannii,GCA_020106395.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",81183,Ventilator_P96_BU15,119,4283354,ILLUMINA
+Acinetobacter baumannii,GCA_020106375.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",78395,Bed rail_P96_BU15,129,4197812,ILLUMINA
+Acinetobacter baumannii,GCA_020106435.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",77287,Infusion stand_P119_BU14,190,4308005,ILLUMINA
+Acinetobacter baumannii,GCA_020106355.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82053,Infusion stand_NA_BU12,128,4279132,ILLUMINA
+Acinetobacter baumannii,GCA_020106235.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",73918,Ventilator shelf_NA_BU12,121,4196433,ILLUMINA
+Acinetobacter baumannii,GCA_020110935.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",116146,Inside sink drain_P2_BU1,93,4673583,ILLUMINA
+Acinetobacter baumannii,GCA_020113455.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",71076,Nebuliser_NA_BU12,145,4296215,ILLUMINA
+Acinetobacter baumannii,GCA_020106175.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90442,Stethoscope_P91_BU9,194,4615182,ILLUMINA
+Acinetobacter baumannii,GCA_020106195.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",79029,Ventilator_P91_BU9,210,4460684,ILLUMINA
+Acinetobacter baumannii,GCA_020106215.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",79336,Inside sink drain_P87_BU8,203,4553248,ILLUMINA
+Acinetobacter baumannii,GCA_020106135.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",112324,Ventilator shelf_P87_BU8,211,4190730,ILLUMINA
+Acinetobacter baumannii,GCA_020106155.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",78083,Nebuliser_P87_BU8,211,4603924,ILLUMINA
+Acinetobacter baumannii,GCA_020106115.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",65913,Ventilator_P87_BU8,214,4410907,ILLUMINA
+Acinetobacter baumannii,GCA_020106015.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90429,Infusion stand_P115_BU7,137,4637202,ILLUMINA
+Acinetobacter baumannii,GCA_020105955.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",67845,Nebuliser_P115_BU7,208,4618835,ILLUMINA
+Acinetobacter baumannii,GCA_020106055.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",75945,ECG monitor_P115_BU7,206,4550179,ILLUMINA
+Acinetobacter baumannii,GCA_020105975.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",100982,Bed controller_P2_BU1,101,4445327,ILLUMINA
+Acinetobacter baumannii,GCA_020105995.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",67826,Sink countertop_NA_BU6,210,4593208,ILLUMINA
+Acinetobacter baumannii,GCA_020106075.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90425,Tap surface_NA_BU6,193,4407890,ILLUMINA
+Acinetobacter baumannii,GCA_020105935.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",81710,Computer_NA_BU6,174,4439063,ILLUMINA
+Acinetobacter baumannii,GCA_020106035.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",62921,Stethoscope_NA_BU6,216,4584397,ILLUMINA
+Acinetobacter baumannii,GCA_020106095.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",110059,Nebuliser_NA_BU6,183,4590196,ILLUMINA
+Acinetobacter baumannii,GCA_020105895.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93930,Syringe driver_NA_BU6,189,4622169,ILLUMINA
+Acinetobacter baumannii,GCA_020110895.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",74935,Ventilator_NA_BU6,200,4464765,ILLUMINA
+Acinetobacter baumannii,GCA_020105875.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",100982,Bed controller_P2_BU1,110,4638464,ILLUMINA
+Acinetobacter baumannii,GCA_020105835.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",94284,Locker_P26_BU28,182,4589030,ILLUMINA
+Acinetobacter baumannii,GCA_020105855.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82654,Infusion stand_P26_BU28,196,4406484,ILLUMINA
+Acinetobacter baumannii,GCA_020105785.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",104806,Ventilator_P2_BU1,113,4671547,ILLUMINA
+Acinetobacter baumannii,GCA_020105815.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",61126,Bedside table_P26_BU28,222,4454928,ILLUMINA
+Acinetobacter baumannii,GCA_020105755.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",88021,Ventilator shelf_P26_BU28,187,4609181,ILLUMINA
+Acinetobacter baumannii,GCA_020113435.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",30451,Nebuliser_P26_BU28,327,4241072,ILLUMINA
+Acinetobacter baumannii,GCA_020105735.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",54572,Syringe driver_P26_BU28,225,4392536,ILLUMINA
+Acinetobacter baumannii,GCA_020105675.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90463,Bed rail_P26_BU28,187,4640122,ILLUMINA
+Acinetobacter baumannii,GCA_020111145.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",78476,Ventilator shelf_P77_BU25,197,4637372,ILLUMINA
+Acinetobacter baumannii,GCA_020105715.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93962,Nebuliser_P77_BU25,193,4591469,ILLUMINA
+Acinetobacter baumannii,GCA_020105695.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",98188,ECG monitor_P77_BU25,135,4489780,ILLUMINA
+Acinetobacter baumannii,GCA_020105655.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",51701,Ventilator_P77_BU25,221,4605126,ILLUMINA
+Acinetobacter baumannii,GCA_020109895.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",78403,Syringe driver_P113_BU23,119,4261946,ILLUMINA
+Acinetobacter baumannii,GCA_020105635.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Ventilator_P19_BU20,99,4569446,ILLUMINA
+Acinetobacter baumannii,GCA_020108575.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",104791,ECG monitor_P113_BU23,113,4255633,ILLUMINA
+Acinetobacter baumannii,GCA_020105615.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Ventilator_P113_BU23,102,4484987,ILLUMINA
+Acinetobacter baumannii,GCA_020105595.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90407,Bed rail_P113_BU23,115,4504811,ILLUMINA
+Acinetobacter baumannii,GCA_020105575.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82037,Bedside table_P109_BU16,121,4281821,ILLUMINA
+Acinetobacter baumannii,GCA_020112275.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",97009,Infusion stand_P96_BU15,104,4341754,ILLUMINA
+Acinetobacter baumannii,GCA_020105555.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",110059,Computer_P96_BU15,94,4341778,ILLUMINA
+Acinetobacter baumannii,GCA_020105455.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93924,Bedside table_P96_BU15,100,4277897,ILLUMINA
+Acinetobacter baumannii,GCA_020105535.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",102260,Bed controller_P96_BU15,98,4283715,ILLUMINA
+Acinetobacter baumannii,GCA_020108195.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",97009,ECG monitor_P96_BU15,102,4283530,ILLUMINA
+Acinetobacter baumannii,GCA_020105515.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",103567,Ventilator_P96_BU15,95,4274930,ILLUMINA
+Acinetobacter baumannii,GCA_020110915.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Nebuliser_P26_BU28,94,4360200,ILLUMINA
+Acinetobacter baumannii,GCA_020110855.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",97009,Bed rail_P96_BU15,103,4275105,ILLUMINA
+Acinetobacter baumannii,GCA_020105475.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",91460,Bedside table_P108_BU14,111,4277065,ILLUMINA
+Acinetobacter baumannii,GCA_020108595.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",113769,Ventilator shelf_P108_BU14,94,4258901,ILLUMINA
+Acinetobacter baumannii,GCA_020113415.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90427,Nebuliser_P108_BU14,184,4612026,ILLUMINA
+Acinetobacter baumannii,GCA_020105495.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",106117,ECG monitor_P108_BU14,107,4368465,ILLUMINA
+Acinetobacter baumannii,GCA_020105435.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",140785,Infusion stand_P101_BU13,97,4156605,ILLUMINA
+Acinetobacter baumannii,GCA_020105275.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",140199,Ventilator shelf_P101_BU13,122,4122507,ILLUMINA
+Acinetobacter baumannii,GCA_020105295.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",106272,Stethoscope_P101_BU13,89,4458575,ILLUMINA
+Acinetobacter baumannii,GCA_020105255.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",101270,Nebuliser_P101_BU13,107,4621374,ILLUMINA
+Acinetobacter baumannii,GCA_020105175.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",89164,Syringe driver_P101_BU13,111,4383596,ILLUMINA
+Acinetobacter baumannii,GCA_020105235.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",81761,Ventilator_P26_BU28,111,4464001,ILLUMINA
+Acinetobacter baumannii,GCA_020105205.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93947,Ventilator_P101_BU13,115,4199615,ILLUMINA
+Acinetobacter baumannii,GCA_020105155.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",86644,Bed rail_P101_BU13,120,4257465,ILLUMINA
+Acinetobacter baumannii,GCA_020105195.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",95073,Ventilator shelf_P107_BU12,101,4266101,ILLUMINA
+Acinetobacter baumannii,GCA_020104935.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",87146,Infusion stand_P91_BU9,191,4566855,ILLUMINA
+Acinetobacter baumannii,GCA_020105135.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",115441,Ventilator shelf_P91_BU9,169,4612343,ILLUMINA
+Acinetobacter baumannii,GCA_020104955.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",112569,Nebuliser_P91_BU9,169,4616502,ILLUMINA
+Acinetobacter baumannii,GCA_020114155.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Syringe driver_P91_BU9,155,4642793,ILLUMINA
+Acinetobacter baumannii,GCA_020105095.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,ECG monitor_P91_BU9,159,4641659,ILLUMINA
+Acinetobacter baumannii,GCA_020105075.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",121738,Ventilator_P91_BU9,108,4527244,ILLUMINA
+Acinetobacter baumannii,GCA_020105035.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Bed rail_P91_BU9,114,4528902,ILLUMINA
+Acinetobacter baumannii,GCA_020105015.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109823,Infusion stand_P24_BU26,131,4565142,ILLUMINA
+Acinetobacter baumannii,GCA_020105055.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",114855,Ventilator shelf_P97_BU8,128,4568354,ILLUMINA
+Acinetobacter baumannii,GCA_020104995.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",38903,ECG monitor_P104_BU6,212,4196729,ILLUMINA
+Acinetobacter baumannii,GCA_020104895.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",32144,Syringe driver_P103_BU5,319,4340073,ILLUMINA
+Acinetobacter baumannii,GCA_020112795.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",94382,Ventilator_P2_BU1,179,4544365,ILLUMINA
+Acinetobacter baumannii,GCA_020104975.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",153280,Crash trolley 2_NA_Room 7,91,4568233,ILLUMINA
+Acinetobacter baumannii,GCA_020104915.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",94477,Ventilator_P25_BU27,175,4564837,ILLUMINA
+Acinetobacter baumannii,GCA_020104855.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",62353,Bed rail_P25_BU27,215,4606867,ILLUMINA
+Acinetobacter baumannii,GCA_020109815.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",49420,Inside sink drain_P99_BU24,233,4434157,ILLUMINA
+Acinetobacter baumannii,GCA_020104875.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",55230,Bed rail_P77_BU21,232,4590114,ILLUMINA
+Acinetobacter baumannii,GCA_020104835.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",44556,Bed rail_P19_BU18,257,4403083,ILLUMINA
+Acinetobacter baumannii,GCA_020104815.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",94284,Bedside table_P23_BU25,172,4623483,ILLUMINA
+Acinetobacter baumannii,GCA_020104775.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",67801,Syringe driver_P96_BU15,158,4406751,ILLUMINA
+Acinetobacter baumannii,GCA_020112255.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",65407,Bedside table_P78_BU13,154,4520676,ILLUMINA
+Acinetobacter baumannii,GCA_020104795.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",51118,Ventilator shelf_P78_BU13,197,4391937,ILLUMINA
+Acinetobacter baumannii,GCA_020104755.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",55192,Syringe driver_P78_BU13,184,4452290,ILLUMINA
+Acinetobacter baumannii,GCA_020104735.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82003,Bed rail_P78_BU13,125,4337034,ILLUMINA
+Acinetobacter baumannii,GCA_020104715.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93911,Bed controller_P79_BU12,118,4475263,ILLUMINA
+Acinetobacter baumannii,GCA_020104695.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",89616,Nebuliser_P79_BU12,117,4541523,ILLUMINA
+Acinetobacter baumannii,GCA_020104675.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",97082,ECG monitor_P79_BU12,115,4549203,ILLUMINA
+Acinetobacter baumannii,GCA_020104635.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",84069,Bed rail_P79_BU12,130,4528661,ILLUMINA
+Acinetobacter baumannii,GCA_020104655.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",65166,Computer_P57_BU11,209,4517205,ILLUMINA
+Acinetobacter baumannii,GCA_020104615.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93962,Ventilator shelf_P23_BU25,168,4639947,ILLUMINA
+Acinetobacter baumannii,GCA_020104595.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",94274,Infusion stand_P85_BU10,185,4584731,ILLUMINA
+Acinetobacter baumannii,GCA_020104515.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82621,ECG monitor_P85_BU10,209,4528793,ILLUMINA
+Acinetobacter baumannii,GCA_020104535.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",84072,Bedside table_P91_BU9,193,4605829,ILLUMINA
+Acinetobacter baumannii,GCA_020104555.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",73781,Ventilator shelf_P91_BU9,205,4617112,ILLUMINA
+Acinetobacter baumannii,GCA_020104575.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",73146,Stethoscope_P91_BU9,205,4529300,ILLUMINA
+Acinetobacter baumannii,GCA_020109875.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82838,Ventilator_P91_BU9,188,4605990,ILLUMINA
+Acinetobacter baumannii,GCA_020104475.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",81723,Bed rail_P91_BU9,191,4618002,ILLUMINA
+Acinetobacter baumannii,GCA_020104455.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",84074,Stethoscope_P95_BU8,199,4599795,ILLUMINA
+Acinetobacter baumannii,GCA_020104395.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",89286,Dispensing trolley_P94_BU7,187,4591857,ILLUMINA
+Acinetobacter baumannii,GCA_020112815.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",80831,Ventilator_P29_BU6,174,4479095,ILLUMINA
+Acinetobacter baumannii,GCA_020104435.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",89848,ECG monitor_P23_BU25,140,4548466,ILLUMINA
+Acinetobacter baumannii,GCA_020104415.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",100982,ECG monitor_P7_BU6,159,4623436,ILLUMINA
+Acinetobacter baumannii,GCA_020104375.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",110375,Bed rail_P29_BU6,174,4609471,ILLUMINA
+Acinetobacter baumannii,GCA_020104355.1,2019-09-24,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",102752,Bedside table_P93_BU5,101,4271259,ILLUMINA
+Acinetobacter baumannii,GCA_020104155.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",87055,Nebuliser_P82_BU15,121,4357950,ILLUMINA
+Acinetobacter baumannii,GCA_020104335.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",104814,Nebuliser_P81_BU14,106,4480164,ILLUMINA
+Acinetobacter baumannii,GCA_020104315.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",116146,Syringe driver_P81_BU14,97,4570095,ILLUMINA
+Acinetobacter baumannii,GCA_020104295.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",101292,Bedside table_P78_BU11,110,4569246,ILLUMINA
+Acinetobacter baumannii,GCA_020109795.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",92069,Bed rail_P78_BU11,119,4478549,ILLUMINA
+Acinetobacter baumannii,GCA_020113375.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",113904,Locker_P77_BU10,101,4558829,ILLUMINA
+Acinetobacter baumannii,GCA_020109775.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",100982,Infusion stand_P77_BU10,112,4532768,ILLUMINA
+Acinetobacter baumannii,GCA_020104275.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",105364,Syringe driver_P77_BU10,99,4529263,ILLUMINA
+Acinetobacter baumannii,GCA_020110875.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",78555,Ventilator_P23_BU25,185,4571863,ILLUMINA
+Acinetobacter baumannii,GCA_020104235.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",113904,ECG monitor_P77_BU10,102,4556941,ILLUMINA
+Acinetobacter baumannii,GCA_020104255.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",105364,Bed rail_P77_BU10,109,4629161,ILLUMINA
+Acinetobacter baumannii,GCA_020109755.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93920,Dispensing trolley_P28_BU8,115,4482059,ILLUMINA
+Acinetobacter baumannii,GCA_020104215.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",77788,Bedside table_P50_BU7,198,4486945,ILLUMINA
+Acinetobacter baumannii,GCA_020109735.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93307,Bed controller_P50_BU7,163,4627518,ILLUMINA
+Acinetobacter baumannii,GCA_020104195.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",79029,Nebuliser_P50_BU7,174,4584644,ILLUMINA
+Acinetobacter baumannii,GCA_020104175.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93962,Locker_P29_BU6,173,4602746,ILLUMINA
+Acinetobacter baumannii,GCA_020104135.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",88673,Ventilator shelf_P4_BU3,181,4565656,ILLUMINA
+Acinetobacter baumannii,GCA_020104115.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90492,Ventilator shelf_P2_BU1,128,4560091,ILLUMINA
+Acinetobacter baumannii,GCA_020110735.1,2019-09-17,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",105335,Stethoscope_P2_BU1,100,4631780,ILLUMINA
+Acinetobacter baumannii,GCA_020104075.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",116591,Ventilator shelf_P1_BU24,159,4624422,ILLUMINA
+Acinetobacter baumannii,GCA_020104035.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",103003,Infusion stand_P24_BU26,169,4500878,ILLUMINA
+Acinetobacter baumannii,GCA_020104095.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",112406,Ventilator_P25_BU27,161,4633972,ILLUMINA
+Acinetobacter baumannii,GCA_020113395.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",88586,Infusion stand_P67_BU22,116,4454421,ILLUMINA
+Acinetobacter baumannii,GCA_020104055.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",95970,Nebuliser_P19_BU18,112,4464919,ILLUMINA
+Acinetobacter baumannii,GCA_020103785.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93307,Nebuliser_P50_BU7,162,4573747,ILLUMINA
+Acinetobacter baumannii,GCA_020103875.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",86646,Syringe driver_P50_BU7,122,4279318,ILLUMINA
+Acinetobacter baumannii,GCA_020104015.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",102705,Ventilator_P50_BU7,109,4316602,ILLUMINA
+Acinetobacter baumannii,GCA_020103975.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",106270,Ventilator_P56_BU5,113,4442958,ILLUMINA
+Acinetobacter baumannii,GCA_020109715.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",114020,Nebuliser_P37_BU4,128,4507624,ILLUMINA
+Acinetobacter baumannii,GCA_020110715.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",98150,Ventilator_P37_BU4,128,4515360,ILLUMINA
+Acinetobacter baumannii,GCA_020103955.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109946,Syringe driver_P1_BU24,165,4638967,ILLUMINA
+Acinetobacter baumannii,GCA_020108155.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",114093,Bed rail_P37_BU4,128,4506341,ILLUMINA
+Acinetobacter baumannii,GCA_020103995.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",114093,Dispensing trolley_P4_BU3,131,4460248,ILLUMINA
+Acinetobacter baumannii,GCA_020108995.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",96035,Ventilator_P4_BU3,135,4456795,ILLUMINA
+Acinetobacter baumannii,GCA_020109675.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",95970,Sink countertop_P2_BU1,113,4667382,ILLUMINA
+Acinetobacter baumannii,GCA_020103915.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",92124,Bed controller_P2_BU1,111,4568600,ILLUMINA
+Acinetobacter baumannii,GCA_020110755.1,2019-09-10,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",77867,Ventilator_P2_BU1,134,4448491,ILLUMINA
+Acinetobacter baumannii,GCA_020103935.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",88585,Bed controller_P68_BU23,126,4273526,ILLUMINA
+Acinetobacter baumannii,GCA_020109695.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",94313,Stethoscope_P68_BU23,193,4627093,ILLUMINA
+Acinetobacter baumannii,GCA_020103815.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82654,Infusion stand_P66_BU21,130,4278656,ILLUMINA
+Acinetobacter baumannii,GCA_020103835.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",98352,Bed rail_P37_BU4,123,4500764,ILLUMINA
+Acinetobacter baumannii,GCA_020109585.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",78589,Ventilator_P1_BU24,198,4606187,ILLUMINA
+Acinetobacter baumannii,GCA_020103855.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",95970,Ventilator_P2_BU1,113,4602365,ILLUMINA
+Acinetobacter baumannii,GCA_020103895.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90422,Bed rail_P2_BU1,116,4572507,ILLUMINA
+Acinetobacter baumannii,GCA_020103655.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",130855,Ventilator_P26_BU28,91,4328988,ILLUMINA
+Acinetobacter baumannii,GCA_020109615.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",129038,Bed rail_P26_BU28,158,4567683,ILLUMINA
+Acinetobacter baumannii,GCA_020103635.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",110035,Syringe driver_P69_BU24,119,4482629,ILLUMINA
+Acinetobacter baumannii,GCA_020103595.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",94354,Ventilator_P49_BU12,163,4578052,ILLUMINA
+Acinetobacter baumannii,GCA_020103535.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",96402,ECG monitor_P50_BU7,115,4294223,ILLUMINA
+Acinetobacter baumannii,GCA_020103615.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90459,Ventilator_P50_BU7,185,4637034,ILLUMINA
+Acinetobacter baumannii,GCA_020103555.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",86011,Syringe driver_P21_BU22,176,4540999,ILLUMINA
+Acinetobacter baumannii,GCA_020103565.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",56999,Locker_P29_BU6,207,4575926,ILLUMINA
+Acinetobacter baumannii,GCA_020103515.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",73358,Ventilator shelf_P56_BU5,153,4416748,ILLUMINA
+Acinetobacter baumannii,GCA_020103495.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",119808,Ventilator_P37_BU4,117,4472712,ILLUMINA
+Acinetobacter baumannii,GCA_020103475.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",87116,Ventilator_P4_BU3,125,4646285,ILLUMINA
+Acinetobacter baumannii,GCA_020103415.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",84077,Nebuliser_P2_BU1,133,4564848,ILLUMINA
+Acinetobacter baumannii,GCA_020103435.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",108716,Ventilator shelf_P55_BU22,109,4477206,ILLUMINA
+Acinetobacter baumannii,GCA_020103455.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",129002,Ventilator_P19_BU20,166,4453605,ILLUMINA
+Acinetobacter baumannii,GCA_020103395.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",118726,Bedside table_P54_BU19,111,4365106,ILLUMINA
+Acinetobacter baumannii,GCA_020108535.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",115422,Ventilator shelf_P54_BU19,89,4505728,ILLUMINA
+Acinetobacter baumannii,GCA_020103315.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93030,Ventilator_P53_BU18,112,4487836,ILLUMINA
+Acinetobacter baumannii,GCA_020110695.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",103571,ECG monitor_P21_BU22,169,4623686,ILLUMINA
+Acinetobacter baumannii,GCA_020103335.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",118726,Infusion stand_P47_BU17,108,4425514,ILLUMINA
+Acinetobacter baumannii,GCA_020103375.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",44178,Computer_P47_BU17,225,4210931,ILLUMINA
+Acinetobacter baumannii,GCA_020103295.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",52145,Bedside table_P47_BU17,205,4467205,ILLUMINA
+Acinetobacter baumannii,GCA_020112235.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",26314,Ventilator shelf_P47_BU17,349,4020370,ILLUMINA
+Acinetobacter baumannii,GCA_020110675.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",33961,Stethoscope_P47_BU17,257,4180846,ILLUMINA
+Acinetobacter baumannii,GCA_020103355.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",40235,Switch button_P47_BU17,224,4222643,ILLUMINA
+Acinetobacter baumannii,GCA_020103175.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",61805,Ventilator_P51_BU14,184,4443608,ILLUMINA
+Acinetobacter baumannii,GCA_020103135.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127031,Bedside table_P50_BU13,144,4579507,ILLUMINA
+Acinetobacter baumannii,GCA_020103155.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",126994,Nebuliser_P48_BU11,111,4550071,ILLUMINA
+Acinetobacter baumannii,GCA_020110655.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",110388,Infusion stand_P8_BU9,94,4485615,ILLUMINA
+Acinetobacter baumannii,GCA_020103215.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",67860,Bed controller_P18_BU19,143,4462812,ILLUMINA
+Acinetobacter baumannii,GCA_020103195.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127031,Ventilator shelf_P8_BU9,91,4493736,ILLUMINA
+Acinetobacter baumannii,GCA_020103115.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",116579,Infusion stand_P6_BU8,173,4612750,ILLUMINA
+Acinetobacter baumannii,GCA_020112915.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",119803,Ventilator shelf_P6_BU8,169,4418554,ILLUMINA
+Acinetobacter baumannii,GCA_020110515.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",104805,Bed controller_P2_BU1,100,4657605,ILLUMINA
+Acinetobacter baumannii,GCA_020103095.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",108028,Ventilator_P2_BU1,102,4689416,ILLUMINA
+Acinetobacter baumannii,GCA_020103055.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",115335,Crash trolley 1_NA_Room 10,91,4459520,ILLUMINA
+Acinetobacter baumannii,GCA_020103015.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",108028,Sink countertop_P26_BU28,100,4510937,ILLUMINA
+Acinetobacter baumannii,GCA_020102935.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",148844,Bedside table_P26_BU28,99,4409933,ILLUMINA
+Acinetobacter baumannii,GCA_020110475.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",130853,Ventilator shelf_P26_BU28,100,4424211,ILLUMINA
+Acinetobacter baumannii,GCA_020102955.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",118726,Computer_P24_BU26,114,4545468,ILLUMINA
+Acinetobacter baumannii,GCA_020102975.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",87416,Syringe driver_P18_BU19,190,4566172,ILLUMINA
+Acinetobacter baumannii,GCA_020110455.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93975,Syringe driver_P28_BU25,119,4415188,ILLUMINA
+Acinetobacter baumannii,GCA_020102915.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",76348,Ventilator_P33_BU24,146,4378993,ILLUMINA
+Acinetobacter baumannii,GCA_020109635.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",121738,Syringe driver_P22_BU23,164,4637465,ILLUMINA
+Acinetobacter baumannii,GCA_020102895.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Ventilator_P22_BU23,167,4581696,ILLUMINA
+Acinetobacter baumannii,GCA_020113755.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",146252,Bed controller_P55_BU22,83,4508272,ILLUMINA
+Acinetobacter baumannii,GCA_020103075.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Stethoscope_P13_BU21,165,4616144,ILLUMINA
+Acinetobacter baumannii,GCA_020102995.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",131429,ECG monitor_P13_BU21,163,4638078,ILLUMINA
+Acinetobacter baumannii,GCA_020103035.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",119839,Ventilator_P13_BU21,165,4626385,ILLUMINA
+Acinetobacter baumannii,GCA_020102755.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",129098,Bed rail_P13_BU21,163,4594366,ILLUMINA
+Acinetobacter baumannii,GCA_020112895.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",105513,Bed controller_P19_BU20,101,4453503,ILLUMINA
+Acinetobacter baumannii,GCA_020102775.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",77839,ECG monitor_P18_BU19,129,4463500,ILLUMINA
+Acinetobacter baumannii,GCA_020113315.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",97135,Ventilator shelf_P19_BU20,118,4438437,ILLUMINA
+Acinetobacter baumannii,GCA_020102735.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93955,Nebuliser_P19_BU20,118,4481544,ILLUMINA
+Acinetobacter baumannii,GCA_020102695.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",126994,Ventilator_P54_BU19,108,4569558,ILLUMINA
+Acinetobacter baumannii,GCA_020102715.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",111435,Bed controller_P47_BU17,118,4570131,ILLUMINA
+Acinetobacter baumannii,GCA_020102675.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",111435,Syringe driver_P47_BU17,113,4569791,ILLUMINA
+Acinetobacter baumannii,GCA_020110635.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",111435,ECG monitor_P47_BU17,127,4540295,ILLUMINA
+Acinetobacter baumannii,GCA_020113335.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",115322,Ventilator_P47_BU17,118,4505633,ILLUMINA
+Acinetobacter baumannii,GCA_020102635.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",118726,Bed rail_P47_BU17,110,4380950,ILLUMINA
+Acinetobacter baumannii,GCA_020102595.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",120276,Bedside table_P52_BU16,103,4318729,ILLUMINA
+Acinetobacter baumannii,GCA_020102575.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",70893,Bedside table_P17_BU18,135,4352419,ILLUMINA
+Acinetobacter baumannii,GCA_020108175.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90385,Ventilator_P6_BU5,122,4642916,ILLUMINA
+Acinetobacter baumannii,GCA_020102555.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",100129,Ventilator_P2_BU1,115,4601660,ILLUMINA
+Acinetobacter baumannii,GCA_020109655.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",81714,Ventilator_P42_BU15,158,4524738,ILLUMINA
+Acinetobacter baumannii,GCA_020102615.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Bed rail_P50_BU13,159,4596060,ILLUMINA
+Acinetobacter baumannii,GCA_020113355.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Computer_P49_BU12,128,4535918,ILLUMINA
+Acinetobacter baumannii,GCA_020109575.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Bedside table_P8_BU9,157,4639673,ILLUMINA
+Acinetobacter baumannii,GCA_020102515.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",121738,Bedside table_P6_BU8,162,4640578,ILLUMINA
+Acinetobacter baumannii,GCA_020109555.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",100982,Ventilator_P6_BU8,100,4485315,ILLUMINA
+Acinetobacter baumannii,GCA_020102535.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",121738,Dispensing trolley_NA_BU5,132,4600632,ILLUMINA
+Acinetobacter baumannii,GCA_020102495.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Dispensing trolley_P4_BU3,103,4619744,ILLUMINA
+Acinetobacter baumannii,GCA_020102355.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",126795,Bed rail_P41_BU14,88,4507635,ILLUMINA
+Acinetobacter baumannii,GCA_020102335.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",105443,Ventilator_P26_BU28,93,4510080,ILLUMINA
+Acinetobacter baumannii,GCA_020102375.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82678,Ventilator_P14_BU15,189,4615320,ILLUMINA
+Acinetobacter baumannii,GCA_020110615.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",111436,Nebuliser_P23_BU25,95,4502089,ILLUMINA
+Acinetobacter baumannii,GCA_020102395.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Stethoscope_P46_BU24,155,4642883,ILLUMINA
+Acinetobacter baumannii,GCA_020109355.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",121738,Ventilator shelf_P22_BU23,149,4475510,ILLUMINA
+Acinetobacter baumannii,GCA_020102315.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Infusion stand_P45_BU22,156,4643521,ILLUMINA
+Acinetobacter baumannii,GCA_020102415.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",131429,Ventilator shelf_P45_BU22,134,4631649,ILLUMINA
+Acinetobacter baumannii,GCA_020102455.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Locker_P44_BU19,91,4271289,ILLUMINA
+Acinetobacter baumannii,GCA_020113215.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",103774,Bedside table_P27_BU18,113,4472709,ILLUMINA
+Acinetobacter baumannii,GCA_020102435.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",90385,Ventilator_P33_BU16,124,4483699,ILLUMINA
+Acinetobacter baumannii,GCA_020102475.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",83942,Computer_P28_BU12,189,4580108,ILLUMINA
+Acinetobacter baumannii,GCA_020102275.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",77947,Infusion stand_P26_BU28,126,4448171,ILLUMINA
+Acinetobacter baumannii,GCA_020102255.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",78562,Bedside table_P13_BU14,170,4574532,ILLUMINA
+Acinetobacter baumannii,GCA_020112215.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",72256,Bed rail_P26_BU28,135,4305502,ILLUMINA
+Acinetobacter baumannii,GCA_020102235.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",51781,Nebuliser_P46_BU24,222,4450141,ILLUMINA
+Acinetobacter baumannii,GCA_020102215.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",70294,Ventilator_P46_BU24,190,4542616,ILLUMINA
+Acinetobacter baumannii,GCA_020102015.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",87156,Infusion stand_P22_BU23,164,4606441,ILLUMINA
+Acinetobacter baumannii,GCA_020102075.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82714,Stethoscope_P45_BU22,179,4621973,ILLUMINA
+Acinetobacter baumannii,GCA_020102195.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",86060,Syringe driver_P22_BU23,186,4620540,ILLUMINA
+Acinetobacter baumannii,GCA_020108215.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",89617,ECG monitor_P22_BU23,194,4544403,ILLUMINA
+Acinetobacter baumannii,GCA_020112975.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109956,Ventilator_P22_BU23,166,4593790,ILLUMINA
+Acinetobacter baumannii,GCA_020102175.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",105443,Infusion stand_P19_BU20,109,4419199,ILLUMINA
+Acinetobacter baumannii,GCA_020109335.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",81084,Syringe driver_P19_BU20,119,4457066,ILLUMINA
+Acinetobacter baumannii,GCA_020102135.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93962,Syringe driver_P13_BU14,175,4533726,ILLUMINA
+Acinetobacter baumannii,GCA_020108555.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93967,Bed rail_P44_BU19,114,4341806,ILLUMINA
+Acinetobacter baumannii,GCA_020102115.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127030,Syringe driver_P27_BU18,87,4505480,ILLUMINA
+Acinetobacter baumannii,GCA_020109515.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",99465,ECG monitor_P27_BU18,111,4470771,ILLUMINA
+Acinetobacter baumannii,GCA_020102035.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109120,Ventilator_P27_BU18,105,4473196,ILLUMINA
+Acinetobacter baumannii,GCA_020102055.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",86704,Bed rail_P27_BU18,131,4449439,ILLUMINA
+Acinetobacter baumannii,GCA_020108095.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",115422,Stethoscope_P43_BU17,93,4304585,ILLUMINA
+Acinetobacter baumannii,GCA_020102155.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82707,Nebuliser_P6_BU8,184,4508319,ILLUMINA
+Acinetobacter baumannii,GCA_020109315.1,2019-08-20,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",100982,ECG monitor_P2_BU1,115,4510566,ILLUMINA
+Acinetobacter baumannii,GCA_020110595.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",81084,Ventilator_P6_BU8,117,4441753,ILLUMINA
+Acinetobacter baumannii,GCA_020113295.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",78068,Ventilator_P8_BU9,131,4465959,ILLUMINA
+Acinetobacter baumannii,GCA_020102095.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",95048,ECG monitor_P11_BU12,169,4622638,ILLUMINA
+Acinetobacter baumannii,GCA_020101975.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",104792,Ventilator_P26_BU28,114,4369716,ILLUMINA
+Acinetobacter baumannii,GCA_020101995.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",94349,Ventilator_P24_BU26,170,4621094,ILLUMINA
+Acinetobacter baumannii,GCA_020101955.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",100982,Sink countertop_P23_BU25,168,4623286,ILLUMINA
+Acinetobacter baumannii,GCA_020101915.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",110059,Locker_P23_BU25,102,4515750,ILLUMINA
+Acinetobacter baumannii,GCA_020101935.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Nebuliser_P23_BU25,173,4639582,ILLUMINA
+Acinetobacter baumannii,GCA_020101895.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",110059,Ventilator_P23_BU25,111,4496181,ILLUMINA
+Acinetobacter baumannii,GCA_020101875.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Bed rail_P23_BU25,165,4639544,ILLUMINA
+Acinetobacter baumannii,GCA_020101735.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",117567,Ventilator shelf_P1_BU24,161,4589324,ILLUMINA
+Acinetobacter baumannii,GCA_020112195.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",114855,Ventilator_P1_BU24,125,4566842,ILLUMINA
+Acinetobacter baumannii,GCA_020101795.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",94314,Dispensing trolley_P22_BU23,166,4642144,ILLUMINA
+Acinetobacter baumannii,GCA_020111335.1,2019-08-06,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",111687,Nebuliser_P10_BU11,164,4622784,ILLUMINA
+Acinetobacter baumannii,GCA_020101755.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109972,Ventilator shelf_P22_BU23,174,4619981,ILLUMINA
+Acinetobacter baumannii,GCA_020101715.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93962,ECG monitor_P22_BU23,174,4639158,ILLUMINA
+Acinetobacter baumannii,GCA_020101855.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Ventilator_P22_BU23,173,4615188,ILLUMINA
+Acinetobacter baumannii,GCA_020101815.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",86059,Bedside table_P21_BU22,186,4610065,ILLUMINA
+Acinetobacter baumannii,GCA_020101835.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109985,Bed controller_P21_BU22,165,4623191,ILLUMINA
+Acinetobacter baumannii,GCA_020110575.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",94284,Inner wall of basin_NA_Nurse station,159,4578812,ILLUMINA
+Acinetobacter baumannii,GCA_020101775.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Nebuliser_P21_BU22,172,4640532,ILLUMINA
+Acinetobacter baumannii,GCA_020109395.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",112406,Infusion stand_P26_BU28,163,4624629,ILLUMINA
+Acinetobacter baumannii,GCA_020101695.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",112406,Bedside table_P26_BU28,183,4634730,ILLUMINA
+Acinetobacter baumannii,GCA_020113245.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Syringe driver_P26_BU28,173,4639872,ILLUMINA
+Acinetobacter baumannii,GCA_020110555.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",94274,Ventilator_P26_BU28,147,4545788,ILLUMINA
+Acinetobacter baumannii,GCA_020101615.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",112406,Computer_P25_BU27,134,4566979,ILLUMINA
+Acinetobacter baumannii,GCA_020109375.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",111697,Bedside table_P25_BU27,175,4637576,ILLUMINA
+Acinetobacter baumannii,GCA_020113275.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Ventilator_P25_BU27,114,4723973,ILLUMINA
+Acinetobacter baumannii,GCA_020109495.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",113771,Sink countertop_P140_BU25,91,4324034,ILLUMINA
+Acinetobacter baumannii,GCA_020112175.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",127241,Locker_P140_BU25,172,4638642,ILLUMINA
+Acinetobacter baumannii,GCA_020101665.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",106134,Bedside table_P140_BU25,97,4273031,ILLUMINA
+Acinetobacter baumannii,GCA_020101575.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",112406,Syringe driver_P21_BU22,164,4615049,ILLUMINA
+Acinetobacter baumannii,GCA_020101595.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",130855,Stethoscope_P97_BU24,90,4291251,ILLUMINA
+Acinetobacter baumannii,GCA_020101555.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",121905,ECG monitor_P97_BU24,93,4338672,ILLUMINA
+Acinetobacter baumannii,GCA_020101535.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",103596,Ventilator_P97_BU24,105,4263982,ILLUMINA
+Acinetobacter baumannii,GCA_020101515.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93911,ECG monitor_P139_BU23,108,4376312,ILLUMINA
+Acinetobacter baumannii,GCA_020101495.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109120,Ventilator_P139_BU23,111,4329369,ILLUMINA
+Acinetobacter baumannii,GCA_020101475.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",104262,Infusion stand_P101_BU22,96,4390076,ILLUMINA
+Acinetobacter baumannii,GCA_020101435.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",84018,Computer_P101_BU22,106,4342097,ILLUMINA
+Acinetobacter baumannii,GCA_020101415.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",111134,Ventilator shelf_P101_BU22,89,4390418,ILLUMINA
+Acinetobacter baumannii,GCA_020101455.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",111098,Ventilator_P101_BU22,88,4343791,ILLUMINA
+Acinetobacter baumannii,GCA_020101395.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",71368,Bed rail_P101_BU22,131,4249200,ILLUMINA
+Acinetobacter baumannii,GCA_020101195.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109853,Ventilator_P21_BU22,147,4632199,ILLUMINA
+Acinetobacter baumannii,GCA_020101375.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",84074,Infusion stand_NA_BU21,169,4577349,ILLUMINA
+Acinetobacter baumannii,GCA_020108655.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",84069,Bedside table_NA_BU21,136,4506075,ILLUMINA
+Acinetobacter baumannii,GCA_020101295.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93962,Bed controller_NA_BU21,159,4535904,ILLUMINA
+Acinetobacter baumannii,GCA_020113735.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109955,Ventilator shelf_NA_BU21,159,4577678,ILLUMINA
+Acinetobacter baumannii,GCA_020113235.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",88022,Nebuliser_NA_BU21,178,4493460,ILLUMINA
+Acinetobacter baumannii,GCA_020109525.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",112228,Ventilator_NA_BU21,114,4476050,ILLUMINA
+Acinetobacter baumannii,GCA_020101355.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",109985,Bed rail_NA_BU21,154,4465551,ILLUMINA
+Acinetobacter baumannii,GCA_020101315.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",110452,Bed controller_P132_BU20,162,4413987,ILLUMINA
+Acinetobacter baumannii,GCA_020101335.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",93962,Ventilator shelf_P132_BU20,158,4432719,ILLUMINA
+Acinetobacter baumannii,GCA_020101215.1,2019-10-29,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",82651,Stethoscope_P132_BU20,126,4506133,ILLUMINA
+Acinetobacter baumannii,GCA_020113155.1,2019-09,South Korea: Daejeon,288068,beef,54,4045254,
+Acinetobacter baumannii,GCA_020113175.1,2019-07,South Korea: Suwon,113539,pork,82,3780282,
+Acinetobacter baumannii,GCA_020271605.1,2020-05,"China: Nantong, jiangsu province",3893116,a feces sample of chicken origin,3,4062322,
+Acinetobacter baumannii,GCA_020982665.1,2021,Ghana,3820549,hospital surface,7,4236598,
+Acinetobacter baumannii,GCA_020982745.1,2021,Ghana,3657799,hospital surface,22,4159716,
+Acinetobacter baumannii,GCA_020985285.1,2021-07-11,China: Shanghai,3891862,Andrias davidianus,3,3906303,
+Acinetobacter baumannii,GCA_022369275.1,2018-12,China:Guangzhou,3812291,Manis javanica,3,3930293,
+Acinetobacter baumannii,GCA_022369355.1,2018-12,China:Guangzhou,3792708,Manis javanica,3,3963879,
+Acinetobacter baumannii,GCA_022427075.1,2017-06,South Africa,234813,Hospital effluent,57,4029879,
+Acinetobacter baumannii,GCA_022436525.1,2017-05,South Africa: KwaZulu-Natal,116261,hospital wastewater,104,4022818,
+Acinetobacter baumannii,GCA_022950535.1,2021-03-18,USA:AL,324154,raw pet food,35,4249305,ILLUMINA
+Acinetobacter baumannii,GCA_022967675.1,2019,USA:SC,287473,SHRIMP (SH),55,4054266,ILLUMINA
+Acinetobacter baumannii,GCA_022967655.1,2019,USA:MO,200573,SALMON (SA),42,4165650,ILLUMINA
+Acinetobacter baumannii,GCA_022967635.1,2019,USA:SD,78548,SALMON (SA),108,4001851,ILLUMINA
+Acinetobacter baumannii,GCA_022967355.1,2019,USA:SC,225673,SALMON (SA),45,4170552,ILLUMINA
+Acinetobacter baumannii,GCA_022967375.1,2019,USA:SC,260704,SALMON (SA),31,4341203,ILLUMINA
+Acinetobacter baumannii,GCA_022967295.1,2019,USA:SC,160298,SALMON (SA),84,3897541,ILLUMINA
+Acinetobacter baumannii,GCA_022967335.1,2019,USA:SC,258565,SALMON (SA),35,4123521,ILLUMINA
+Acinetobacter baumannii,GCA_022967315.1,2019,USA:SC,186356,SALMON (SA),56,4012075,ILLUMINA
+Acinetobacter baumannii,GCA_022967255.1,2019,USA:NY,180387,SHRIMP (SH),109,4359760,ILLUMINA
+Acinetobacter baumannii,,2019,USA:SD,144311,SHRIMP (SH),99,4065851,ILLUMINA
+Acinetobacter baumannii,GCA_022967275.1,2019,USA:SD,200910,SHRIMP (SH),43,4008747,ILLUMINA
+Acinetobacter baumannii,GCA_022967195.1,2019,USA:SD,127477,SALMON (SA),49,4219774,ILLUMINA
+Acinetobacter baumannii,GCA_022967235.1,2019,USA:SC,133206,SALMON (SA),67,3812030,ILLUMINA
+Acinetobacter baumannii,GCA_022967075.1,2019,USA:NY,416069,SHRIMP (SH),31,3916306,ILLUMINA
+Acinetobacter baumannii,GCA_022967095.1,2019,USA:NY,160766,SALMON (SA),87,4202406,ILLUMINA
+Acinetobacter baumannii,GCA_022967055.1,2019,USA:NY,173635,SALMON (SA),72,4279093,ILLUMINA
+Acinetobacter baumannii,GCA_022967015.1,2019,USA:NY,173635,SALMON (SA),72,4113788,ILLUMINA
+Acinetobacter baumannii,GCA_022966395.1,2019,USA:SC,138453,SALMON (SA),111,4116106,ILLUMINA
+Acinetobacter baumannii,GCA_022966975.1,2019,USA:SC,259473,SALMON (SA),59,4031901,ILLUMINA
+Acinetobacter baumannii,GCA_023094035.1,2021-02-15,India: Bangalore,24169,Sewage,398,4550910,
+Acinetobacter baumannii,GCA_023517155.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",3980750,Bedside table_P53_BU18,2,4091717,
+Acinetobacter baumannii,GCA_023517175.1,2019-10-22,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",3912345,Ventilator shelf_P101_BU22,2,3917947,
+Acinetobacter baumannii,GCA_023517195.1,2019-08-13,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",4202756,Bed controller_P22_BU23,2,4213949,
+Acinetobacter baumannii,GCA_023517255.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",3980610,Locker_P26_BU28,3,4061599,
+Acinetobacter baumannii,GCA_023517715.1,2019-09-03,"China: Hangzhou, Sir Run Run Shaw Hospital ICU",3987206,Infusion stand_P63_BU16,3,4037352,
+Acinetobacter baumannii,GCA_024542455.1,2015-05-27,Germany,462520,Nose,45,4495571,ILLUMINA
+Acinetobacter baumannii,GCA_024480305.1,2015-08-08,France,302232,bronchoalveolar lavage,46,3946845,ILLUMINA
+Acinetobacter baumannii,GCA_024480285.1,2015-06-12,France,142633,Swab teats,66,4007697,ILLUMINA
+Acinetobacter baumannii,GCA_024480825.1,2015-07-31,France,146530,ear,77,4150279,ILLUMINA
+Acinetobacter baumannii,GCA_024542435.1,2015-03-31,Germany,159181,Punctate abdominal cavity,85,4058468,ILLUMINA
+Acinetobacter baumannii,GCA_024481525.1,2015-06-25,Germany,412688,Swab throat,42,3958219,ILLUMINA
+Acinetobacter baumannii,GCA_024480325.1,2018-06-15,Germany,41118,Swab knee,233,4070310,ILLUMINA
+Acinetobacter baumannii,,2018-05-02,Germany,92745,bronchoalveolar lavage,119,4158703,ILLUMINA
+Acinetobacter baumannii,GCA_024481545.1,2018-04-21,Germany,62143,Central venous catheter,155,4056968,ILLUMINA
+Acinetobacter baumannii,GCA_024481505.1,2017-05-27,Germany,217851,Swab septic abdomen,74,4434482,ILLUMINA
+Acinetobacter baumannii,GCA_024480625.1,2015-07-27,France,114116,urine,91,4187294,ILLUMINA
+Acinetobacter baumannii,GCA_024480605.1,2017-05-18,Germany,221795,wound,81,4553187,ILLUMINA
+Acinetobacter baumannii,,2017-05-18,France,166330,urine,85,4321427,ILLUMINA
+Acinetobacter baumannii,GCA_024480785.1,2017-05-18,Italy,396232,wound,41,4433606,ILLUMINA
+Acinetobacter baumannii,GCA_024481485.1,2017-02-28,Germany,26098,Central venous catheter,324,4010385,ILLUMINA
+Acinetobacter baumannii,GCA_024481445.1,2015-07-08,Germany,196571,urine,59,4432075,ILLUMINA
+Acinetobacter baumannii,GCA_024481465.1,2016-10-04,Germany,71860,urine,124,4214522,ILLUMINA
+Acinetobacter baumannii,GCA_024483365.1,2016-06-19,Germany,162721,wound,107,4307836,ILLUMINA
+Acinetobacter baumannii,GCA_024482625.1,2016-05-18,Germany,202218,urine,93,4281039,ILLUMINA
+Acinetobacter baumannii,GCA_024542415.1,2016-04-05,Germany,274646,tracheal swab,40,4474153,ILLUMINA
+Acinetobacter baumannii,GCA_024481425.1,2015-06-26,Germany,108354,wound,93,4062914,ILLUMINA
+Acinetobacter baumannii,GCA_024542395.1,2016-03-17,Germany,264795,urine,80,4272955,ILLUMINA
+Acinetobacter baumannii,GCA_024482605.1,2016-01-27,Germany,212522,wound,81,4359871,ILLUMINA
+Acinetobacter baumannii,GCA_024481405.1,2016-01-16,Germany,118557,Swab paw,72,4379427,ILLUMINA
+Acinetobacter baumannii,GCA_024480865.1,2015-12-14,Germany,212521,urine,61,4348802,ILLUMINA
+Acinetobacter baumannii,GCA_024480805.1,2016-01-24,France,147376,urine,131,4085461,ILLUMINA
+Acinetobacter baumannii,GCA_024481365.1,2016-08-01,France,166273,urine,71,4653092,ILLUMINA
+Acinetobacter baumannii,GCA_024542595.1,2016-06-02,Germany,431555,Central venous catheter,60,4683143,ILLUMINA
+Acinetobacter baumannii,GCA_024480845.1,2016-05-09,Germany,431555,wound,61,4413828,ILLUMINA
+Acinetobacter baumannii,GCA_024480345.1,2015-09-22,France,156506,urine,68,3961116,ILLUMINA
+Acinetobacter baumannii,GCA_024480245.1,2015-09-03,France,94648,urine,100,4149662,ILLUMINA
+Acinetobacter baumannii,GCA_024483305.1,2015-07-07,Italy,194623,urine,43,4401359,ILLUMINA
+Acinetobacter baumannii,GCA_024480265.1,2014-12-01,Germany,400001,urine,53,4020921,ILLUMINA
+Acinetobacter baumannii,GCA_024481385.1,2017-10-04,Germany,73311,skin,137,4135961,ILLUMINA
+Acinetobacter baumannii,GCA_024482585.1,2017-04-01,Germany,81253,bronchoalveolar lavage,129,4189302,ILLUMINA
+Acinetobacter baumannii,GCA_024481325.1,2016-06-24,Germany,82400,Swab larynx,136,4188889,ILLUMINA
+Acinetobacter baumannii,GCA_024480225.1,2016-06-24,Germany,55310,Central venous catheter,168,4154311,ILLUMINA
+Acinetobacter baumannii,GCA_024483005.1,2015-06-26,Germany,33450,Phlegmone,256,3993803,ILLUMINA
+Acinetobacter baumannii,GCA_024482565.1,2015-06-12,Germany,212524,Air conditioner veterinary clinic,67,4241066,ILLUMINA
+Acinetobacter baumannii,GCA_024481335.1,2015-06-01,Germany,89059,Central venous catheter,100,4197052,ILLUMINA
+Acinetobacter baumannii,GCA_025245645.1,2021-05-19,Nigeria:Kano,106702,waste water,109,4020857,
+Acinetobacter baumannii,GCA_025245665.1,2021-04-11,Nigeria:Kano,110061,waste water,106,4023595,
+Acinetobacter baumannii,GCA_025245685.1,2021-04-11,Nigeria:Kano,128458,door handle,58,3661054,
+Acinetobacter baumannii,GCA_025245705.1,2021-03-22,Nigeria:Kano,83150,school toilet,105,3696186,
+Acinetobacter baumannii,GCA_025245735.1,2021-04-11,Nigeria:Kano,123315,school toilet,61,3702145,
+Acinetobacter baumannii,GCA_025246185.1,2021-04-11,Nigeria:Kano,130075,school toilet,69,3712275,
+Acinetobacter baumannii,GCA_025246195.1,2021-03-22,Nigeria:Kano,184719,door handle,55,3704143,
+Acinetobacter baumannii,GCA_025246225.1,2021-02-15,Nigeria:Kano,123248,soil,73,3658905,
+Acinetobacter baumannii,GCA_025246245.1,2021-03-12,Nigeria:Kano,110046,school toilet,103,4020935,
+Acinetobacter baumannii,GCA_025246265.1,2021-02-18,Nigeria:Kano,103389,hospital drawer,123,4021972,
+Acinetobacter baumannii,GCA_025246305.1,2021-01-12,Nigeria:Kano,66694,hospital bed,160,4018874,
+Acinetobacter baumannii,GCA_025515635.1,2018-06,Dominican Republic:Santo Domingo,324095,Ozama River,22,3809530,
+Acinetobacter baumannii,GCA_025515655.1,2018-06,Dominican Republic:Santo Domingo,245032,Ozama River,22,3907124,
+Acinetobacter baumannii,,2018-08-14,USA,38229,ENVIRONMENT,228,3995260,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,172811,ENVIRONMENT,60,3968666,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,141769,ENVIRONMENT,104,4158444,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,190605,ENVIRONMENT,54,4044036,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,63293,ENVIRONMENT,115,3947573,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,88472,ENVIRONMENT,130,4261470,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,58060,ENVIRONMENT,174,3914306,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,223066,ENVIRONMENT,50,3999570,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,65408,ENVIRONMENT,142,4180291,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,64976,ENVIRONMENT,184,4139663,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,172812,ENVIRONMENT,70,4345635,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,100508,ENVIRONMENT,82,4225830,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,79601,ENVIRONMENT,100,4230335,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,112456,ENVIRONMENT,77,4096095,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,118326,ENVIRONMENT,83,4388459,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,92233,ENVIRONMENT,86,4203440,ILLUMINA
+Acinetobacter baumannii,,2018-08-14,USA,19944,ENVIRONMENT,475,3977297,ILLUMINA
+Acinetobacter baumannii,GCA_025854155.1,2018-10-14,USA,4064267,ENVIRONMENT,3,4142911,
+Acinetobacter baumannii,GCA_025854175.1,2018-10-14,USA,3965152,ENVIRONMENT,2,3984819,
+Acinetobacter baumannii,GCA_025854195.1,2018-10-14,USA,3965229,ENVIRONMENT,2,3984896,
+Acinetobacter baumannii,GCA_025854215.1,2018-08-14,USA,3964660,ENVIRONMENT,2,3984327,
+Acinetobacter baumannii,GCA_025854235.1,2018-08-14,USA,3901216,ENVIRONMENT,2,3920883,
+Acinetobacter baumannii,GCA_025854255.1,2018-08-14,USA,3871639,ENVIRONMENT,2,3981833,
+Acinetobacter baumannii,GCA_027960285.1,2010,United Kingdom,177926,,65,4000598,ILLUMINA
+Acinetobacter baumannii,GCA_028440605.1,2014,Brazil: Caruaru,99187,hospital inanimate surface,104,3806458,
+Acinetobacter baumannii,GCA_028440685.1,2014,Brazil: Caruaru,32803,hospital inanimate surface,257,3954963,
+Acinetobacter baumannii,GCA_029478065.1,2010,Brazil: Sao Paulo,36985,Water sample of Tiete River,309,4059310,
+Acinetobacter baumannii,GCA_029846935.1,2022-10-18,not available,453803,not available,26,3745095,
+Acinetobacter baumannii,GCA_029846925.1,2022-10-18,not available,368921,not available,24,3726799,
+Acinetobacter baumannii,GCA_029846975.1,2022-10-13,not available,365870,not available,25,3718086,
+Acinetobacter baumannii,GCA_029846995.1,2022-10-15,not available,397244,not available,24,3783796,
+Acinetobacter baumannii,GCA_029847015.1,2022-10-13,not available,475970,not available,39,3838628,
+Acinetobacter baumannii,GCA_029847035.1,2022-10-12,not available,475973,not available,43,3837915,
+Acinetobacter baumannii,GCA_029847055.1,2022-10-18,not available,985668,not available,25,3821068,
+Acinetobacter baumannii,GCA_029847065.1,2022-10-18,not available,393732,not available,26,3824941,
+Acinetobacter baumannii,GCA_029847095.1,2022-10-15,not available,349147,not available,42,3790843,
+Acinetobacter baumannii,GCA_029847115.1,2022-10-17,not available,272454,not available,45,3728736,
+Acinetobacter baumannii,GCA_029847135.1,2022-10-28,not available,464740,not available,27,3693483,
+Acinetobacter baumannii,GCA_029847145.1,2022-10-17,not available,493212,not available,40,3732951,
+Acinetobacter baumannii,GCA_029847175.1,2022-10-31,not available,467384,not available,31,3672195,
+Acinetobacter baumannii,GCA_029847195.1,2022-10-13,not available,2065852,not available,16,3708497,
+Acinetobacter baumannii,GCA_029847215.1,2022-10-15,not available,380988,not available,47,3818306,
+Acinetobacter baumannii,GCA_029847235.1,2022-10-17,not available,416278,not available,41,3886405,
+Acinetobacter baumannii,GCA_029847255.1,2022-10-13,not available,2041239,not available,15,3642040,
+Acinetobacter baumannii,GCA_029847285.1,2022-10-17,not available,2101622,not available,17,3722885,
+Acinetobacter baumannii,GCA_029847275.1,2022-10-25,not available,2301490,not available,27,3973530,
+Acinetobacter baumannii,GCA_029847315.1,2022-10-15,not available,230706,not available,87,4090098,
+Acinetobacter baumannii,GCA_029847325.1,2022-10-15,not available,866548,not available,31,3750201,
+Acinetobacter baumannii,GCA_029847355.1,2022-10-25,not available,131151,not available,86,3715148,
+Acinetobacter baumannii,GCA_029847375.1,2022-10-25,not available,329810,not available,32,3950916,
+Acinetobacter baumannii,GCA_029847385.1,2022-10-25,not available,396431,not available,28,3767154,
+Acinetobacter baumannii,GCA_029847455.2,2022-12-21,not available,3899864,not available,2,4006916,
+Acinetobacter baumannii,GCA_029847475.1,2022-12-21,not available,62222,not available,166,3679075,
+Acinetobacter baumannii,GCA_029847495.1,2022-12-19,not available,79755,not available,145,3709392,
+Acinetobacter baumannii,GCA_029847505.1,2022-12-21,not available,735273,not available,27,3960335,
+Acinetobacter baumannii,GCA_029847515.1,2022-12-19,not available,943005,not available,29,3873671,
+Acinetobacter baumannii,GCA_029847555.1,2022-12-14,not available,164402,not available,72,3660670,
+Acinetobacter baumannii,GCA_029847575.1,2022-12-14,not available,461768,not available,31,3747963,
+Acinetobacter baumannii,GCA_029847595.1,2022-12-14,not available,464972,not available,22,3710735,
+Acinetobacter baumannii,GCA_029847615.1,2022-12-14,not available,249001,not available,73,3833420,
+Acinetobacter baumannii,GCA_029847625.1,2022-12-14,not available,385548,not available,33,3969198,
+Acinetobacter baumannii,GCA_029847655.1,2022-12-14,not available,992518,not available,23,3871562,
+Acinetobacter baumannii,GCA_029847675.1,2022-12-15,not available,333759,not available,24,3783107,
+Acinetobacter baumannii,GCA_029847685.1,2022-12-14,not available,538054,not available,27,3875969,
+Acinetobacter baumannii,GCA_029847715.1,2022-12-14,not available,473524,not available,34,3992560,
+Acinetobacter baumannii,GCA_029847735.1,2022-12-14,not available,387858,not available,35,3886391,
+Acinetobacter baumannii,GCA_029847765.1,2022-12-14,not available,350674,not available,46,3708994,
+Acinetobacter baumannii,GCA_029847755.1,2022-12-13,not available,350674,not available,45,3708996,
+Acinetobacter baumannii,GCA_029847775.1,2022-12-13,not available,466144,not available,31,3919785,
+Acinetobacter baumannii,GCA_029847795.1,2022-12-13,not available,469376,not available,44,3934140,
+Acinetobacter baumannii,GCA_029847835.1,2022-12-13,not available,686366,not available,22,3824475,
+Acinetobacter baumannii,GCA_029847875.1,2022-12-13,not available,378053,not available,26,3950213,
+Acinetobacter baumannii,GCA_029847855.1,2022-12-12,not available,231807,not available,49,3773967,
+Acinetobacter baumannii,GCA_029847895.1,2022-12-13,not available,246286,not available,45,3900889,
+Acinetobacter baumannii,GCA_029847915.1,2022-12-12,not available,481268,not available,44,3739191,
+Acinetobacter baumannii,GCA_029847935.1,2022-12-12,not available,369566,not available,42,3844174,
+Acinetobacter baumannii,GCA_029847955.1,2022-12-11,not available,367381,not available,26,3865136,
+Acinetobacter baumannii,GCA_029847965.1,2022-12-11,not available,379862,not available,54,3767317,
+Acinetobacter baumannii,GCA_029847995.1,2022-12-12,not available,253560,not available,72,3939323,
+Acinetobacter baumannii,GCA_029848015.1,2022-12-11,not available,55147,not available,177,3828860,
+Acinetobacter baumannii,GCA_031142445.1,2023-04-27,USA:SC,459975,wastewater,21,4087372,ILLUMINA
+Acinetobacter baumannii,GCA_031142425.1,2023-04-27,USA:SC,70985,wastewater,104,3909232,ILLUMINA
+Acinetobacter baumannii,GCA_030552095.1,2022-03-07,not available,937840,not available,17,3782831,
+Acinetobacter baumannii,GCA_030552105.1,2022-03-07,not available,69296,not available,120,3856706,
+Acinetobacter baumannii,GCA_030552135.1,2022-02-23,not available,436661,not available,37,3829639,
+Acinetobacter baumannii,GCA_030552155.1,2022-02-28,not available,977605,not available,34,3885184,
+Acinetobacter baumannii,GCA_030552215.1,2022-03-16,not available,108377,not available,76,3701842,
+Acinetobacter baumannii,GCA_030552375.1,2022-03-16,not available,349634,not available,53,3826839,
+Acinetobacter baumannii,GCA_030552385.1,2022-02-28,not available,410553,not available,39,3968724,
+Acinetobacter baumannii,GCA_030552745.1,2022-02-23,not available,469500,not available,26,4001674,
+Acinetobacter baumannii,GCA_030552735.1,2022-02-28,not available,442651,not available,34,3863985,
+Acinetobacter baumannii,GCA_030552765.1,2022-02-23,not available,455990,not available,59,4111579,
+Acinetobacter baumannii,GCA_030552805.1,2022-03-07,not available,522447,not available,25,3880735,
+Acinetobacter baumannii,GCA_030553875.1,2023-03-30,not available,360741,not available,21,3814873,
+Acinetobacter baumannii,GCA_030553885.1,2023-03-30,not available,1018288,not available,16,3764043,
+Acinetobacter baumannii,GCA_030553935.1,2023-03-30,not available,332522,not available,28,3877940,
+Acinetobacter baumannii,GCA_030553945.1,2023-04-10,not available,96632,not available,164,3712051,
+Acinetobacter baumannii,GCA_030553955.1,2023-04-10,not available,535075,not available,31,3780235,
+Acinetobacter baumannii,GCA_030553995.1,2023-03-24,not available,363538,not available,24,3988878,
+Acinetobacter baumannii,GCA_030554015.1,2023-03-30,not available,468912,not available,31,3740376,
+Acinetobacter baumannii,GCA_030554035.1,2023-03-24,not available,727807,not available,22,3989781,
+Acinetobacter baumannii,GCA_030554065.1,2023-03-30,not available,718028,not available,38,3753633,
+Acinetobacter baumannii,GCA_030554055.1,2023-04-10,not available,466016,not available,25,3837060,
+Acinetobacter baumannii,GCA_030554125.1,2023-04-10,not available,55477,not available,136,3615431,
+Acinetobacter baumannii,GCA_030554115.1,2023-03-30,not available,457131,not available,24,3908243,
+Acinetobacter baumannii,GCA_030554155.1,2023-04-10,not available,345988,not available,38,3893649,
+Acinetobacter baumannii,GCA_030554185.1,2023-04-10,not available,161730,not available,74,3790041,
+Acinetobacter baumannii,GCA_030554175.1,2023-04-10,not available,456049,not available,48,3774327,
+Acinetobacter baumannii,GCA_030554195.1,2023-04-10,not available,248066,not available,60,3820274,
+Acinetobacter baumannii,GCA_030554235.1,2023-03-24,not available,387360,not available,41,3957691,
+Acinetobacter baumannii,GCA_030554255.1,2023-04-10,not available,418007,not available,41,3852756,
+Acinetobacter baumannii,GCA_030554245.1,2023-04-10,not available,364794,not available,47,3936132,
+Acinetobacter baumannii,GCA_030554295.1,2023-04-03,not available,399795,not available,30,3817366,
+Acinetobacter baumannii,GCA_030554315.1,2023-03-30,not available,298212,not available,31,3754125,
+Acinetobacter baumannii,GCA_030554305.1,2023-04-03,not available,2079081,not available,19,3693752,
+Acinetobacter baumannii,GCA_030554355.1,2023-03-30,not available,353126,not available,36,3857551,
+Acinetobacter baumannii,GCA_030554375.1,2023-03-30,not available,578421,not available,46,4034883,
+Acinetobacter baumannii,GCA_030554395.1,2023-03-30,not available,332427,not available,45,3849790,
+Acinetobacter baumannii,GCA_030554415.1,2023-03-30,not available,461733,not available,34,3656525,
+Acinetobacter baumannii,GCA_030554425.1,2023-03-30,not available,909653,not available,23,3845687,
+Acinetobacter baumannii,GCA_030554455.1,2023-03-30,not available,196382,not available,34,3755665,
+Acinetobacter baumannii,GCA_030554475.1,2023-03-30,not available,110935,not available,63,3749957,
+Acinetobacter baumannii,GCA_030554495.1,2023-03-30,not available,2110195,not available,16,3735085,
+Acinetobacter baumannii,GCA_030554505.1,2023-03-30,not available,139575,not available,57,3918467,
+Acinetobacter baumannii,GCA_030554545.1,2023-03-30,not available,501170,not available,36,3985514,
+Acinetobacter baumannii,GCA_030554535.1,2023-03-30,not available,122052,not available,62,3650667,
+Acinetobacter baumannii,GCA_030554575.1,2023-03-30,not available,464291,not available,49,4042217,
+Acinetobacter baumannii,GCA_030554595.1,2023-03-30,not available,332742,not available,29,3689541,
+Acinetobacter baumannii,GCA_030554605.1,2023-03-30,not available,500356,not available,26,3830358,
+Acinetobacter baumannii,GCA_030554635.1,2023-03-30,not available,461988,not available,28,3763410,
+Acinetobacter baumannii,GCA_030554665.1,2023-03-30,not available,479403,not available,29,3739270,
+Acinetobacter baumannii,GCA_030554655.1,2023-03-30,not available,30302,not available,215,3601548,
+Acinetobacter baumannii,GCA_030554695.1,2023-02-28,not available,258661,not available,52,3878451,
+Acinetobacter baumannii,GCA_030555075.1,2022-03-07,not available,132309,not available,61,3723698,
+Acinetobacter baumannii,GCA_030555095.1,2022-02-28,not available,361522,not available,25,3724856,
+Acinetobacter baumannii,GCA_030555115.1,2022-02-23,not available,367361,not available,26,4011488,
+Acinetobacter baumannii,GCA_030555125.1,2022-03-16,not available,369461,not available,31,3906488,
+Acinetobacter baumannii,GCA_030555155.1,2022-02-28,not available,350523,not available,31,3672068,
+Acinetobacter baumannii,GCA_030555175.1,2022-02-28,not available,32903,not available,232,3759439,
+Acinetobacter baumannii,GCA_030555195.1,2022-02-28,not available,2139463,not available,18,3774735,
+Acinetobacter baumannii,GCA_030555215.1,2022-02-28,not available,1007442,not available,20,3852714,
+Acinetobacter baumannii,GCA_030555235.1,2022-02-23,not available,894670,not available,30,3818027,
+Acinetobacter baumannii,GCA_030555555.1,2022-03-07,not available,352000,not available,54,4065185,
+Acinetobacter baumannii,GCA_030678675.1,2022-04-20,Portugal: Leiria,113705,,107,4048483,
+Acinetobacter baumannii,GCA_031156835.1,2023-05-29,China:Zhejiang,274372,sewage water,49,3861844,
+Acinetobacter baumannii,GCA_031156875.1,2023-05-29,China:Zhejiang,70185,sewage water,113,3712900,
+Acinetobacter baumannii,GCA_031156895.1,2023-05-29,China:Zhejiang,162092,sewage water,64,3928431,
+Acinetobacter baumannii,GCA_031156905.1,2023-05-29,China:Zhejiang,64329,sewage water,129,3759738,
+Acinetobacter baumannii,GCA_031156925.1,2023-05-29,China:Zhejiang,137487,sewage water,82,4001276,
+Acinetobacter baumannii,GCA_031156955.1,2023-05-29,China:Zhejiang,137487,sewage water,89,4001979,
+Acinetobacter baumannii,GCA_031156975.1,2023-05-29,China:Zhejiang,100456,sewage water,91,3874827,
+Acinetobacter baumannii,GCA_031156995.1,2023-05-29,China:Zhejiang,98483,sewage water,101,3883019,
+Acinetobacter baumannii,GCA_031157015.1,2023-05-29,China:Zhejiang,160965,sewage water,44,3896863,
+Acinetobacter baumannii,GCA_031157035.1,2023-05-29,China:Zhejiang,259233,sewage water,52,3875846,
+Acinetobacter baumannii,GCA_031157055.1,2023-05-29,China:Zhejiang,125211,sewage water,74,3903340,
+Acinetobacter baumannii,GCA_031157075.1,2023-05-29,China:Zhejiang,101917,sewage water,98,3882129,
+Acinetobacter baumannii,GCA_031157095.1,2023-05-29,China:Zhejiang,101952,sewage water,92,3916351,
+Acinetobacter baumannii,GCA_031157115.1,2023-05-29,China:Zhejiang,151110,sewage water,71,4020225,
+Acinetobacter baumannii,GCA_031157125.1,2023-05-29,China:Zhejiang,151110,sewage water,70,4020297,
+Acinetobacter baumannii,GCA_031157155.1,2023-05-29,China:Zhejiang,138320,sewage water,103,4120046,
+Acinetobacter baumannii,GCA_031157195.1,2023-05-29,China:Zhejiang,64145,sewage water,129,3760769,
+Acinetobacter baumannii,GCA_031157215.1,2023-05-29,China:Zhejiang,162153,sewage water,74,4037048,
+Acinetobacter baumannii,GCA_031157235.1,2023-05-29,China:Zhejiang,68788,sewage water,125,3759711,
+Acinetobacter baumannii,GCA_031157635.1,2023-05-29,China:Zhejiang,59577,sewage water,150,3725530,
+Acinetobacter baumannii,GCA_031157675.1,2023-05-29,China:Zhejiang,162092,sewage water,61,3965292,
+Acinetobacter baumannii,GCA_031157665.1,2023-05-29,China:Zhejiang,51911,sewage water,164,3694348,
+Acinetobacter baumannii,GCA_031157715.1,2023-05-29,China:Zhejiang,56212,sewage water,146,3785288,
+Acinetobacter baumannii,GCA_031157735.1,2023-05-29,China:Zhejiang,258702,sewage water,49,4054443,
+Acinetobacter baumannii,GCA_031157755.1,2023-05-29,China:Zhejiang,56133,sewage water,164,3694267,
+Acinetobacter baumannii,GCA_031157795.1,2023-05-29,China:Zhejiang,251046,sewage water,49,4054586,
+Acinetobacter baumannii,GCA_031157815.1,2023-05-29,China:Zhejiang,56289,sewage water,145,3785426,
+Acinetobacter baumannii,GCA_031157855.1,2023-05-29,China:Zhejiang,67990,sewage water,128,3752147,
+Acinetobacter baumannii,GCA_031157905.1,2023-05-29,China:Zhejiang,207904,sewage water,49,4055207,
+Acinetobacter baumannii,GCA_031157935.1,2023-05-29,China:Zhejiang,162092,sewage water,65,3965334,
+Acinetobacter baumannii,GCA_031157995.1,2023-05-29,China:Zhejiang,251056,sewage water,49,4053684,
+Acinetobacter baumannii,GCA_031158015.1,2023-05-29,China:Zhejiang,251046,sewage water,52,4052733,
+Acinetobacter baumannii,GCA_031158055.1,2023-05-29,China:Zhejiang,131012,sewage water,77,3997416,
+Acinetobacter baumannii,GCA_031158065.1,2023-05-29,China:Zhejiang,258702,sewage water,49,4014154,
+Acinetobacter baumannii,GCA_031158095.1,2023-05-29,China:Zhejiang,51690,sewage water,164,3692907,
+Acinetobacter baumannii,GCA_031158115.1,2023-05-29,China:Zhejiang,151858,sewage water,69,4013104,
+Acinetobacter baumannii,GCA_031158165.1,2023-05-29,China:Zhejiang,183056,sewage water,67,4013906,
+Acinetobacter baumannii,GCA_031158195.1,2023-05-29,China:Zhejiang,151858,sewage water,68,4012949,
+Acinetobacter baumannii,GCA_031158255.1,2023-05-29,China:Zhejiang,181280,sewage water,45,3879238,
+Acinetobacter baumannii,GCA_031158265.1,2023-05-29,China:Zhejiang,197409,sewage water,65,4014697,
+Acinetobacter baumannii,GCA_031158295.1,2023-05-29,China:Zhejiang,119919,sewage water,79,3944790,
+Acinetobacter baumannii,GCA_031158315.1,2023-05-29,China:Zhejiang,366271,sewage water,41,3894037,
+Acinetobacter baumannii,GCA_031158335.1,2023-05-29,China:Zhejiang,139453,sewage water,47,3878630,
+Acinetobacter baumannii,GCA_031158445.1,2023-05-29,China:Zhejiang,274931,sewage water,45,4084774,
+Acinetobacter baumannii,GCA_031158435.1,2023-05-29,China:Zhejiang,781543,sewage water,24,3970821,
+Acinetobacter baumannii,GCA_031158475.1,2023-05-29,China:Zhejiang,189946,sewage water,75,4024426,
+Acinetobacter baumannii,GCA_031158485.1,2023-05-29,China:Zhejiang,782050,sewage water,29,4040486,
+Acinetobacter baumannii,GCA_031158515.1,2023-05-29,China:Zhejiang,191939,sewage water,75,4030189,
+Acinetobacter baumannii,GCA_031158535.1,2023-05-29,China:Zhejiang,117955,sewage water,101,4010088,
+Acinetobacter baumannii,GCA_031158555.1,2023-05-29,China:Zhejiang,782050,sewage water,24,3963719,
+Acinetobacter baumannii,GCA_031158685.1,2023-05-29,China:Zhejiang,167818,sewage water,72,4091327,
+Acinetobacter baumannii,GCA_031632215.1,2022,India:Thiruvarur,120476,Waste water,119,4208714,
+Acinetobacter baumannii,GCA_032618875.1,2023-09-12,USA:SC,287647,wastewater,40,4451991,ILLUMINA
+Acinetobacter baumannii,GCA_032618835.1,2023-09-12,USA:SC,287657,wastewater,39,4196815,ILLUMINA
+Acinetobacter baumannii,GCA_033030705.1,2016,South Africa,3980041,hospital surface,14,4161713,
+Acinetobacter baumannii,GCA_033030945.1,2016,Rwanda,3711595,hospital surface,10,3834692,
+Acinetobacter baumannii,GCA_033031075.1,2016,Rwanda,3978987,hospital surface,19,4139587,
+Acinetobacter baumannii,GCA_033031125.1,2016,Rwanda,4022866,hospital surface,10,4051689,
+Acinetobacter baumannii,GCA_033031145.1,2016,Rwanda,667743,hospital surface,44,4100523,
+Acinetobacter baumannii,GCA_033031165.1,2016,Rwanda,144912,hospital surface,96,4049207,
+Acinetobacter baumannii,GCA_033034015.1,2016,Nigeria,4034466,hospital surface,6,4053631,
+Acinetobacter baumannii,GCA_033034115.1,2016,Nigeria,2430464,hospital surface,28,4247360,
+Acinetobacter baumannii,GCA_033034515.1,2016,Bangladesh,16773,hospital surface,481,3839829,
+Acinetobacter baumannii,GCA_033100335.1,2023-07-18,not available,465665,not available,22,3820033,
+Acinetobacter baumannii,GCA_033100375.1,2023-07-23,not available,238698,not available,66,3864293,
+Acinetobacter baumannii,GCA_033100355.1,2023-07-23,not available,128072,not available,83,3829151,
+Acinetobacter baumannii,GCA_033100415.1,2023-07-18,not available,347449,not available,36,3841189,
+Acinetobacter baumannii,GCA_033100435.1,2023-07-18,not available,460953,not available,33,4126048,
+Acinetobacter baumannii,GCA_033100455.1,2023-07-18,not available,834978,not available,27,3773846,
+Acinetobacter baumannii,GCA_033100475.1,2023-07-23,not available,277411,not available,34,3746057,
+Acinetobacter baumannii,GCA_033100495.1,2023-07-23,not available,468747,not available,32,3915358,
+Acinetobacter baumannii,GCA_033100515.1,2023-07-17,not available,391086,not available,42,3708315,
+Acinetobacter baumannii,GCA_033100535.1,2023-07-23,not available,460643,not available,27,3697835,
+Acinetobacter baumannii,GCA_033100555.1,2023-07-23,not available,1906911,not available,21,3712320,
+Acinetobacter baumannii,GCA_033100575.1,2023-07-23,not available,483937,not available,39,3875825,
+Acinetobacter baumannii,GCA_033100595.1,2023-07-23,not available,364267,not available,38,3672119,
+Acinetobacter baumannii,GCA_033100615.1,2023-07-23,not available,968970,not available,28,3800446,
+Acinetobacter baumannii,GCA_033100635.1,2023-07-23,not available,467158,not available,26,3928588,
+Acinetobacter baumannii,GCA_033100655.1,2023-07-23,not available,520651,not available,36,3896222,
+Acinetobacter baumannii,GCA_033100675.1,2023-07-23,not available,352145,not available,55,3758774,
+Acinetobacter baumannii,GCA_033100695.1,2023-07-23,not available,505930,not available,28,3695286,
+Acinetobacter baumannii,GCA_033100735.1,2023-07-23,not available,2088640,not available,15,3743923,
+Acinetobacter baumannii,GCA_033101855.1,2023-07-23,not available,465381,not available,46,3713799,
+Acinetobacter baumannii,GCA_033101915.1,2023-06-11,not available,283643,not available,67,3922653,
+Acinetobacter baumannii,GCA_033101935.1,2023-06-19,not available,379814,not available,47,3877105,
+Acinetobacter baumannii,GCA_033101955.1,2023-06-06,not available,302774,not available,47,3849086,
+Acinetobacter baumannii,GCA_033101975.1,2023-06-15,not available,349856,not available,36,3781377,
+Acinetobacter baumannii,GCA_033101995.1,2023-06-19,not available,488047,not available,29,3783769,
+Acinetobacter baumannii,GCA_033102015.1,2023-06-19,not available,353304,not available,39,3707677,
+Acinetobacter baumannii,GCA_033102035.1,2023-06-12,not available,370863,not available,43,3809604,
+Acinetobacter baumannii,GCA_033102055.1,2023-06-10,not available,298097,not available,46,3800590,
+Acinetobacter baumannii,GCA_033102075.1,2023-06-14,not available,1013346,not available,20,3744417,
+Acinetobacter baumannii,GCA_033102095.1,2023-06-19,not available,457871,not available,30,3732251,
+Acinetobacter baumannii,GCA_033102115.1,2023-07-01,not available,345686,not available,38,3670633,
+Acinetobacter baumannii,GCA_033102135.1,2023-07-11,not available,349119,not available,64,3903290,
+Acinetobacter baumannii,GCA_033102155.1,2023-06-14,not available,970817,not available,25,3772371,
+Acinetobacter baumannii,GCA_033102175.1,2023-06-28,not available,411863,not available,28,3843145,
+Acinetobacter baumannii,GCA_033102195.1,2023-07-01,not available,364285,not available,35,3907984,
+Acinetobacter baumannii,GCA_033102215.1,2023-06-28,not available,416374,not available,26,3747596,
+Acinetobacter baumannii,GCA_033102235.1,2023-07-01,not available,349119,not available,61,3903066,
+Acinetobacter baumannii,GCA_033102255.1,2023-07-17,not available,839540,not available,19,3764943,
+Acinetobacter baumannii,GCA_033102275.1,2023-07-01,not available,476267,not available,45,3791502,
+Acinetobacter baumannii,GCA_033102295.1,2023-07-06,not available,481702,not available,38,3915778,
+Acinetobacter baumannii,GCA_033102325.1,2023-06-28,not available,464202,not available,38,3857790,
+Acinetobacter baumannii,GCA_033102315.1,2023-06-07,not available,319690,not available,42,3813473,
+Acinetobacter baumannii,GCA_033102355.1,2023-07-05,not available,465513,not available,57,3822519,
+Acinetobacter baumannii,GCA_033102375.1,2023-06-08,not available,474065,not available,40,3834732,
+Acinetobacter baumannii,GCA_033102395.1,2023-07-17,not available,884462,not available,24,3845718,
+Acinetobacter baumannii,GCA_033102415.1,2023-07-01,not available,375179,not available,46,3984776,
+Acinetobacter baumannii,GCA_033102435.1,2023-07-17,not available,2199536,not available,18,3817321,
+Acinetobacter baumannii,GCA_033102455.1,2023-06-15,not available,936882,not available,25,3824555,
+Acinetobacter baumannii,GCA_033102475.1,2023-07-17,not available,839540,not available,19,3764942,
+Acinetobacter baumannii,GCA_033102495.1,2023-07-17,not available,839540,not available,19,3764943,
+Acinetobacter baumannii,GCA_033102515.1,2023-05-23,not available,892566,not available,20,3870646,
+Acinetobacter baumannii,GCA_033102535.1,2023-05-23,not available,359660,not available,57,3865066,
+Acinetobacter baumannii,GCA_033102555.1,2023-06-06,not available,377427,not available,41,3785012,
+Acinetobacter baumannii,GCA_033102575.1,2023-04-25,not available,470589,not available,29,3869301,
+Acinetobacter baumannii,GCA_033102595.1,2023-06-06,not available,347166,not available,37,3802180,
+Acinetobacter baumannii,GCA_033102615.1,2023-06-04,not available,346198,not available,51,3841889,
+Acinetobacter baumannii,GCA_033102635.1,2023-04-25,not available,320991,not available,63,3899322,
+Acinetobacter baumannii,GCA_033102655.1,2023-06-02,not available,322603,not available,33,3766261,
+Acinetobacter baumannii,GCA_033102675.1,2023-04-25,not available,349032,not available,30,3726790,
+Acinetobacter baumannii,GCA_033102695.1,2023-04-25,not available,369701,not available,43,3892783,
+Acinetobacter baumannii,GCA_033102715.1,,not available,424084,not available,21,3809056,
+Acinetobacter baumannii,GCA_033102735.1,2023-04-23,not available,661986,not available,17,3848782,
+Acinetobacter baumannii,GCA_033102755.1,2023-05-02,not available,327688,not available,30,4001222,
+Acinetobacter baumannii,GCA_033102775.1,2023-04-25,not available,369564,not available,37,3914649,
+Acinetobacter baumannii,GCA_033102795.1,2023-04-22,not available,399795,not available,32,3778981,
+Acinetobacter baumannii,GCA_033102815.1,2023-03-19,not available,455930,not available,35,3836770,
+Acinetobacter baumannii,GCA_033102835.1,2023-04-23,not available,327693,not available,38,4015753,
+Acinetobacter baumannii,GCA_033102845.1,2023-04-23,not available,364308,not available,30,3884523,
+Acinetobacter baumannii,GCA_033102875.1,2023-07-17,not available,370006,not available,40,3755115,
+Acinetobacter baumannii,GCA_033102895.1,2023-06-13,not available,576008,not available,30,3843314,
+Acinetobacter baumannii,GCA_033102915.1,2023-06-13,not available,369876,not available,40,3853400,
+Acinetobacter baumannii,GCA_033102935.1,2023-06-09,not available,882022,not available,25,3831103,
+Acinetobacter baumannii,GCA_033102955.1,2023-06-13,not available,477624,not available,29,3800436,
+Acinetobacter baumannii,GCA_033102975.1,2023-06-09,not available,358200,not available,29,3756227,
+Acinetobacter baumannii,GCA_033102995.1,2023-06-08,not available,214942,not available,53,3840568,
+Acinetobacter baumannii,GCA_033103015.1,2023-06-10,not available,241445,not available,58,3758964,
+Acinetobacter baumannii,GCA_033103035.1,2023-06-14,not available,834909,not available,25,3742241,
+Acinetobacter baumannii,GCA_033103055.1,2023-06-15,not available,385420,not available,29,3791268,
+Acinetobacter baumannii,GCA_033103075.1,2023-06-03,not available,1034995,not available,28,3856841,
+Acinetobacter baumannii,GCA_033103095.1,2023-06-06,not available,351310,not available,34,3743996,
+Acinetobacter baumannii,GCA_033103115.1,2023-06-08,not available,332188,not available,37,3747970,
+Acinetobacter baumannii,GCA_033103135.1,2023-06-09,not available,834909,not available,28,3742303,
+Acinetobacter baumannii,GCA_033103155.1,2023-06-08,not available,374855,not available,55,3812029,
+Acinetobacter baumannii,GCA_033103175.1,,not available,374460,not available,50,3843892,
+Acinetobacter baumannii,GCA_033103195.1,2023-06-08,not available,462248,not available,20,3776762,
+Acinetobacter baumannii,GCA_033103215.1,2023-05-09,not available,68419,not available,155,3641062,
+Acinetobacter baumannii,GCA_033187155.1,2021-12-09,France: Marcy l'etoile,3877839,oral swab,1,3877839,
+Acinetobacter baumannii,GCA_033187975.1,2021-12-07,France: Marcy l'etoile,3842192,oral swab,1,3842192,
+Acinetobacter baumannii,GCA_033188675.1,2021-12-07,France: Marcy l'etoile,3850979,oral swab,1,3850979,
+Acinetobacter baumannii,GCA_033189435.1,2021-12-07,France: Marcy l'etoile,3824214,oral swab,1,3824214,
+Acinetobacter baumannii,GCA_033189955.1,2021-12-07,France: Marcy l'etoile,3877162,oral swab,2,3881966,
+Acinetobacter baumannii,GCA_033189995.1,2021-12-07,France: Marcy l'etoile,3842503,oral swab,1,3842503,
+Acinetobacter baumannii,GCA_033190015.1,2021-11-18,France: Marcy l'etoile,3945407,oral swab,1,3945407,
+Acinetobacter baumannii,GCA_033190095.1,2021-09-22,France: Marcy l'etoile,3962234,oral swab,1,3962234,
+Acinetobacter baumannii,GCA_033190675.1,2021-05-26,France: Marcy l'etoile,3841316,oral swab,1,3841316,
+Acinetobacter baumannii,GCA_033190815.1,2021-05-26,France: Marcy l'etoile,3840805,oral swab,1,3840805,
+Acinetobacter baumannii,GCA_033191195.1,2021-05-18,France: Marcy l'etoile,3841318,oral swab,1,3841318,
+Acinetobacter baumannii,GCA_033191435.1,2021-05-18,France: Marcy l'etoile,3831295,oral swab,1,3831295,
+Acinetobacter baumannii,GCA_033192035.1,2021-05-18,France: Marcy l'etoile,3997947,oral swab,4,4023899,
+Acinetobacter baumannii,GCA_033451365.1,2023-10-16,USA:SC,287657,wastewater,38,4232291,ILLUMINA
+Acinetobacter baumannii,GCA_033469325.1,2021-11-08,France: Marcy l'etoile,3915620,hospital environment,5,3946983,
+Acinetobacter baumannii,GCA_033903145.1,2023-07-28,not available,463498,not available,43,3864688,
+Acinetobacter baumannii,GCA_033903165.1,2023-07-28,not available,268382,not available,61,3862484,
+Acinetobacter baumannii,GCA_033903185.1,2023-07-28,not available,436680,not available,28,3707607,
+Acinetobacter baumannii,GCA_033903205.1,2023-07-27,not available,458038,not available,34,3841313,
+Acinetobacter baumannii,GCA_033903225.1,2023-07-28,not available,356364,not available,36,3721499,
+Acinetobacter baumannii,GCA_033903245.1,2023-07-27,not available,542281,not available,30,3865647,
+Acinetobacter baumannii,GCA_033903265.1,2023-07-28,not available,463744,not available,25,3789420,
+Acinetobacter baumannii,GCA_033903285.1,2023-04-25,not available,850817,not available,28,3786923,
+Acinetobacter baumannii,GCA_033903325.1,2023-07-28,not available,463565,not available,43,3864678,
+Acinetobacter baumannii,GCA_033903345.1,2023-04-25,not available,850817,not available,29,3786803,
+Acinetobacter baumannii,GCA_036441095.1,2018,Germany,346812,,38,3709548,
+Acinetobacter baumannii,GCA_036528695.1,2018,Germany,167251,fish,77,3874781,
+Acinetobacter baumannii,GCA_036584025.1,2017-04-17,not available,3879180,not available,4,4128176,
+Acinetobacter baumannii,GCA_036689575.1,2019-03-07,not available,3904433,not available,1,3904433,
+Acinetobacter baumannii,GCA_036701095.1,2019-03-06,not available,3664921,not available,3,3677465,
+Acinetobacter baumannii,,2021-10-12,"India:Yeshwanthpur, Bengaluru, Karnataka",234822,prawn tissue,52,3786652,ILLUMINA
+Acinetobacter baumannii,,2022-05-30,"India:Hebbal, Bengaluru, Kaarnataka",254951,pig meat,45,3764226,ILLUMINA
+Acinetobacter baumannii,,2022-05-17,"India:Krishnarajapuram, Bengaluru, Karnataka",218094,pig meat,244,3892760,ILLUMINA
+Acinetobacter baumannii,,2022-12-06,"India:Hersaghatta, Bengaluru, Karnataka",258353,buffalo meat,56,3889309,ILLUMINA
+Acinetobacter baumannii,,2022-04-13,"India:Shivaji Nagar, Bengaluru, Karnataka",217902,buffalo meat,52,3875926,ILLUMINA
+Acinetobacter baumannii,,2022-12-06,"India:Bommasandra, Bengaluru, Karnataka",363897,sheep meat,65,3944803,ILLUMINA
+Acinetobacter baumannii,,2022-03-20,"India:Hebbal, Bengaluru, Karnataka",363897,sheep meat,66,3887334,ILLUMINA
+Acinetobacter baumannii,,2021-10-21,"India:Yelahanka, Bengaluru, Karnataka",363622,chicken meat,36,3955995,ILLUMINA
+Acinetobacter baumannii,,2021-10-18,"India:Yeshwanthpur, Bengaluru, Karnataka",256319,chicken meat,51,3963950,ILLUMINA
+Acinetobacter baumannii,GCA_037007985.1,2023-11-18,not available,461813,not available,49,3852351,
+Acinetobacter baumannii,GCA_037008005.1,2023-11-18,not available,435338,not available,35,3730617,
+Acinetobacter baumannii,GCA_037008025.1,2023-09-17,not available,115255,not available,128,3807307,
+Acinetobacter baumannii,GCA_037008045.1,2023-09-17,not available,910610,not available,27,3833871,
+Acinetobacter baumannii,GCA_037008085.1,2023-09-16,not available,468881,not available,33,3809678,
+Acinetobacter baumannii,GCA_037008105.1,2023-09-17,not available,347700,not available,42,3829141,
+Acinetobacter baumannii,GCA_037008125.1,2023-09-16,not available,838693,not available,30,3783933,
+Acinetobacter baumannii,GCA_037008145.1,2023-09-16,not available,178628,not available,63,3875622,
+Acinetobacter baumannii,GCA_037008165.1,2023-09-16,not available,467751,not available,38,3854811,
+Acinetobacter baumannii,GCA_037008185.1,2023-09-16,not available,264199,not available,46,3738907,
+Acinetobacter baumannii,GCA_037008205.1,2023-09-16,not available,317270,not available,49,3935562,
+Acinetobacter baumannii,GCA_037008225.1,2023-09-16,not available,66947,not available,159,3765746,
+Acinetobacter baumannii,GCA_037008245.1,2023-09-16,not available,380478,not available,57,3974350,
+Acinetobacter baumannii,GCA_037008265.1,2023-09-16,not available,352132,not available,33,3757110,
+Acinetobacter baumannii,GCA_037008285.1,2023-08-14,not available,369493,not available,37,3761174,
+Acinetobacter baumannii,GCA_037008305.1,2023-08-12,not available,2079863,not available,22,3686811,
+Acinetobacter baumannii,GCA_037008325.1,2023-08-12,not available,2102766,not available,16,3727457,
+Acinetobacter baumannii,GCA_037008345.1,2023-08-12,not available,2097592,not available,16,3781676,
+Acinetobacter baumannii,GCA_037008365.1,2023-08-12,not available,463983,not available,30,3807717,
+Acinetobacter baumannii,GCA_037008385.1,2023-08-12,not available,108302,not available,147,4021672,
+Acinetobacter baumannii,GCA_037008405.1,2023-08-12,not available,361786,not available,35,3788730,
+Acinetobacter baumannii,GCA_037008425.1,2023-08-12,not available,2174662,not available,14,3812003,
+Acinetobacter baumannii,GCA_037008445.1,2023-07-31,not available,2074641,not available,15,3703004,
+Acinetobacter baumannii,GCA_037008465.1,2023-07-30,not available,457635,not available,17,3703004,
+Acinetobacter baumannii,GCA_037008485.1,2023-07-25,not available,507308,not available,37,3646019,
+Acinetobacter baumannii,GCA_037008495.1,2023-07-22,not available,270312,not available,40,3728574,
+Acinetobacter baumannii,GCA_037008525.1,2023-07-20,not available,348223,not available,35,3966604,
+Acinetobacter baumannii,GCA_037118705.1,2018-09-20,Singapore,407704,not available,27,3724280,
+Acinetobacter baumannii,GCA_037118735.1,2018-09-20,Singapore,90135,not available,86,3829718,
+Acinetobacter baumannii,GCA_037118785.1,2018-09-20,Singapore,189793,not available,35,3753349,
+Acinetobacter baumannii,GCA_037120275.1,2018-10-13,Singapore,235910,not available,51,3806503,
+Acinetobacter baumannii,GCA_037120295.1,2018-09-20,Singapore,273675,not available,48,3751430,
+Acinetobacter baumannii,GCA_037120335.1,2018-09-20,Singapore,190468,not available,48,3803939,
+Acinetobacter baumannii,GCA_037120355.1,2018-09-20,Singapore,190468,not available,51,3795544,
+Acinetobacter baumannii,GCA_037120375.1,2018-09-20,Singapore,125619,not available,86,3845007,
+Acinetobacter baumannii,GCA_037172585.1,2023-10,Hong Kong,396162,wet market,31,4140273,
+Acinetobacter baumannii,GCA_037172825.1,2023-10,Hong Kong,465740,wet market,51,4173988,
+Acinetobacter baumannii,,2018,restricted access,105598,Room Env,87,4058752,ILLUMINA
+Acinetobacter baumannii,GCA_037721955.1,2018-10-17,Singapore,136738,not available,53,3806231,
+Acinetobacter baumannii,GCA_037721985.1,2018-10-17,Singapore,199540,not available,48,3725224,
+Acinetobacter baumannii,GCA_037724445.1,2019-03-05,not available,194059,not available,50,3902125,
+Acinetobacter baumannii,GCA_037724585.1,2019-03-12,not available,86001,not available,63,3664927,
+Acinetobacter baumannii,GCA_037724625.1,2019-03-12,not available,98141,not available,50,3809099,
+Acinetobacter baumannii,GCA_037724645.1,2019-03-05,not available,103500,not available,75,3812849,
+Acinetobacter baumannii,GCA_037724705.1,2019-03-05,not available,144085,not available,45,3729071,
+Acinetobacter baumannii,GCA_037724785.1,2019-03-05,not available,67534,not available,150,3808705,
+Acinetobacter baumannii,GCA_037724825.1,2019-03-06,not available,206681,not available,37,3746525,
+Acinetobacter baumannii,GCA_037724845.1,2019-03-06,not available,78852,not available,80,3839939,
+Acinetobacter baumannii,GCA_037725045.1,2019-03-06,not available,59834,not available,103,3806454,
+Acinetobacter baumannii,GCA_037725105.1,2019-03-05,not available,104556,not available,59,3642828,
+Acinetobacter baumannii,GCA_037725125.1,2019-03-06,not available,62714,not available,97,3732346,
+Acinetobacter baumannii,GCA_037725135.1,2019-03-05,not available,42397,not available,187,3886223,
+Acinetobacter baumannii,GCA_038432215.1,2023-10-30,Bangladesh:Rajshahi,103712,Surface water in a pond,161,3787050,
+Acinetobacter baumannii,GCA_039715225.1,2017-07-24,not available,1027575,not available,23,3853166,
+Acinetobacter baumannii,GCA_039715255.1,2017-04-17,not available,85353,not available,178,3888805,
+Acinetobacter baumannii,GCA_039715275.1,2017-04-17,not available,155356,not available,77,3733963,
+Acinetobacter baumannii,GCA_039715305.1,2017-04-17,not available,860685,not available,32,3818191,
+Acinetobacter baumannii,GCA_039715355.1,2017-04-17,not available,367995,not available,38,3987778,
+Acinetobacter baumannii,GCA_039715375.1,2017-04-17,not available,256165,not available,83,4017403,
+Acinetobacter baumannii,GCA_039715395.1,2017-04-17,not available,903206,not available,23,3708789,
+Acinetobacter baumannii,GCA_039715415.1,2017-04-17,not available,172003,not available,49,3846289,
+Acinetobacter baumannii,GCA_039715435.1,2017-04-17,not available,860685,not available,32,3818190,
+Acinetobacter baumannii,GCA_039715455.1,2017-12-10,not available,471328,not available,46,3913615,
+Acinetobacter baumannii,GCA_039715475.1,2017-04-17,not available,386597,not available,31,3989672,
+Acinetobacter baumannii,GCA_039715505.1,2017-04-17,not available,910795,not available,24,3716077,
+Acinetobacter baumannii,GCA_039715525.1,2017-12-10,not available,461280,not available,15,3763491,
+Acinetobacter baumannii,GCA_039715495.1,2017-12-10,not available,242754,not available,51,3810573,
+Acinetobacter baumannii,GCA_039715555.1,2017-12-10,not available,476785,not available,33,3792041,
+Acinetobacter baumannii,GCA_039715575.1,2017-03-15,not available,1957162,not available,23,3829493,
+Acinetobacter baumannii,GCA_039715595.1,2017-04-17,not available,860685,not available,32,3818219,
+Acinetobacter baumannii,GCA_039715615.1,2017-04-17,not available,860685,not available,33,3824688,
+Acinetobacter baumannii,GCA_039715635.1,2017-04-17,not available,440658,not available,32,3917444,
+Acinetobacter baumannii,GCA_039715655.1,2017-04-17,not available,256166,not available,81,4017510,
+Acinetobacter baumannii,GCA_039715675.1,2017-03-15,not available,2134181,not available,28,4025675,
+Acinetobacter baumannii,GCA_039715695.1,2017-04-17,not available,172003,not available,53,3843877,
+Acinetobacter baumannii,GCA_039715715.1,2017-12-10,not available,46711,not available,228,3629272,
+Acinetobacter baumannii,GCA_039715735.1,2017-04-17,not available,255761,not available,59,3865463,
+Acinetobacter baumannii,GCA_039715755.1,2017-04-17,not available,860685,not available,33,3824706,
+Acinetobacter baumannii,GCA_039715775.1,2017-04-17,not available,367995,not available,38,3987777,
+Acinetobacter baumannii,GCA_039715795.1,2017-04-17,not available,263942,not available,62,4038630,
+Acinetobacter baumannii,GCA_039715825.1,2017-03-13,not available,50429,not available,191,3741394,
+Acinetobacter baumannii,GCA_039715815.1,2017-04-17,not available,441959,not available,29,3756571,
+Acinetobacter baumannii,GCA_039715845.1,2017-04-17,not available,441959,not available,28,3756271,
+Acinetobacter baumannii,GCA_039725545.1,,Sweden,3912067,hydrocarbon-contaminated soil,1,3912067,
+Acinetobacter baumannii,GCA_039725555.1,,Finland,3960257,Brewery,6,4208122,
+Acinetobacter baumannii,,2023-05-08,Canada:Ontario,22632,Coconut meat [FOODON:00003856]; Ready-to-eat (RTE) [FOODON:03316636]; Food (chunks) [FOODON:00004555]; Food (frozen) [FOODON:03302148]; Retail environment [ENVO:01001448],439,3971522,ILLUMINA
+Acinetobacter baumannii,,2023-06-15,Canada:Ontario,31805,Coconut meat [FOODON:00003856]; Ready-to-eat (RTE) [FOODON:03316636]; Food (chunks) [FOODON:00004555]; Food (frozen) [FOODON:03302148]; Retail environment [ENVO:01001448],216,3907346,ILLUMINA
+Acinetobacter baumannii,,2023-09-08,Canada:Ontario,42610,Coconut meat [FOODON:00003856]; Ready-to-eat (RTE) [FOODON:03316636]; Food (chunks) [FOODON:00004555]; Food (frozen) [FOODON:03302148]; Retail environment [ENVO:01001448],207,4013837,ILLUMINA
+Acinetobacter baumannii,,2023-03-20,Canada:Ontario,53754,Coconut meat [FOODON:00003856]; Ready-to-eat (RTE) [FOODON:03316636]; Food (chunks) [FOODON:00004555]; Food (frozen) [FOODON:03302148]; Retail environment [ENVO:01001448],159,3820509,ILLUMINA
+Acinetobacter baumannii,,2023-03-20,Canada:Ontario,63954,Coconut meat [FOODON:00003856]; Ready-to-eat (RTE) [FOODON:03316636]; Food (chunks) [FOODON:00004555]; Food (frozen) [FOODON:03302148]; Retail environment [ENVO:01001448],125,3868711,ILLUMINA
+Acinetobacter baumannii,,2023-03-20,Canada:Ontario,245652,Coconut meat [FOODON:00003856]; Ready-to-eat (RTE) [FOODON:03316636]; Food (chunks) [FOODON:00004555]; Food (frozen) [FOODON:03302148]; Retail environment [ENVO:01001448],48,4009648,ILLUMINA
+Acinetobacter baumannii,,2023-11-08,USA:NC,347410,WWTP effluent sampling point,26,4391497,ILLUMINA
+Acinetobacter baumannii,,2023-10-17,USA:NC,477192,WWTP effluent sampling point - cinder wall,21,4463315,ILLUMINA
+Acinetobacter baumannii,GCA_040223815.1,2019-09-20,Brazil: Belem,82012,water,107,4081109,
+Acinetobacter baumannii,GCA_040239585.1,2019-09-20,Brazil: Belem,82387,water,104,4075647,
+Acinetobacter baumannii,GCA_040581475.1,2019,USA:MO,4068938,SHRIMP (SH),5,4289547,
+Acinetobacter baumannii,GCA_040698405.1,2023-04,India: Umiam,219804,Fish gills,67,4044150,
+Acinetobacter baumannii,GCA_040698455.1,2023-04,India: Mawlai,348181,Retail chicken,43,3834412,
+Acinetobacter baumannii,GCA_040698495.1,2023-04,India: Mawlai,347908,Retail chicken,36,3864783,
+Acinetobacter baumannii,GCA_040698565.1,2023-07,India: Mawlai,330394,Retail Pork,37,3859154,
+Acinetobacter baumannii,GCA_040698595.1,2023-09,India: Laitumkhrah,1012688,Retail pork,31,3846831,
+Acinetobacter baumannii,GCA_040698575.1,2023-09,India: Laitumkhrah,348016,Retail pork,48,3807422,
+Acinetobacter baumannii,GCA_040698635.1,2023-07,India: Mawlai,330394,Retail Pork,38,3973639,
+Acinetobacter baumannii,GCA_040698665.1,2023-03,India: Umiam,347944,Retail chicken,43,3868486,
+Acinetobacter baumannii,GCA_040698685.1,2023-11,India: Shillong,2114644,Wound swab,26,3853860,
+Acinetobacter baumannii,GCA_040698705.1,2023-03,India: Umiam,364919,Retail chicken,30,3760507,
+Acinetobacter baumannii,GCA_040698725.1,2023-03,India: Umiam,364783,Retail chicken,31,3762122,
+Acinetobacter baumannii,GCA_040789965.1,2003,USA,97699,Hospital environment,98,3824473,
+Acinetobacter baumannii,GCA_040789985.1,2003,USA,104044,Hospital environment,90,3861673,
+Acinetobacter baumannii,GCA_040790285.1,2003,USA,97699,Hospital environment,104,3823203,
+Acinetobacter baumannii,GCA_040790305.1,2003,USA,104943,Hospital environment,88,3862572,
+Acinetobacter baumannii,GCA_040790335.1,2003,USA,104943,Hospital environment,89,3862840,
+Acinetobacter baumannii,GCA_041022215.1,2024-03-09,not available,309044,not available,60,3956813,
+Acinetobacter baumannii,GCA_041023465.1,2024-03-10,not available,82044,not available,126,3603815,
+Acinetobacter baumannii,GCA_041023495.1,2024-03-09,not available,353406,not available,53,3948348,
+Acinetobacter baumannii,GCA_041023535.1,2024-03-09,not available,353406,not available,53,3947635,
+Acinetobacter baumannii,GCA_041023555.1,2024-02-29,not available,466569,not available,30,3762839,
+Acinetobacter baumannii,GCA_041023585.1,2023-12-16,not available,477555,not available,39,3722392,
+Acinetobacter baumannii,GCA_041023575.1,2024-02-29,not available,466569,not available,30,3762662,
+Acinetobacter baumannii,GCA_041023615.1,2023-12-16,not available,477555,not available,39,3722012,
+Acinetobacter baumannii,GCA_041023635.1,2023-12-16,not available,468254,not available,41,3722298,
+Acinetobacter baumannii,GCA_041755625.1,2024-06-04,USA:PA,460514,wound,24,3926002,ILLUMINA
+Acinetobacter baumannii,GCA_041762665.1,2024-04-26,USA:PA,335425,Endotracheal wash,28,4176022,ILLUMINA
+Acinetobacter baumannii,GCA_041755545.1,2024-02-27,USA:NJ,114949,Surgical site,95,4150992,ILLUMINA
+Acinetobacter baumannii,,2021-10-05,Switzerland: Basel,102177,Positioning pillows head,104,4306769,ILLUMINA
+Acinetobacter baumannii,,2021-10-05,Switzerland: Basel,100653,Drawer handles patient room,117,4187261,ILLUMINA
+Acinetobacter baumannii,,2021-10-05,Switzerland: Basel,102177,Cuffpressure manometer,103,4292465,ILLUMINA
+Acinetobacter baumannii,GCA_042148595.1,2024-04-07,USA:PA,68393,Endotracheal wash,128,4147301,ILLUMINA
+Acinetobacter baumannii,GCA_042748075.1,2022-09-20,Russia: Nizhny Tagil,110451,The outer surface of the artificial lung ventilation device,157,3922897,
+Acinetobacter baumannii,GCA_042748265.1,2023-02-28,Russia: Nizhny Tagil,121172,The outer surface of the doctor's overall,159,3977701,
+Acinetobacter baumannii,GCA_042748315.1,2022-09-21,Russia: Nizhny Tagil,63803,The outer surface of the electric pump,196,4000882,
+Acinetobacter baumannii,GCA_042748235.1,2022-09-20,Russia: Nizhny Tagil,26391,The outer surface of the covering pair of doctor's gloves,454,3854384,
+Acinetobacter baumannii,GCA_042748375.1,2023-02-28,Russia: Nizhny Tagil,141952,Handrails and levers on the resuscitation bed,111,3922857,
+Acinetobacter baumannii,GCA_042748385.1,2023-03-01,Russia: Nizhny Tagil,110451,Handrails and levers on the resuscitation bed,155,3975038,
+Acinetobacter baumannii,GCA_042748455.1,2023-02-28,Russia: Nizhny Tagil,129322,The outer surface of the artificial lung ventilation device,158,3973396,
+Acinetobacter baumannii,GCA_042748545.1,2022-09-20,Russia: Nizhny Tagil,33065,Handrails and levers on the resuscitation bed,453,3937323,
+Acinetobacter baumannii,GCA_042748585.1,2022-09-20,Russia: Nizhny Tagil,21550,The outer surface of the doctor's overall,622,4026941,
+Acinetobacter baumannii,GCA_042748495.1,2022-09-20,Russia: Nizhny Tagil,142048,The outer surface of the covering pair of the orderly's gloves,137,3960013,
+Acinetobacter baumannii,GCA_042748615.1,2022-09-23,Russia: Nizhny Tagil,77749,The outer surface of the orderly's overall,210,3946719,
+Acinetobacter baumannii,GCA_042748745.1,2022-09-22,Russia: Nizhny Tagil,66574,The outer surface of the covering pair of doctor's gloves,197,4048313,
+Acinetobacter baumannii,GCA_042748725.1,2023-02-28,Russia: Nizhny Tagil,86010,The outer surface of the covering pair of the orderly's gloves,175,3977424,
+Acinetobacter baumannii,GCA_042748805.1,2023-03-02,Russia: Nizhny Tagil,39118,The outer surface of the nurse's overall,618,4022931,
+Acinetobacter baumannii,GCA_042764305.1,,,3896718,hospital,3,4183601,
