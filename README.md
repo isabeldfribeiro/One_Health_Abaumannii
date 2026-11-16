@@ -1,5 +1,7 @@
 # One Health *Acinetobacter baumannii*
 
+[![DOI](https://zenodo.org/badge/1352973698.svg)](https://doi.org/10.5281/zenodo.24267448)
+
 Data and code for a comparative genomic analysis of 1,094 *Acinetobacter baumannii* genomes from human, hospital, environmental and animal sources, within a One Health framework.
 
 ## Genomes analysed
