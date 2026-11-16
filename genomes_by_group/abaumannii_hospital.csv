@@ -1,119 +1,119 @@
-Genome Name,Assembly,Date,Location,N50,Isolation source,Contigs,Size,Platform,Grupo,ST
-Acinetobacter baumannii strain DD520,GCA_018454385.1,2021.0,China,3973595.0,hospital surface,2,4084562,Illumina HiSeq; Oxford Nanopore,amb_hosp,2
-Acinetobacter baumannii strain 20A2804,GCA_019352475.1,2019.0,Reunion,75212.0,chair,113,3949516,Illumina NextSeq,amb_hosp,1
-Acinetobacter baumannii HKU3,GCA_020520325.1,2020.0,Hong Kong,3989953.0,hospital surface,3,4068208,Oxford Nanopore MinION; Illumina iSeq,amb_hosp,2
-Acinetobacter baumannii HKU4,GCA_020520345.1,2020.0,Hong Kong,3989720.0,hospital surface,3,4067975,Oxford Nanopore MinION; Illumina iSeq,amb_hosp,2
-Acinetobacter baumannii HKU5,GCA_020520365.1,2020.0,Hong Kong,3989875.0,hospital surface,3,4068130,Oxford Nanopore MinION; Illumina iSeq,amb_hosp,2
-Acinetobacter baumannii HKU7,GCA_020520405.1,2020.0,Hong Kong,3991015.0,hospital surface,3,4069270,Oxford Nanopore MinION; Illumina iSeq,amb_hosp,2
-Acinetobacter baumannii HKU6,GCA_020520385.1,2020.0,Hong Kong,3991008.0,hospital surface,3,4069263,Oxford Nanopore MinION; Illumina iSeq,amb_hosp,2
-Acinetobacter baumannii Ab27-HEnv,GCA_021725575.1,2016.0,Saudi Arabia,131103.0,hospital surface,75,3993988,Illumina,amb_hosp,2
-Acinetobacter baumannii Ab133-HEnv,GCA_021726495.1,2016.0,Saudi Arabia,838947.0,hospital surface,21,3674845,Illumina,amb_hosp,2089
-Acinetobacter baumannii IY-BUK4,GCA_025246265.1,2021.0,Nigeria,103389.0,drawer,123,4021972,Illumina,amb_hosp,2
-Acinetobacter baumannii IY-BUK 1a,GCA_025246305.1,2021.0,Nigeria,66694.0,bed,160,4018874,Illumina,amb_hosp,2
-Acinetobacter baumannii GU71,GCA_002863545.1,2013.0,India,162485.0,hospital surface,56,3968977,Illumina HiSeq,amb_hosp,-
-Acinetobacter baumannii Ab124,GCA_028440605.1,2014.0,Brazil,99187.0,hospital surface,104,3806458,Illumina MiSeq,amb_hosp,1
-Acinetobacter baumannii Ab107,GCA_028440685.1,2014.0,Brazil,32803.0,hospital surface,257,3954963,Illumina MiSeq,amb_hosp,79
-Acinetobacter baumannii M200,GCA_030541455.1,2023.0,China,189713.0,hospital surface,94,4023055,Illumina HiSeq,amb_hosp,2
-Acinetobacter baumannii M146,GCA_030541295.1,2023.0,China,162153.0,hospital surface,101,4068564,Illumina HiSeq,amb_hosp,2
-Acinetobacter baumannii M260,GCA_030541145.1,2023.0,China,189713.0,hospital surface,98,4022092,Illumina HiSeq,amb_hosp,2
-Acinetobacter baumannii M147,GCA_030541265.1,2023.0,China,168181.0,hospital surface,86,4112462,Illumina HiSeq,amb_hosp,2
-Acinetobacter baumannii M217,GCA_030541365.1,2023.0,China,189713.0,hospital surface,93,4022897,Illumina HiSeq,amb_hosp,2
-Acinetobacter baumannii C783,GCA_030541235.1,2023.0,China,168181.0,hospital surface,88,4111928,Illumina HiSeq,amb_hosp,2
-Acinetobacter baumannii M263-2,GCA_030541305.1,2023.0,China,189981.0,hospital surface,87,4023145,Illumina HiSeq,amb_hosp,2
-Acinetobacter baumannii C804,GCA_030541285.1,2023.0,China,168181.0,hospital surface,76,4045263,Illumina HiSeq,amb_hosp,2
-Acinetobacter baumannii M223,GCA_030541105.1,2023.0,China,126234.0,hospital surface,89,4024533,Illumina HiSeq,amb_hosp,2
-Acinetobacter baumannii M163,GCA_030541185.1,2023.0,China,142394.0,hospital surface,91,4111292,Illumina HiSeq,amb_hosp,2
-Acinetobacter baumannii M206,GCA_030541405.1,2023.0,China,189713.0,hospital surface,97,4022074,Illumina HiSeq,amb_hosp,2
-Acinetobacter baumannii C265,GCA_030541385.1,2023.0,China,189713.0,hospital surface,95,4020174,Illumina HiSeq,amb_hosp,2
-Acinetobacter baumannii C266,GCA_030541425.1,2023.0,China,189818.0,hospital surface,95,4021482,Illumina HiSeq,amb_hosp,2
-Acinetobacter baumannii SNUBHAB0291,GCA_033181005.1,2016.0,South Korea,3975597.0,hospital surface,2,4047425,"Illumina, Pacbio",amb_hosp,2
-Acinetobacter baumannii SNUBHAB0277,GCA_033181805.1,2016.0,South Korea,3908746.0,hospital surface,3,4015100,"Illumina, Pacbio",amb_hosp,2
-Acinetobacter baumannii ABO21-A049,GCA_033469325.1,2021.0,France,3915620.0,hospital surface,5,3946983,Illumina HiSeq; Oxford Nanopore MinION,amb_hosp,578
-Acinetobacter baumannii strain AB_US_2,GCA_003939385.1,2016.0,USA,158509.0,bed,120,3950649,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_US_1,GCA_003939395.1,2016.0,USA,137138.0,button,124,3947639,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_401,GCA_003939415.1,2016.0,Pakistan,120634.0,alcohol dispenser,76,3955796,Illumina NextSeq,amb_hosp,187
-Acinetobacter baumannii strain AB_381,GCA_003939445.1,2016.0,Pakistan,131412.0,button,78,3898744,Illumina NextSeq,amb_hosp,-
-Acinetobacter baumannii strain AB_369,GCA_003939465.1,2016.0,Pakistan,138165.0,interrupter,57,3861436,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_374,GCA_003939475.1,2016.0,Pakistan,131514.0,alcohol dispenser,77,3900028,Illumina NextSeq,amb_hosp,-
-Acinetobacter baumannii strain AB_368,GCA_003939505.1,2016.0,Pakistan,164343.0,bed,57,3935742,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_359,GCA_003939545.1,2016.0,Pakistan,131578.0,alcohol dispenser,82,3939262,Illumina NextSeq,amb_hosp,-
-Acinetobacter baumannii strain AB_364,GCA_003939525.1,2016.0,Pakistan,170375.0,bed,49,3881426,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_353,GCA_003939565.1,2016.0,Pakistan,953912.0,alcohol dispenser,17,3788723,Illumina NextSeq,amb_hosp,2146
-Acinetobacter baumannii strain AB_349,GCA_003939585.1,2016.0,Pakistan,43457.0,bed,206,3764588,Illumina NextSeq,amb_hosp,145
-Acinetobacter baumannii strain AB_347,GCA_003939595.1,2016.0,Pakistan,41215.0,button,219,3759721,Illumina NextSeq,amb_hosp,145
-Acinetobacter baumannii strain AB_331,GCA_003939625.1,2016.0,Pakistan,140410.0,alcohol dispenser,69,3956751,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_221,GCA_003939645.1,2016.0,Pakistan,140410.0,button,115,3954451,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_186,GCA_003939655.1,2016.0,Pakistan,120951.0,sink,87,3980207,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_US_6,GCA_003939925.1,2016.0,USA,136175.0,interrupter,134,3993426,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_397,GCA_003939935.1,2016.0,Pakistan,116945.0,interrupter,83,3939953,Illumina NextSeq,amb_hosp,-
-Acinetobacter baumannii strain AB_396,GCA_003939955.1,2016.0,Pakistan,116945.0,bed,82,3939861,Illumina NextSeq,amb_hosp,-
-Acinetobacter baumannii strain AB_390,GCA_003939985.1,2016.0,Pakistan,120283.0,bed,73,3973768,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_387,GCA_003940005.1,2016.0,Pakistan,134925.0,alcohol dispenser,77,3956262,Illumina NextSeq,amb_hosp,187
-Acinetobacter baumannii strain AB_382,GCA_003940015.1,2016.0,Pakistan,116944.0,bed,80,3901202,Illumina NextSeq,amb_hosp,-
-Acinetobacter baumannii strain AB_363,GCA_003940045.1,2016.0,Pakistan,63622.0,button,124,3611233,Illumina NextSeq,amb_hosp,-
-Acinetobacter baumannii strain AB_267,GCA_003940065.1,2016.0,Pakistan,120023.0,interrupter,85,3968347,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_235,GCA_003940075.1,2016.0,Pakistan,159686.0,interrupter,94,4032886,Illumina NextSeq,amb_hosp,1
-Acinetobacter baumannii strain AB_165,GCA_003940105.1,2016.0,Pakistan,347554.0,alcohol dispenser,28,3988841,Illumina NextSeq,amb_hosp,52
-Acinetobacter baumannii strain AB_159,GCA_003940125.1,2016.0,Pakistan,161234.0,interrupter,66,3979484,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_156,GCA_003940135.1,2016.0,Pakistan,161680.0,bed,67,3979460,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_US_10,GCA_003940325.1,2016.0,USA,83937.0,bed,159,3946798,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_394,GCA_003940335.1,2016.0,Pakistan,120185.0,alcohol dispenser,69,3948453,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_391,GCA_003940365.1,2016.0,Pakistan,120093.0,interrupter,98,4004877,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_389,GCA_003940395.1,2016.0,Pakistan,120093.0,button,95,4005096,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_258,GCA_003940865.1,2016.0,Pakistan,120023.0,button,82,3969654,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_193,GCA_003940875.1,2016.0,Pakistan,140410.0,bed,73,3957289,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_172,GCA_003940915.1,2016.0,Pakistan,140403.0,interrupter,87,3979720,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_261,GCA_003940925.1,2016.0,Pakistan,120023.0,bed,87,3967845,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_191,GCA_003940895.1,2016.0,Pakistan,271312.0,button,32,3774790,Illumina NextSeq,amb_hosp,821
-Acinetobacter baumannii strain AB_168,GCA_003940965.1,2016.0,Pakistan,131072.0,button,90,3981110,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_272,GCA_003941015.1,2016.0,Pakistan,131072.0,alcohol dispenser,92,3978353,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_230,GCA_003941025.1,2016.0,Pakistan,121299.0,bed,109,3953293,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_203,GCA_003941065.1,2016.0,Pakistan,143168.0,alcohol dispenser,73,3959225,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_170,GCA_003941085.1,2016.0,Pakistan,119273.0,bed,84,3978122,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_194,GCA_003941095.1,2016.0,Pakistan,271312.0,interrupter,31,3772371,Illumina NextSeq,amb_hosp,821
-Acinetobacter baumannii strain AB_152,GCA_003941125.1,2016.0,Pakistan,164075.0,alcohol dispenser,56,3860677,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_161,GCA_003941135.1,2016.0,Pakistan,121386.0,sink,96,3953725,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_149,GCA_003941145.1,2016.0,Pakistan,122140.0,sink,108,3988198,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_126,GCA_003941185.1,2016.0,Pakistan,140410.0,alcohol dispenser,74,3927524,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_147,GCA_003941195.1,2016.0,Pakistan,131072.0,interrupter,72,3859892,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_145,GCA_003941205.1,2016.0,Pakistan,129769.0,bed,103,3986692,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_107,GCA_003941245.1,2016.0,Pakistan,59404.0,alcohol dispenser,161,3971287,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_115,GCA_003941255.1,2016.0,Pakistan,120828.0,sink,91,3980452,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_100,GCA_003941285.1,2016.0,Pakistan,69614.0,bed,123,3974434,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_095,GCA_003941295.1,2016.0,Pakistan,221402.0,sink,42,3987669,Illumina NextSeq,amb_hosp,52
-Acinetobacter baumannii strain AB_104,GCA_003941305.1,2016.0,Pakistan,140403.0,sink,85,3978610,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_091,GCA_003941315.1,2016.0,Pakistan,142907.0,bed,80,3980622,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_098,GCA_003941325.1,2016.0,Pakistan,70291.0,button,122,3977854,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_088,GCA_003941385.1,2016.0,Pakistan,63862.0,button,154,3951387,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_074,GCA_003941405.1,2016.0,Pakistan,140410.0,sink,78,3958429,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_085,GCA_003941415.1,2016.0,Pakistan,119273.0,alcohol dispenser,94,3978139,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_062,GCA_003941425.1,2016.0,Pakistan,102148.0,alcohol dispenser,96,3980009,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_056,GCA_003941435.1,2016.0,Pakistan,119291.0,button,91,3978580,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_039,GCA_003941485.1,2016.0,Pakistan,22578.0,bed,410,3908069,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_036,GCA_003941505.1,2016.0,Pakistan,37459.0,button,269,3964399,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_035,GCA_003941515.1,2016.0,Pakistan,121985.0,alcohol dispenser,71,4001950,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_023,GCA_003941525.1,2016.0,Pakistan,131178.0,sink,99,3985500,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_020,GCA_003941545.1,2016.0,Pakistan,142907.0,interrupter,81,3976988,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_014,GCA_003941585.1,2016.0,Pakistan,131178.0,bed,94,3987184,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_002,GCA_003941605.1,2016.0,Pakistan,131178.0,button,106,3984209,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_140,GCA_003941615.1,2016.0,Pakistan,131178.0,sink,77,3957744,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_102,GCA_003941625.1,2016.0,Pakistan,131072.0,interrupter,90,3977282,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_097,GCA_003941645.1,2016.0,Pakistan,82163.0,alcohol dispenser,136,3985209,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_094,GCA_003941685.1,2016.0,Pakistan,131072.0,interrupter,89,3978931,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_083,GCA_003941695.1,2016.0,Pakistan,64465.0,sink,178,3952804,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_077,GCA_003941715.1,2016.0,Pakistan,122041.0,bed,85,3983692,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_043,GCA_003941735.1,2016.0,Pakistan,115478.0,interrupter,132,3953328,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_053,GCA_003941755.1,2016.0,Pakistan,106637.0,sink,91,3968909,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_026,GCA_003941785.1,2016.0,Pakistan,38460.0,bed,212,3995216,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_025,GCA_003941815.1,2016.0,Pakistan,77805.0,button,126,3854945,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii strain AB_029,GCA_003941795.1,2016.0,Pakistan,28308.0,interrupter,281,3845327,Illumina NextSeq,amb_hosp,2
-Acinetobacter baumannii,GCA_016497365.1,2016-03-28,Korea: Seongnam,87114.0,bed,108,4053623,ILLUMINA,amb_hosp,2
-Acinetobacter baumannii,GCA_016497285.1,2016-03-25,Korea: Seongnam,118868.0,bed,103,4023380,ILLUMINA,amb_hosp,2
-Acinetobacter baumannii,GCA_016497245.1,2016-03-28,Korea: Seongnam,87836.0,bed,109,4053567,ILLUMINA,amb_hosp,2
-Acinetobacter baumannii,GCA_020106295.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw hospital surface ICU",130855.0,Bedside table,120,4127892,ILLUMINA,amb_hosp,2
-Acinetobacter baumannii,GCA_020111875.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw hospital surface ICU",140786.0,Ventilator shelf,99,4030224,ILLUMINA,amb_hosp,2
-Acinetobacter baumannii,GCA_020106135.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw hospital surface ICU",112324.0,Ventilator shelf,211,4190730,ILLUMINA,amb_hosp,2
-Acinetobacter baumannii,GCA_020113435.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw hospital surface ICU",30451.0,Nebuliser,327,4241072,ILLUMINA,amb_hosp,2
-Acinetobacter baumannii,GCA_020105435.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw hospital surface ICU",140785.0,Infusion stand,97,4156605,ILLUMINA,amb_hosp,2
-Acinetobacter baumannii,GCA_020105275.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw hospital surface ICU",140199.0,Ventilator shelf,122,4122507,ILLUMINA,amb_hosp,2
-Acinetobacter baumannii,GCA_020112235.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw hospital surface ICU",26314.0,Ventilator shelf,349,4020370,ILLUMINA,amb_hosp,2
+Genome Name,Assembly,Date,Location,N50,Isolation source,Contigs,Size,Platform,ST
+Acinetobacter baumannii strain DD520,GCA_018454385.1,2021.0,China,3973595.0,hospital surface,2,4084562,Illumina HiSeq; Oxford Nanopore,2
+Acinetobacter baumannii strain 20A2804,GCA_019352475.1,2019.0,Reunion,75212.0,chair,113,3949516,Illumina NextSeq,1
+Acinetobacter baumannii HKU3,GCA_020520325.1,2020.0,Hong Kong,3989953.0,hospital surface,3,4068208,Oxford Nanopore MinION; Illumina iSeq,2
+Acinetobacter baumannii HKU4,GCA_020520345.1,2020.0,Hong Kong,3989720.0,hospital surface,3,4067975,Oxford Nanopore MinION; Illumina iSeq,2
+Acinetobacter baumannii HKU5,GCA_020520365.1,2020.0,Hong Kong,3989875.0,hospital surface,3,4068130,Oxford Nanopore MinION; Illumina iSeq,2
+Acinetobacter baumannii HKU7,GCA_020520405.1,2020.0,Hong Kong,3991015.0,hospital surface,3,4069270,Oxford Nanopore MinION; Illumina iSeq,2
+Acinetobacter baumannii HKU6,GCA_020520385.1,2020.0,Hong Kong,3991008.0,hospital surface,3,4069263,Oxford Nanopore MinION; Illumina iSeq,2
+Acinetobacter baumannii Ab27-HEnv,GCA_021725575.1,2016.0,Saudi Arabia,131103.0,hospital surface,75,3993988,Illumina,2
+Acinetobacter baumannii Ab133-HEnv,GCA_021726495.1,2016.0,Saudi Arabia,838947.0,hospital surface,21,3674845,Illumina,2089
+Acinetobacter baumannii IY-BUK4,GCA_025246265.1,2021.0,Nigeria,103389.0,drawer,123,4021972,Illumina,2
+Acinetobacter baumannii IY-BUK 1a,GCA_025246305.1,2021.0,Nigeria,66694.0,bed,160,4018874,Illumina,2
+Acinetobacter baumannii GU71,GCA_002863545.1,2013.0,India,162485.0,hospital surface,56,3968977,Illumina HiSeq,-
+Acinetobacter baumannii Ab124,GCA_028440605.1,2014.0,Brazil,99187.0,hospital surface,104,3806458,Illumina MiSeq,1
+Acinetobacter baumannii Ab107,GCA_028440685.1,2014.0,Brazil,32803.0,hospital surface,257,3954963,Illumina MiSeq,79
+Acinetobacter baumannii M200,GCA_030541455.1,2023.0,China,189713.0,hospital surface,94,4023055,Illumina HiSeq,2
+Acinetobacter baumannii M146,GCA_030541295.1,2023.0,China,162153.0,hospital surface,101,4068564,Illumina HiSeq,2
+Acinetobacter baumannii M260,GCA_030541145.1,2023.0,China,189713.0,hospital surface,98,4022092,Illumina HiSeq,2
+Acinetobacter baumannii M147,GCA_030541265.1,2023.0,China,168181.0,hospital surface,86,4112462,Illumina HiSeq,2
+Acinetobacter baumannii M217,GCA_030541365.1,2023.0,China,189713.0,hospital surface,93,4022897,Illumina HiSeq,2
+Acinetobacter baumannii C783,GCA_030541235.1,2023.0,China,168181.0,hospital surface,88,4111928,Illumina HiSeq,2
+Acinetobacter baumannii M263-2,GCA_030541305.1,2023.0,China,189981.0,hospital surface,87,4023145,Illumina HiSeq,2
+Acinetobacter baumannii C804,GCA_030541285.1,2023.0,China,168181.0,hospital surface,76,4045263,Illumina HiSeq,2
+Acinetobacter baumannii M223,GCA_030541105.1,2023.0,China,126234.0,hospital surface,89,4024533,Illumina HiSeq,2
+Acinetobacter baumannii M163,GCA_030541185.1,2023.0,China,142394.0,hospital surface,91,4111292,Illumina HiSeq,2
+Acinetobacter baumannii M206,GCA_030541405.1,2023.0,China,189713.0,hospital surface,97,4022074,Illumina HiSeq,2
+Acinetobacter baumannii C265,GCA_030541385.1,2023.0,China,189713.0,hospital surface,95,4020174,Illumina HiSeq,2
+Acinetobacter baumannii C266,GCA_030541425.1,2023.0,China,189818.0,hospital surface,95,4021482,Illumina HiSeq,2
+Acinetobacter baumannii SNUBHAB0291,GCA_033181005.1,2016.0,South Korea,3975597.0,hospital surface,2,4047425,"Illumina, Pacbio",2
+Acinetobacter baumannii SNUBHAB0277,GCA_033181805.1,2016.0,South Korea,3908746.0,hospital surface,3,4015100,"Illumina, Pacbio",2
+Acinetobacter baumannii ABO21-A049,GCA_033469325.1,2021.0,France,3915620.0,hospital surface,5,3946983,Illumina HiSeq; Oxford Nanopore MinION,578
+Acinetobacter baumannii strain AB_US_2,GCA_003939385.1,2016.0,USA,158509.0,bed,120,3950649,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_US_1,GCA_003939395.1,2016.0,USA,137138.0,button,124,3947639,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_401,GCA_003939415.1,2016.0,Pakistan,120634.0,alcohol dispenser,76,3955796,Illumina NextSeq,187
+Acinetobacter baumannii strain AB_381,GCA_003939445.1,2016.0,Pakistan,131412.0,button,78,3898744,Illumina NextSeq,-
+Acinetobacter baumannii strain AB_369,GCA_003939465.1,2016.0,Pakistan,138165.0,interrupter,57,3861436,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_374,GCA_003939475.1,2016.0,Pakistan,131514.0,alcohol dispenser,77,3900028,Illumina NextSeq,-
+Acinetobacter baumannii strain AB_368,GCA_003939505.1,2016.0,Pakistan,164343.0,bed,57,3935742,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_359,GCA_003939545.1,2016.0,Pakistan,131578.0,alcohol dispenser,82,3939262,Illumina NextSeq,-
+Acinetobacter baumannii strain AB_364,GCA_003939525.1,2016.0,Pakistan,170375.0,bed,49,3881426,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_353,GCA_003939565.1,2016.0,Pakistan,953912.0,alcohol dispenser,17,3788723,Illumina NextSeq,2146
+Acinetobacter baumannii strain AB_349,GCA_003939585.1,2016.0,Pakistan,43457.0,bed,206,3764588,Illumina NextSeq,145
+Acinetobacter baumannii strain AB_347,GCA_003939595.1,2016.0,Pakistan,41215.0,button,219,3759721,Illumina NextSeq,145
+Acinetobacter baumannii strain AB_331,GCA_003939625.1,2016.0,Pakistan,140410.0,alcohol dispenser,69,3956751,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_221,GCA_003939645.1,2016.0,Pakistan,140410.0,button,115,3954451,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_186,GCA_003939655.1,2016.0,Pakistan,120951.0,sink,87,3980207,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_US_6,GCA_003939925.1,2016.0,USA,136175.0,interrupter,134,3993426,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_397,GCA_003939935.1,2016.0,Pakistan,116945.0,interrupter,83,3939953,Illumina NextSeq,-
+Acinetobacter baumannii strain AB_396,GCA_003939955.1,2016.0,Pakistan,116945.0,bed,82,3939861,Illumina NextSeq,-
+Acinetobacter baumannii strain AB_390,GCA_003939985.1,2016.0,Pakistan,120283.0,bed,73,3973768,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_387,GCA_003940005.1,2016.0,Pakistan,134925.0,alcohol dispenser,77,3956262,Illumina NextSeq,187
+Acinetobacter baumannii strain AB_382,GCA_003940015.1,2016.0,Pakistan,116944.0,bed,80,3901202,Illumina NextSeq,-
+Acinetobacter baumannii strain AB_363,GCA_003940045.1,2016.0,Pakistan,63622.0,button,124,3611233,Illumina NextSeq,-
+Acinetobacter baumannii strain AB_267,GCA_003940065.1,2016.0,Pakistan,120023.0,interrupter,85,3968347,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_235,GCA_003940075.1,2016.0,Pakistan,159686.0,interrupter,94,4032886,Illumina NextSeq,1
+Acinetobacter baumannii strain AB_165,GCA_003940105.1,2016.0,Pakistan,347554.0,alcohol dispenser,28,3988841,Illumina NextSeq,52
+Acinetobacter baumannii strain AB_159,GCA_003940125.1,2016.0,Pakistan,161234.0,interrupter,66,3979484,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_156,GCA_003940135.1,2016.0,Pakistan,161680.0,bed,67,3979460,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_US_10,GCA_003940325.1,2016.0,USA,83937.0,bed,159,3946798,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_394,GCA_003940335.1,2016.0,Pakistan,120185.0,alcohol dispenser,69,3948453,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_391,GCA_003940365.1,2016.0,Pakistan,120093.0,interrupter,98,4004877,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_389,GCA_003940395.1,2016.0,Pakistan,120093.0,button,95,4005096,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_258,GCA_003940865.1,2016.0,Pakistan,120023.0,button,82,3969654,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_193,GCA_003940875.1,2016.0,Pakistan,140410.0,bed,73,3957289,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_172,GCA_003940915.1,2016.0,Pakistan,140403.0,interrupter,87,3979720,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_261,GCA_003940925.1,2016.0,Pakistan,120023.0,bed,87,3967845,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_191,GCA_003940895.1,2016.0,Pakistan,271312.0,button,32,3774790,Illumina NextSeq,821
+Acinetobacter baumannii strain AB_168,GCA_003940965.1,2016.0,Pakistan,131072.0,button,90,3981110,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_272,GCA_003941015.1,2016.0,Pakistan,131072.0,alcohol dispenser,92,3978353,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_230,GCA_003941025.1,2016.0,Pakistan,121299.0,bed,109,3953293,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_203,GCA_003941065.1,2016.0,Pakistan,143168.0,alcohol dispenser,73,3959225,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_170,GCA_003941085.1,2016.0,Pakistan,119273.0,bed,84,3978122,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_194,GCA_003941095.1,2016.0,Pakistan,271312.0,interrupter,31,3772371,Illumina NextSeq,821
+Acinetobacter baumannii strain AB_152,GCA_003941125.1,2016.0,Pakistan,164075.0,alcohol dispenser,56,3860677,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_161,GCA_003941135.1,2016.0,Pakistan,121386.0,sink,96,3953725,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_149,GCA_003941145.1,2016.0,Pakistan,122140.0,sink,108,3988198,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_126,GCA_003941185.1,2016.0,Pakistan,140410.0,alcohol dispenser,74,3927524,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_147,GCA_003941195.1,2016.0,Pakistan,131072.0,interrupter,72,3859892,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_145,GCA_003941205.1,2016.0,Pakistan,129769.0,bed,103,3986692,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_107,GCA_003941245.1,2016.0,Pakistan,59404.0,alcohol dispenser,161,3971287,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_115,GCA_003941255.1,2016.0,Pakistan,120828.0,sink,91,3980452,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_100,GCA_003941285.1,2016.0,Pakistan,69614.0,bed,123,3974434,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_095,GCA_003941295.1,2016.0,Pakistan,221402.0,sink,42,3987669,Illumina NextSeq,52
+Acinetobacter baumannii strain AB_104,GCA_003941305.1,2016.0,Pakistan,140403.0,sink,85,3978610,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_091,GCA_003941315.1,2016.0,Pakistan,142907.0,bed,80,3980622,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_098,GCA_003941325.1,2016.0,Pakistan,70291.0,button,122,3977854,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_088,GCA_003941385.1,2016.0,Pakistan,63862.0,button,154,3951387,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_074,GCA_003941405.1,2016.0,Pakistan,140410.0,sink,78,3958429,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_085,GCA_003941415.1,2016.0,Pakistan,119273.0,alcohol dispenser,94,3978139,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_062,GCA_003941425.1,2016.0,Pakistan,102148.0,alcohol dispenser,96,3980009,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_056,GCA_003941435.1,2016.0,Pakistan,119291.0,button,91,3978580,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_039,GCA_003941485.1,2016.0,Pakistan,22578.0,bed,410,3908069,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_036,GCA_003941505.1,2016.0,Pakistan,37459.0,button,269,3964399,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_035,GCA_003941515.1,2016.0,Pakistan,121985.0,alcohol dispenser,71,4001950,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_023,GCA_003941525.1,2016.0,Pakistan,131178.0,sink,99,3985500,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_020,GCA_003941545.1,2016.0,Pakistan,142907.0,interrupter,81,3976988,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_014,GCA_003941585.1,2016.0,Pakistan,131178.0,bed,94,3987184,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_002,GCA_003941605.1,2016.0,Pakistan,131178.0,button,106,3984209,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_140,GCA_003941615.1,2016.0,Pakistan,131178.0,sink,77,3957744,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_102,GCA_003941625.1,2016.0,Pakistan,131072.0,interrupter,90,3977282,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_097,GCA_003941645.1,2016.0,Pakistan,82163.0,alcohol dispenser,136,3985209,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_094,GCA_003941685.1,2016.0,Pakistan,131072.0,interrupter,89,3978931,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_083,GCA_003941695.1,2016.0,Pakistan,64465.0,sink,178,3952804,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_077,GCA_003941715.1,2016.0,Pakistan,122041.0,bed,85,3983692,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_043,GCA_003941735.1,2016.0,Pakistan,115478.0,interrupter,132,3953328,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_053,GCA_003941755.1,2016.0,Pakistan,106637.0,sink,91,3968909,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_026,GCA_003941785.1,2016.0,Pakistan,38460.0,bed,212,3995216,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_025,GCA_003941815.1,2016.0,Pakistan,77805.0,button,126,3854945,Illumina NextSeq,2
+Acinetobacter baumannii strain AB_029,GCA_003941795.1,2016.0,Pakistan,28308.0,interrupter,281,3845327,Illumina NextSeq,2
+Acinetobacter baumannii,GCA_016497365.1,2016-03-28,Korea: Seongnam,87114.0,bed,108,4053623,ILLUMINA,2
+Acinetobacter baumannii,GCA_016497285.1,2016-03-25,Korea: Seongnam,118868.0,bed,103,4023380,ILLUMINA,2
+Acinetobacter baumannii,GCA_016497245.1,2016-03-28,Korea: Seongnam,87836.0,bed,109,4053567,ILLUMINA,2
+Acinetobacter baumannii,GCA_020106295.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw hospital surface ICU",130855.0,Bedside table,120,4127892,ILLUMINA,2
+Acinetobacter baumannii,GCA_020111875.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw hospital surface ICU",140786.0,Ventilator shelf,99,4030224,ILLUMINA,2
+Acinetobacter baumannii,GCA_020106135.1,2019-10-15,"China: Hangzhou, Sir Run Run Shaw hospital surface ICU",112324.0,Ventilator shelf,211,4190730,ILLUMINA,2
+Acinetobacter baumannii,GCA_020113435.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw hospital surface ICU",30451.0,Nebuliser,327,4241072,ILLUMINA,2
+Acinetobacter baumannii,GCA_020105435.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw hospital surface ICU",140785.0,Infusion stand,97,4156605,ILLUMINA,2
+Acinetobacter baumannii,GCA_020105275.1,2019-10-08,"China: Hangzhou, Sir Run Run Shaw hospital surface ICU",140199.0,Ventilator shelf,122,4122507,ILLUMINA,2
+Acinetobacter baumannii,GCA_020112235.1,2019-08-27,"China: Hangzhou, Sir Run Run Shaw hospital surface ICU",26314.0,Ventilator shelf,349,4020370,ILLUMINA,2

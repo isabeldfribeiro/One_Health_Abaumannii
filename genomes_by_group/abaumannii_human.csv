@@ -1,685 +1,685 @@
-Genome Name,Assembly,Date,Location,N50,Isolation source,Host Group,Contigs,Size,Platform,Grupo,ST
-Acinetobacter baumannii BJAB07104,GCA_000419385.1,2007.0,China,3951920.0,Blood,Human,3,4042229,Illumina,humano,2
-Acinetobacter baumannii NIPH 1669,GCA_000368105.1,1997.0,Netherlands,503026.0,Blood,Human,21,3861243,Illumina,humano,3
-Acinetobacter baumannii ZWS1122,GCA_000299655.1,2011.0,China,129488.0,blood,Human,60,3937258,Illumina Hiseq,humano,2
-Acinetobacter baumannii ZWS1219,GCA_000299675.1,2011.0,China,133541.0,blood,Human,70,3964728,Illumina Hiseq,humano,2
-Acinetobacter baumannii UH0707,GCA_000515495.1,2007.0,USA,80335.0,blood,Human,227,4043283,Illumina GAIIx,humano,2
-Acinetobacter baumannii UH14508,GCA_000515675.1,2008.0,USA,140932.0,blood,Human,138,4202102,Illumina GAIIx,humano,2
-Acinetobacter baumannii UH7907,GCA_000516375.1,2007.0,USA,61177.0,blood,Human,185,4015169,Illumina GAIIx,humano,79
-Acinetobacter baumannii UH8407,GCA_000515935.1,2007.0,USA,133591.0,blood,Human,92,3917690,Illumina GAIIx,humano,2
-Acinetobacter baumannii UH8907,GCA_000515875.1,2007.0,USA,90907.0,blood,Human,159,3930810,Illumina GAIIx,humano,524
-Acinetobacter baumannii UH9007,GCA_000515995.1,2007.0,USA,64410.0,blood,Human,217,4197251,Illumina GAIIx,humano,2
-Acinetobacter baumannii strain BP12616,GCA_010178615.1,2019.0,India,121630.0,blood,Human,142,3956146,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA7036,GCA_010178625.1,2019.0,India,121027.0,blood,Human,127,3949512,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BP5187,GCA_010178645.1,2019.0,India,152104.0,blood,Human,119,3963568,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA33767,GCA_010178715.1,2019.0,India,152104.0,blood,Human,86,3891108,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA8188,GCA_010178695.1,2019.0,India,130861.0,blood,Human,91,3911158,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA7577,GCA_010178725.1,2019.0,India,121176.0,blood,Human,119,3926564,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA4718,GCA_010178735.1,2019.0,India,116814.0,blood,Human,171,3873186,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA6233,GCA_010178765.1,2019.0,India,119426.0,blood,Human,120,3952953,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA3554,GCA_010178795.1,2019.0,India,152110.0,blood,Human,87,3908069,Illumina HiSeq,humano,187
-Acinetobacter baumannii strain BA34044,GCA_010178815.1,2019.0,India,99970.0,blood,Human,91,3867893,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA27713,GCA_010178825.1,2019.0,India,139996.0,blood,Human,110,3908248,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA29413,GCA_010178855.1,2019.0,India,106257.0,blood,Human,116,3857841,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA29150,GCA_010178835.1,2019.0,India,82801.0,blood,Human,215,4053345,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA27267,GCA_010178895.1,2019.0,India,133449.0,blood,Human,80,3852877,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA25340,GCA_010178915.1,2019.0,India,109298.0,blood,Human,100,3914378,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain BA2485,GCA_010178925.1,2019.0,India,131272.0,blood,Human,87,3900883,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA27036,GCA_010178945.1,2019.0,India,117951.0,blood,Human,118,3991691,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA23801,GCA_010179015.1,2019.0,India,117951.0,blood,Human,123,4011072,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA22708,GCA_010178955.1,2019.0,India,55571.0,blood,Human,213,3895096,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA1691,GCA_010179035.1,2019.0,India,152111.0,blood,Human,163,4052962,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA20825,GCA_010179055.1,2019.0,India,121630.0,blood,Human,134,3934947,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA21245,GCA_010179065.1,2019.0,India,133449.0,blood,Human,171,4055201,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA18786,GCA_010179075.1,2019.0,India,140203.0,blood,Human,79,3877483,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA17806,GCA_010179105.1,2019.0,India,121630.0,blood,Human,147,3958862,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA14629,GCA_010179145.1,2019.0,India,223048.0,blood,Human,87,4165665,Illumina HiSeq,humano,25
-Acinetobacter baumannii strain BA16059,GCA_010179135.1,2019.0,India,100539.0,blood,Human,164,4063775,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA13312,GCA_010179175.1,2019.0,India,139996.0,blood,Human,158,4055756,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA13405,GCA_010179185.1,2019.0,India,152104.0,blood,Human,163,4053558,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA167,GCA_010179205.1,2019.0,India,152103.0,blood,Human,107,3971115,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA14252,GCA_010179235.1,2019.0,India,121630.0,blood,Human,123,3934368,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA13711,GCA_010179245.1,2019.0,India,164225.0,blood,Human,105,3969297,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA11737,GCA_010179275.1,2019.0,India,152110.0,blood,Human,118,3964682,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA12840,GCA_010179285.1,2019.0,India,129661.0,blood,Human,195,3976011,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA12115,GCA_010179295.1,2019.0,India,90966.0,blood,Human,113,3913841,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA124,GCA_010179335.1,2019.0,India,157405.0,blood,Human,153,3803557,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA12262-I,GCA_010179355.1,2019.0,India,135492.0,blood,Human,87,3877988,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA11158,GCA_010179375.1,2019.0,India,72636.0,blood,Human,142,3883730,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA12262-II,GCA_010179385.1,2019.0,India,75368.0,blood,Human,117,3876661,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA11314,GCA_010179395.1,2019.0,India,139996.0,blood,Human,150,3998336,Illumina HiSeq,humano,187
-Acinetobacter baumannii strain BA10982,GCA_010179435.1,2019.0,India,116845.0,blood,Human,91,3886756,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA10762,GCA_010179455.1,2019.0,India,135492.0,blood,Human,83,3838369,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA10441,GCA_010179475.1,2019.0,India,98330.0,blood,Human,103,3853887,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA996,GCA_010179495.1,2019.0,India,105684.0,blood,Human,147,4175400,Illumina HiSeq,humano,149
-Acinetobacter baumannii strain BP101,GCA_010179515.1,2019.0,India,100539.0,blood,Human,179,3934322,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA82,GCA_010179525.1,2019.0,India,116151.0,blood,Human,160,4308278,Illumina HiSeq,humano,25
-Acinetobacter baumannii strain BA3210,GCA_010179575.1,2019.0,India,117951.0,blood,Human,103,3861034,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA3576,GCA_010179545.1,2019.0,India,54478.0,blood,Human,218,3952231,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BP629,GCA_010179585.1,2019.0,India,133934.0,blood,Human,138,3870455,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain PM4229,GCA_010499775.1,2019.0,India,122599.0,blood,Human,129,4027282,Illumina HiSeq,humano,10
-Acinetobacter baumannii strain BP9029,GCA_010499705.1,2019.0,India,135492.0,blood,Human,108,3959552,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BP8282,GCA_010499785.1,2019.0,India,150960.0,blood,Human,124,3815729,Illumina HiSeq,humano,103
-Acinetobacter baumannii strain BP8175,GCA_010499885.1,2019.0,India,152110.0,blood,Human,114,3949553,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain PM6677,GCA_010500015.1,2019.0,India,40103.0,blood,Human,258,4086345,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BP723,GCA_010500115.1,2019.0,India,134674.0,blood,Human,129,3814411,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain PM6635,GCA_010500255.1,2019.0,India,72475.0,blood,Human,147,3848873,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain PM3665,GCA_010500235.1,2019.0,India,81078.0,blood,Human,184,4020382,Illumina HiSeq,humano,10
-Acinetobacter baumannii strain PM2700,GCA_010500265.1,2019.0,India,109958.0,blood,Human,158,4093460,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BP8491,GCA_010500315.1,2019.0,India,139997.0,blood,Human,154,3954199,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain PM2098,GCA_010500455.1,2019.0,India,82749.0,blood,Human,171,4021377,Illumina HiSeq,humano,10
-Acinetobacter baumannii strain PM2696,GCA_010500475.1,2019.0,India,113194.0,blood,Human,104,3952697,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain PM4122,GCA_010500565.1,2019.0,India,83149.0,blood,Human,162,4024742,Illumina HiSeq,humano,10
-Acinetobacter baumannii strain PM2235,GCA_010500515.1,2019.0,India,103605.0,blood,Human,88,3851430,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain PM4095,GCA_010500635.1,2019.0,India,149377.0,blood,Human,136,3939047,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain PM4086,GCA_010500625.1,2019.0,India,53836.0,blood,Human,240,3963488,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA22685,GCA_011601365.1,2019.0,India,229133.0,blood,Human,82,4255339,Illumina HiSeq,humano,149
-Acinetobacter baumannii strain BA20475,GCA_011601425.1,2019.0,India,219833.0,blood,Human,45,3937867,Illumina HiSeq,humano,52
-Acinetobacter baumannii strain BA20688,GCA_011601445.1,2019.0,India,121548.0,blood,Human,94,3958161,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA20352,GCA_011601455.1,2019.0,India,215973.0,blood,Human,45,3937832,Illumina HiSeq,humano,52
-Acinetobacter baumannii strain BA25629,GCA_011601385.1,2019.0,India,121548.0,blood,Human,94,3968687,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA1846,GCA_011601475.1,2019.0,India,154618.0,blood,Human,72,3996912,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA33390,GCA_011601585.1,2019.0,India,121548.0,blood,Human,94,3958176,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA18697,GCA_011601525.1,2019.0,India,154617.0,blood,Human,74,3996381,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA6942,GCA_011601485.1,2019.0,India,135491.0,blood,Human,78,3888901,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA32965,GCA_011601555.1,2019.0,India,117431.0,blood,Human,74,3900364,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA35394,GCA_011601545.1,2019.0,India,153321.0,blood,Human,106,4278120,Illumina HiSeq,humano,25
-Acinetobacter baumannii strain BA33809,GCA_011601575.1,2019.0,India,130685.0,blood,Human,71,3906469,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA29646,GCA_011601665.1,2019.0,India,121548.0,blood,Human,99,3967655,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA31178,GCA_011601645.1,2019.0,India,121548.0,blood,Human,96,3968308,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA32824,GCA_011601625.1,2019.0,India,109987.0,blood,Human,111,3966420,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA7738,GCA_011601685.1,2019.0,India,130858.0,blood,Human,96,4014907,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA29783,GCA_011601695.1,2019.0,India,135491.0,blood,Human,72,3889010,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA28505,GCA_011602045.1,2019.0,India,121548.0,blood,Human,94,3968731,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA35737,GCA_011601935.1,2019.0,India,135491.0,blood,Human,72,3889456,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA27620,GCA_011602055.1,2019.0,India,135491.0,blood,Human,72,3889212,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BP9590,GCA_011602145.1,2019.0,India,139172.0,blood,Human,71,3889452,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA27348,GCA_011602125.1,2019.0,India,124075.0,blood,Human,67,3827980,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain BA27713_19,GCA_011602095.1,2019.0,India,130685.0,blood,Human,74,3905143,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain CAb15_2,GCA_011683605.1,2018.0,China,162240.0,blood,Human,63,3966803,Illumina NovaSeq,humano,2
-Acinetobacter baumannii strain VB82,GCA_012934905.1,2019.0,India,4210906.0,blood,Human,3,4433724,Illumina HiSeq; Oxford Nanopore GridION,humano,25
-Acinetobacter baumannii strain VB11737,GCA_012934965.1,2019.0,India,3982992.0,blood,Human,9,4071841,Illumina HiSeq; Oxford Nanopore GridION,humano,2
-Acinetobacter baumannii strain VB723,GCA_012934945.1,2019.0,India,3919631.0,blood,Human,2,3928362,Illumina HiSeq; Oxford Nanopore GridION,humano,2
-Acinetobacter baumannii strain VB7036,GCA_012935145.1,2019.0,India,4052480.0,blood,Human,3,4062974,Illumina HiSeq; Oxford Nanopore GridION,humano,2
-Acinetobacter baumannii strain E10,GCA_013387305.1,2017.0,China,128566.0,blood,Human,50,3989249,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain E9,GCA_013387385.1,2017.0,China,127181.0,blood,Human,50,3988573,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain ab10_HL,GCA_013618675.1,2015.0,China,167874.0,blood,Human,70,3870655,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain ab9_HL,GCA_013618685.1,2015.0,China,123457.0,blood,Human,111,3869478,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain XYAB2018,GCA_014267385.1,2018.0,China,3909403.0,blood,,1,3909403,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 163561,GCA_014560275.1,2016.0,China,169221.0,blood,Human,40,3899275,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 163563,GCA_014560245.1,2016.0,China,194243.0,blood,Human,43,3964520,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 163453,GCA_014560295.1,2016.0,China,364933.0,blood,Human,38,4019314,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 163560,GCA_014560305.1,2016.0,China,213605.0,blood,Human,37,3897993,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 163001,GCA_014560315.1,2016.0,China,277031.0,blood,Human,39,3862228,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 162912,GCA_014560325.1,2016.0,China,78409.0,blood,Human,100,3829399,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain 162487,GCA_014560375.1,2016.0,China,190896.0,blood,Human,44,4030846,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 162456,GCA_014560395.1,2016.0,China,194243.0,blood,Human,45,3949346,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 161988,GCA_014560405.1,2016.0,China,271901.0,blood,Human,38,4066994,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 161636,GCA_014560425.1,2016.0,China,220399.0,blood,Human,45,3943435,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 161600,GCA_014560475.1,2016.0,China,254512.0,blood,Human,50,4022167,Illumina HiSeq,humano,40
-Acinetobacter baumannii strain 161382,GCA_014560495.1,2016.0,China,253589.0,blood,Human,38,3913966,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 161381,GCA_014560515.1,2016.0,China,206905.0,blood,Human,43,3913064,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 160152,GCA_014560525.1,2016.0,China,206918.0,blood,Human,47,3986514,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 160058,GCA_014560535.1,2016.0,China,245701.0,blood,Human,39,3948934,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 160098,GCA_014596675.1,2016.0,China,194421.0,blood,Human,44,3935843,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AC1633,GCA_014874575.1,2016.0,Malaysia,4364474.0,blood,Human,5,4566577,Illumina HiSeq; PacBio RSII,humano,126
-Acinetobacter baumannii strain A4,GCA_015265785.1,2018.0,South Africa,246390.0,blood,Human,93,3938318,Illumina MiSeq,humano,49
-Acinetobacter baumannii strain A9,GCA_015265775.1,2018.0,South Africa,285850.0,blood,Human,64,4018073,Illumina MiSeq,humano,79
-Acinetobacter baumannii strain A5,GCA_015265765.1,2018.0,South Africa,222273.0,blood,Human,111,4005280,Illumina MiSeq,humano,164
-Acinetobacter baumannii strain A3,GCA_015265745.1,2018.0,South Africa,109239.0,blood,Human,83,4078412,Illumina MiSeq,humano,1
-Acinetobacter baumannii strain 545_16,GCA_015536865.1,2016.0,Brazil,201442.0,blood,Human,86,4195866,Illumina HiSeq,humano,1448
-Acinetobacter baumannii strain L053,GCA_015536925.1,2012.0,Brazil,118148.0,blood,Human,118,3972006,Illumina HiSeq,humano,15
-Acinetobacter baumannii strain 648_16,GCA_015537045.1,2016.0,Brazil,65865.0,blood,Human,212,4119368,Illumina HiSeq,humano,15
-Acinetobacter baumannii strain L019,GCA_015537165.1,2010.0,Brazil,154935.0,blood,Human,186,4322499,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain 541_17,GCA_015537175.1,2017.0,Brazil,67249.0,blood,Human,413,4093867,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain L071,GCA_015537255.1,2013.0,Brazil,164960.0,blood,Human,830,4284935,Illumina HiSeq,humano,15
-Acinetobacter baumannii strain 398_16,GCA_015537275.1,2016.0,Brazil,73696.0,blood,Human,164,4036999,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain 837_16,GCA_015537295.1,2016.0,Brazil,123218.0,blood,Human,170,4109155,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain 606_16,GCA_015537345.1,2016.0,Brazil,168257.0,blood,Human,102,3953693,Illumina HiSeq,humano,15
-Acinetobacter baumannii strain 397_16,GCA_015537365.1,2016.0,Brazil,102187.0,blood,Human,113,4000325,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain L060,GCA_015537415.1,2012.0,Brazil,173923.0,blood,Human,108,3970265,Illumina HiSeq,humano,15
-Acinetobacter baumannii strain 494_16,GCA_015537505.1,2016.0,Brazil,140609.0,blood,Human,89,3858991,Illumina HiSeq,humano,1
-Acinetobacter baumannii strain L070,GCA_015537565.1,2013.0,Brazil,176121.0,blood,Human,114,4173474,Illumina HiSeq,humano,25
-Acinetobacter baumannii strain 961_16,GCA_015537605.1,2016.0,Brazil,84837.0,blood,Human,183,4144652,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain 808_16,GCA_015537615.1,2016.0,Brazil,89750.0,blood,Human,154,4039217,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain 366_16,GCA_015537675.1,2016.0,Brazil,143779.0,blood,Human,84,3846310,Illumina HiSeq,humano,1
-Acinetobacter baumannii strain 563_16,GCA_015537755.1,2016.0,Brazil,179529.0,blood,Human,81,3841101,Illumina HiSeq,humano,1
-Acinetobacter baumannii strain 300_16,GCA_015537915.1,2016.0,Brazil,147778.0,blood,Human,85,3894058,Illumina HiSeq,humano,1
-Acinetobacter baumannii strain L066,GCA_015537965.1,2013.0,Brazil,147775.0,blood,Human,120,3961854,Illumina HiSeq,humano,1
-Acinetobacter baumannii strain 479_16,GCA_015538085.1,2016.0,Brazil,166117.0,blood,Human,114,3933781,Illumina HiSeq,humano,15
-Acinetobacter baumannii strain L006,GCA_015538125.1,2008.0,Brazil,258944.0,blood,Human,85,3883737,Illumina HiSeq,humano,20
-Acinetobacter baumannii strain 181_17,GCA_015538275.1,2017.0,Brazil,306955.0,blood,Human,235,3926714,Illumina HiSeq,humano,1
-Acinetobacter baumannii strain 763_16,GCA_015538305.1,2016.0,Brazil,113865.0,blood,Human,149,4003558,Illumina HiSeq,humano,25
-Acinetobacter baumannii strain CCBH28908,GCA_015666365.1,2020.0,Brazil,34972.0,blood,Human,198,3822049,Illumina,humano,79
-Acinetobacter baumannii strain CCBH28803,GCA_015666475.1,2020.0,Brazil,31835.0,blood,Human,213,3903828,Illumina,humano,79
-Acinetobacter baumannii strain CCBH28245,GCA_015666515.1,2020.0,Brazil,62044.0,blood,Human,127,3956031,Illumina,humano,1
-Acinetobacter baumannii strain SQ096,GCA_015694655.1,2010.0,China,139179.0,blood,Human,99,4000886,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain abC4,GCA_015731955.1,2017.0,China,157629.0,blood,Human,208,3789886,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain abC6,GCA_015731975.1,2017.0,China,162092.0,blood,Human,150,3775514,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain abA2,GCA_015732075.1,2018.0,China,131813.0,blood,Human,199,4041029,Illumina NextSeq,humano,1555
-Acinetobacter baumannii strain ATCC 17961 strain not applicable,GCA_015910475.1,2016.0,USA,4016386.0,blood,Human,3,4032448,Illumina MiSeq; Oxford Nanopore MinION,humano,438
-Acinetobacter baumannii strain CCBH28083,GCA_016054925.1,2020.0,Brazil,39150.0,blood,Human,201,3922868,Illumina,humano,848
-Acinetobacter baumannii strain CCBH27996,GCA_016055015.1,2020.0,Brazil,85838.0,blood,Human,131,4104145,Illumina,humano,79
-Acinetobacter baumannii strain CCBH28194,GCA_016054975.1,2020.0,Brazil,53842.0,blood,Human,186,3974003,Illumina,humano,78
-Acinetobacter baumannii strain CCBH27848,GCA_016055335.1,2020.0,Brazil,35801.0,blood,Human,282,3953203,Illumina,humano,79
-Acinetobacter baumannii strain CCBH27700,GCA_016055375.1,2020.0,Brazil,30833.0,blood,Human,693,4342154,Illumina,humano,79
-Acinetobacter baumannii strain CCBH27628,GCA_016055485.1,2018.0,Brazil,77235.0,blood,Human,157,4062441,Illumina,humano,79
-Acinetobacter baumannii strain CCBH27624,GCA_016055475.1,2020.0,Brazil,38765.0,blood,Human,216,4127277,Illumina,humano,79
-Acinetobacter baumannii strain CCBH27570,GCA_016055595.1,2019.0,Brazil,68630.0,blood,Human,141,4092335,Illumina,humano,79
-Acinetobacter baumannii strain CCBH27449,GCA_016055685.1,2019.0,Brazil,80378.0,blood,Human,143,4073505,Illumina,humano,79
-Acinetobacter baumannii strain CCBH27458,GCA_016055715.1,2019.0,Brazil,39533.0,blood,Human,180,3817232,Illumina,humano,1
-Acinetobacter baumannii strain CCBH27135,GCA_016055945.1,2019.0,Brazil,65770.0,blood,Human,278,4011978,Illumina,humano,1
-Acinetobacter baumannii strain CCBH26881,GCA_016056005.1,2019.0,Brazil,48685.0,blood,Human,177,3936076,Illumina,humano,1
-Acinetobacter baumannii strain CCBH26772,GCA_016056045.1,2019.0,Brazil,21195.0,blood,Human,408,3982100,Illumina,humano,79
-Acinetobacter baumannii strain CCBH26454,GCA_016056095.1,2019.0,Brazil,114624.0,blood,Human,100,4278045,Illumina,humano,25
-Acinetobacter baumannii strain CCBH26789,GCA_016056125.1,2019.0,Brazil,95203.0,blood,Human,94,3823350,Illumina,humano,1
-Acinetobacter baumannii strain CCBH26689,GCA_016056145.1,2019.0,Brazil,61242.0,blood,Human,165,4079860,Illumina,humano,79
-Acinetobacter baumannii strain CCBH28031,GCA_016416045.1,2020.0,Brazil,116837.0,blood,Human,75,3900866,Illumina,humano,1
-Acinetobacter baumannii strain ACIN00267,GCA_016506005.1,2019.0,USA,70004.0,blood,Human,135,3762353,Illumina NextSeq,humano,132
-Acinetobacter baumannii strain ACIN00252,GCA_016506195.1,2019.0,USA,160502.0,blood,Human,75,3935840,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain ACIN00211,GCA_016506505.1,2018.0,USA,369937.0,blood,Human,35,3880628,Illumina NextSeq,humano,221
-Acinetobacter baumannii strain ACIN00164,GCA_016506945.1,2017.0,USA,168006.0,blood,Human,76,3977322,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain ABBL099,GCF_000738845.1,2010.0,USA,53298.0,Blood,Human,155,3917671,Illumina HiSeq,humano,499
-Acinetobacter baumannii strain AC1532,GCA_017349055.1,2015.0,Malaysia,324863.0,blood,Human,51,3917664,Illumina HiSeq,humano,25
-Acinetobacter baumannii strain AC1521,GCA_017349175.1,2015.0,Malaysia,131159.0,blood,Human,96,3970371,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AC15139,GCA_017349155.1,2015.0,Malaysia,122024.0,blood,Human,66,3600705,Illumina HiSeq,humano,721
-Acinetobacter baumannii strain GIMC5510:ABT-897-17,GCA_017584105.1,2017.0,Russia,3787675.0,blood,Human,2,3801155,Illumina MiSeq,humano,45
-Acinetobacter baumannii strain ORAB01,GCF_000939415.1,2012.0,USA,114179.0,blood,Human,126,4011765,Illumina NextSeq 500,humano,2
-Acinetobacter baumannii strain ORAB14,GCF_000939535.1,2013.0,USA,114179.0,blood,Human,119,4003819,Illumina NextSeq 500,humano,2
-Acinetobacter baumannii strain ACI 51,GCA_018156745.1,2016.0,Brazil,23233.0,blood,Human,335,3898741,Illumina MiSeq,humano,79
-Acinetobacter baumannii strain Ab32,GCA_018221345.1,2009.0,Israel,103945.0,blood,Human,62,4014152,Illumina HiSeq,humano,3
-Acinetobacter baumannii strain Ab105,GCA_018221375.1,2019.0,Israel,4053143.0,blood,Human,3,4174989,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain Ab905,GCA_018221385.1,2019.0,Israel,113586.0,blood,Human,64,3944145,Illumina HiSeq,humano,3
-Acinetobacter baumannii strain Ab241,GCA_018221365.1,2019.0,Israel,4069288.0,blood,Human,2,4077795,Illumina HiSeq,humano,3
-Acinetobacter baumannii strain Ab238,GCA_018221425.1,2019.0,Israel,3993835.0,blood,Human,3,4072886,Illumina HiSeq,humano,3
-Acinetobacter baumannii strain Cl415,GCA_018604365.1,2017.0,Lebanon,3965259.0,blood,Human,3,3976267,Illumina; Oxford Nanopore MinION,humano,2
-Acinetobacter baumannii strain MRSN16897,GCF_000972525.1,2011.0,USA,156145.0,blood,,86,3918537,Illumina MiSeq,humano,10
-Acinetobacter baumannii strain Ab164,GCA_018863255.1,2018.0,USA,222701.0,blood,Human,31,3876391,Illumina NextSeq,humano,1756
-Acinetobacter baumannii strain M20,GCA_019188935.1,2020.0,Egypt,15430.0,blood,Human,546,3919604,Illumina MiSeq,humano,570
-Acinetobacter baumannii strain M16,GCA_019188895.1,2020.0,Egypt,27010.0,blood,Human,314,3945738,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain M18,GCA_019188885.1,2020.0,Egypt,26535.0,blood,Human,463,4029452,Illumina MiSeq,humano,85
-Acinetobacter baumannii strain M03,GCA_019189185.1,2020.0,Egypt,11611.0,blood,Human,725,4180252,Illumina MiSeq,humano,113
-Acinetobacter baumannii strain K11,GCA_019336715.1,2019.0,China,121807.0,blood,Human,62,4018265,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain K15,GCA_019336665.1,2019.0,China,132005.0,blood,Human,62,4018114,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain K14,GCA_019336685.1,2019.0,China,131688.0,blood,Human,60,4007319,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain K13,GCA_019336705.1,2019.0,China,132005.0,blood,Human,60,4014191,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain K12,GCA_019336745.1,2019.0,China,123465.0,blood,Human,60,4009506,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain K2,GCA_019336905.1,2019.0,China,123465.0,blood,Human,55,4002097,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain K5,GCA_019336865.1,2019.0,China,133166.0,blood,Human,61,4036380,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain K4,GCA_019336845.1,2019.0,China,133166.0,blood,Human,52,4023359,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain K3,GCA_019336885.1,2019.0,China,132027.0,blood,Human,60,4014494,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain K1,GCA_019336925.1,2019.0,China,132027.0,blood,Human,55,4002351,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 20A2950,GCA_019352225.1,2020.0,Reunion,36293.0,blood,Human,205,3940220,Illumina NextSeq,humano,1
-Acinetobacter baumannii strain 20A2942,GCA_019352235.1,2020.0,Reunion,24571.0,blood,Human,325,3863379,Illumina NextSeq,humano,1
-Acinetobacter baumannii strain 20A2940,GCA_019352295.1,2020.0,Reunion,22082.0,blood,Human,343,3853706,Illumina NextSeq,humano,1
-Acinetobacter baumannii strain 19A2668,GCA_019352415.1,2019.0,Reunion,46146.0,blood,Human,188,3883484,Illumina NextSeq,humano,1
-Acinetobacter baumannii strain ABBL055,GCF_001414565.1,2008.0,USA,60720.0,Blood,Human,117,4099497,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain ABBL060,GCF_001414645.1,2008.0,USA,37283.0,Blood,Human,218,4040002,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL061,GCF_001414655.1,2008.0,USA,101526.0,Blood,Human,93,3960869,Illumina HiSeq,humano,406
-Acinetobacter baumannii strain ABBL067,GCF_001414765.1,2008.0,USA,114946.0,Blood,Human,82,4033938,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL067a,GCF_001414785.1,2005.0,USA,22794.0,Blood,Human,362,4007157,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain ABBL067b,GCF_001414805.1,2005.0,USA,22394.0,Blood,Human,396,4073564,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain ABBL056,GCF_001414815.1,2008.0,USA,80470.0,Blood,Human,89,4013997,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL062,GCF_001414865.1,2008.0,USA,106486.0,Blood,Human,70,3870667,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 21A3140,GCA_020251125.1,2021.0,France,60064.0,blood,Human,153,3810326,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain 20A2964,GCA_020251285.1,2020.0,France,47677.0,blood,Human,173,3815666,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain 20A2903,GCA_020251345.1,2020.0,France,22291.0,blood,Human,345,3797798,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain 20A2942,GCA_020251365.1,2020.0,France,59320.0,blood,Human,173,3932397,Illumina NextSeq,humano,1
-Acinetobacter baumannii strain ABBL067c,GCF_001414885.1,2005.0,USA,19274.0,Blood,Human,456,4033992,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain 17A1688,GCA_020254585.1,2017.0,France,61480.0,blood,Human,163,4047157,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain 17A2037,GCA_020254545.1,2017.0,France,12693.0,blood,Human,560,3853856,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain 17A2015,GCA_020254595.1,2017.0,France,97165.0,blood,Human,96,3898991,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain ABBL067f,GCF_001414905.1,2006.0,USA,16375.0,Blood,Human,530,3998279,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain 16A1365,GCA_020254705.1,2016.0,France,45515.0,blood,Human,189,3924383,Illumina NextSeq,humano,10
-Acinetobacter baumannii strain 17A1762,GCA_020254635.1,2017.0,France,57990.0,blood,Human,143,4076857,Illumina NextSeq,humano,1
-Acinetobacter baumannii strain ABBL067e,GCF_001414925.1,2005.0,USA,21308.0,Blood,Human,420,4016445,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain 19A2740,GCA_020255025.1,2019.0,France,24959.0,blood,Human,330,3888971,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain 19A2728,GCA_020255045.1,2019.0,France,81390.0,blood,Human,112,3913113,Illumina NextSeq,humano,1
-Acinetobacter baumannii strain ABBL067g,GCF_001414935.1,2006.0,USA,16454.0,Blood,Human,517,4000937,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain 14A750,GCA_020255225.1,2014.0,France,44570.0,blood,Human,192,4017109,Illumina NextSeq,humano,1
-Acinetobacter baumannii strain ABBL067k,GCF_001414985.1,2007.0,USA,82155.0,Blood,Human,103,4003544,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain 14A626,GCA_020255585.1,2014.0,France,44821.0,blood,Human,193,4142151,Illumina NextSeq,humano,25
-Acinetobacter baumannii strain 15A835,GCA_020255525.1,2015.0,France,196766.0,blood,Human,71,4140438,Illumina NextSeq,humano,25
-Acinetobacter baumannii strain ABBL067h,GCF_001414995.1,2006.0,USA,19467.0,Blood,Human,482,4028103,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain 18A2184,GCA_020255885.1,2018.0,France,75069.0,blood,Human,112,3902195,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain 17A2021,GCA_020255985.1,2017.0,France,48697.0,blood,Human,161,4029800,Illumina NextSeq,humano,78
-Acinetobacter baumannii strain ABBL067l,GCF_001415015.1,2008.0,USA,86209.0,Blood,Human,103,4001312,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain 18A2229,GCA_020256165.1,2018.0,France,78969.0,blood,Human,91,3996693,Illumina NextSeq,humano,3
-Acinetobacter baumannii strain ABBL068,GCF_001415025.1,2009.0,USA,35378.0,Blood,Human,229,4138547,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL071,GCF_001415085.1,2009.0,USA,63583.0,Blood,Human,124,4095763,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL073,GCF_001415095.1,2009.0,USA,78381.0,Blood,Human,137,4093685,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain ABBL076,GCF_001415165.1,2009.0,USA,19568.0,Blood,Human,439,3885827,Illumina HiSeq,humano,406
-Acinetobacter baumannii strain ABBL082,GCF_001415215.1,2009.0,USA,25470.0,Blood,Human,328,3862831,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL088,GCF_001415255.1,2009.0,USA,24974.0,Blood,Human,370,4034693,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL091,GCF_001415275.1,2009.0,USA,19496.0,Blood,Human,509,4138700,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL067i,GCF_001415295.1,2006.0,USA,17399.0,Blood,Human,478,4002526,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain ABBL067j,GCF_001415325.1,2007.0,USA,52671.0,Blood,Human,141,4090270,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain ABBL069,GCF_001415345.1,2009.0,USA,25495.0,Blood,Human,355,4101875,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain ABBL072,GCF_001415355.1,2009.0,USA,45835.0,Blood,Human,210,4328144,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain ABBL079,GCF_001415385.1,2009.0,USA,22807.0,Blood,Human,384,4279073,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain ABBL085,GCF_001415435.1,2009.0,USA,29772.0,Blood,Human,261,3820624,Illumina HiSeq,humano,103
-Acinetobacter baumannii strain ABBL089,GCF_001415465.1,2009.0,USA,25433.0,Blood,Human,365,4010549,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL092,GCF_001415505.1,2009.0,USA,19303.0,Blood,Human,481,3909225,Illumina HiSeq,humano,499
-Acinetobacter baumannii strain ABBL093,GCF_001415515.1,2009.0,USA,25329.0,Blood,Human,361,3891768,Illumina HiSeq,humano,499
-Acinetobacter baumannii strain ABBL095,GCF_001415535.1,2009.0,USA,30203.0,Blood,Human,233,3890289,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL105,GCF_001415595.1,2010.0,USA,21631.0,Blood,Human,418,4133559,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain ABBL107,GCF_001415615.1,2010.0,USA,27143.0,Blood,Human,323,3989621,Illumina HiSeq,humano,499
-Acinetobacter baumannii strain ABBL109,GCF_001415645.1,2010.0,USA,29282.0,Blood,Human,309,3964559,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain ABBL113,GCF_001415695.1,2010.0,USA,26483.0,Blood,Human,333,4027761,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain ABBL116,GCF_001415765.1,2011.0,USA,23293.0,Blood,Human,436,4064273,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL117,GCF_001415785.1,2011.0,USA,13992.0,Blood,Human,629,4144126,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL118,GCF_001415805.1,2011.0,USA,18175.0,Blood,Human,623,3996376,Illumina HiSeq,humano,406
-Acinetobacter baumannii strain ABBL121,GCF_001415815.1,2011.0,USA,17305.0,Blood,Human,541,4063382,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL122,GCF_001415835.1,2011.0,USA,23151.0,Blood,Human,354,3937804,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL127,GCF_001415875.1,2011.0,USA,22834.0,Blood,Human,411,4169985,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain ABBL100,GCF_001415985.1,2010.0,USA,30882.0,Blood,Human,256,3944977,Illumina HiSeq,humano,406
-Acinetobacter baumannii strain ABBL106,GCF_001416035.1,2010.0,USA,21780.0,Blood,Human,412,4140131,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL124,GCF_001416095.1,2011.0,USA,34239.0,Blood,Human,215,4019327,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain ABBL131,GCF_001416145.1,2012.0,USA,19650.0,Blood,Human,459,4010870,Illumina HiSeq,humano,499
-Acinetobacter baumannii strain ABBL132,GCF_001416155.1,2012.0,USA,19969.0,Blood,Human,454,4005429,Illumina HiSeq,humano,499
-Acinetobacter baumannii strain ABBL134,GCF_001416165.1,2012.0,USA,23593.0,Blood,Human,439,4076457,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL137,GCF_001416225.1,2012.0,USA,18605.0,Blood,Human,511,3946735,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain ABBL147,GCF_001416315.1,2012.0,USA,19257.0,Blood,Human,453,3735770,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL129,GCF_001416515.1,2012.0,USA,38732.0,Blood,Human,204,4032732,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL130,GCF_001416545.1,2012.0,USA,21064.0,Blood,Human,397,3950049,Illumina HiSeq,humano,406
-Acinetobacter baumannii strain ABBL142,GCF_001416565.1,2012.0,USA,29463.0,Blood,Human,296,3990686,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL144,GCF_001416585.1,2012.0,USA,20834.0,Blood,Human,442,3964039,Illumina HiSeq,humano,406
-Acinetobacter baumannii strain ABBL003,GCF_001432375.1,2005.0,USA,114915.0,Blood,Human,70,3954365,Illumina HiSeq,humano,406
-Acinetobacter baumannii strain ABBL006,GCF_001432385.1,2005.0,USA,92563.0,Blood,Human,77,4067745,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain ABBL014,GCF_001432425.1,2005.0,USA,52131.0,Blood,Human,194,3852216,Illumina HiSeq,humano,372
-Acinetobacter baumannii strain ABBL009,GCF_001432445.1,2005.0,USA,101602.0,Blood,Human,72,4020183,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL011,GCF_001432455.1,2005.0,USA,118605.0,Blood,Human,70,4003629,Illumina HiSeq,humano,6
-Acinetobacter baumannii strain Ab-HCG1217-85,GCA_021173305.1,2017.0,Mexico,164007.0,blood,Human,82,4043667,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain Ab-HCG1016-83,GCA_021173655.1,2016.0,Mexico,173229.0,blood,Human,46,3881823,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain Ab-HCG1217-84,GCA_021173665.1,2017.0,Mexico,156421.0,blood,Human,80,4041030,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain Ab-HCG0216-66,GCA_021173725.1,2016.0,Mexico,147232.0,blood,Human,71,4024230,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain Ab-HCG0216-65,GCA_021173925.1,2016.0,Mexico,148182.0,blood,Human,73,4025083,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain Ab-HCG0911-61,GCA_021173935.1,2011.0,Mexico,210787.0,blood,Human,55,3901551,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain Ab-HCG0911-62,GCA_021173945.1,2011.0,Mexico,178110.0,blood,Human,56,3970263,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain Ab-HCG0911-57,GCA_021174025.1,2011.0,Mexico,178110.0,blood,Human,54,3970840,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain Ab-HCG0911-59,GCA_021174055.1,2011.0,Mexico,210787.0,blood,Human,50,3902552,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain Ab-HCG1110-52,GCA_021174185.1,2010.0,Mexico,178433.0,blood,Human,87,3995431,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain ABBL018,GCF_001432545.1,2005.0,USA,105657.0,Blood,Human,207,4334741,Illumina HiSeq,humano,25
-Acinetobacter baumannii strain Ab-HCG0309-46,GCA_021174245.1,2009.0,Mexico,129274.0,blood,Human,82,4032675,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain Ab-HCG0109-42,GCA_021174345.1,2009.0,Mexico,147772.0,blood,Human,78,4031410,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain ABBL022,GCF_001432585.1,2006.0,USA,105023.0,Blood,Human,84,3995203,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain Ab-HCG0109-38,GCA_021174395.1,2009.0,Mexico,150863.0,blood,Human,76,4033703,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain ABBL021,GCF_001432595.1,2006.0,USA,132629.0,Blood,Human,70,3949704,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain Ab-HCG0908-25,GCA_021174685.1,2008.0,Mexico,165587.0,blood,Human,75,3960347,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain ABBL023,GCF_001432625.1,2006.0,USA,12267.0,Blood,Human,641,4002227,Illumina MiSeq,humano,79
-Acinetobacter baumannii strain ABBL025,GCF_001432665.1,2006.0,USA,171086.0,Blood,Human,75,4067524,Illumina HiSeq,humano,78
-Acinetobacter baumannii strain Ab-HCG0807-2,GCA_021175125.1,2007.0,Mexico,164315.0,blood,Human,54,3935656,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain Ab-HCG0307-1,GCA_021175145.1,2007.0,Mexico,178110.0,blood,Human,51,3935173,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain ABBL001,GCF_001432685.1,2005.0,USA,122252.0,Blood,Human,85,3871656,Illumina HiSeq,humano,1022
-Acinetobacter baumannii strain ABBL004,GCF_001432705.1,2005.0,USA,129801.0,Blood,Human,77,3855049,Illumina HiSeq,humano,1022
-Acinetobacter baumannii strain ABBL008,GCF_001432755.1,2005.0,USA,139396.0,Blood,Human,89,4064187,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain ABBL012,GCF_001432785.1,2005.0,USA,110206.0,Blood,Human,90,3928030,Illumina HiSeq,humano,406
-Acinetobacter baumannii strain ABBL030,GCF_001432925.1,2006.0,USA,84636.0,Blood,Human,199,4046128,Illumina MiSeq,humano,-
-Acinetobacter baumannii strain ABBL037,GCF_001432975.1,2007.0,USA,109239.0,Blood,Human,81,4181335,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain ABBL038,GCF_001433005.1,2007.0,USA,110028.0,Blood,Human,92,4045272,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL044,GCF_001433015.1,2007.0,USA,64973.0,Blood,Human,178,4126075,Illumina MiSeq,humano,-
-Acinetobacter baumannii strain ABBL050,GCF_001433055.1,2008.0,USA,27050.0,Blood,Human,314,4180484,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL045,GCF_001433205.1,2007.0,USA,101492.0,Blood,Human,108,4054075,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain ABBL049,GCF_001433245.1,2007.0,USA,116905.0,Blood,Human,145,4156273,Illumina MiSeq,humano,79
-Acinetobacter baumannii strain ABBL041,GCF_001433265.1,2007.0,USA,85413.0,Blood,Human,108,4012632,Illumina HiSeq,humano,-
-Acinetobacter baumannii strain ABBL043,GCF_001433275.1,2007.0,USA,79829.0,Blood,Human,149,4202522,Illumina MiSeq,humano,79
-Acinetobacter baumannii strain ABBL039,GCF_001433655.1,2007.0,USA,59483.0,Blood,Human,120,4004921,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain ABBL040,GCF_001433675.1,2007.0,USA,16992.0,Blood,Human,504,3910768,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain ABBL053,GCF_001433695.1,2008.0,USA,90003.0,Blood,Human,90,4081155,Illumina HiSeq,humano,79
-Acinetobacter baumannii strain MRSN17592,GCF_001441355.1,2013.0,USA,156144.0,blood,Human,80,3857306,Illumina MiSeq,humano,10
-Acinetobacter baumannii strain MRSN17593,GCF_001441405.1,2013.0,USA,156143.0,blood,Human,82,3870522,Illumina MiSeq,humano,10
-Acinetobacter baumannii strain MRSN16901,GCF_001441415.1,2011.0,USA,160715.0,blood,Human,78,3917878,Illumina MiSeq,humano,10
-Acinetobacter baumannii strain MRSN16874,GCF_001442575.1,2011.0,USA,148079.0,blood,Human,114,4103087,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain MRSN5540,GCF_001444225.1,2011.0,USA,87980.0,blood,Human,117,4028653,Illumina MiSeq,humano,94
-Acinetobacter baumannii strain Ab04-mff,GCF_001077655.1,2012.0,Canada,3935688.0,blood,Human,3,4192280,Illumina; PacBio,humano,10
-Acinetobacter baumannii CriePir331,GCA_021294925.1,2020.0,Russia,4022563.0,blood,Human,2,4033757,Illumina; Oxford Nanopore MinION,humano,2
-Acinetobacter baumannii NGCE1008,GCA_022395485.1,2020.0,Bangladesh,131012.0,blood,Human,84,3940652,Illumina MiSeq,humano,2
-Acinetobacter baumannii NGCE1005,GCA_022395555.1,2020.0,Bangladesh,135425.0,blood,Human,80,3941955,Illumina MiSeq,humano,2
-Acinetobacter baumannii NGCE1011,GCA_022395455.1,2020.0,Bangladesh,122061.0,blood,Human,86,3941223,Illumina MiSeq,humano,2
-Acinetobacter baumannii NGCE1004,GCA_022395655.1,2020.0,Bangladesh,140356.0,blood,Human,76,3941505,Illumina MiSeq,humano,2
-Acinetobacter baumannii AB9,GCA_022661915.1,2020.0,Croatia,90553.0,blood,Human,180,3960113,Illumina NextSeq,humano,2
-Acinetobacter baumannii AB3,GCA_022661995.1,2020.0,Croatia,72740.0,blood,Human,180,3898909,Illumina NextSeq,humano,2
-Acinetobacter baumannii AB5,GCA_022662025.1,2020.0,Croatia,80430.0,blood,Human,184,4031118,Illumina NextSeq,humano,2
-Acinetobacter baumannii AB2,GCA_022662035.1,2020.0,Croatia,67069.0,blood,Human,168,4024064,Illumina NextSeq,humano,2
-Acinetobacter baumannii AB1,GCA_022662055.1,2020.0,Croatia,89637.0,blood,Human,149,3794739,Illumina NextSeq,humano,492
-Acinetobacter baumannii KFMC_AB20,GCA_022809455.1,2016.0,Saudi Arabia,12310.0,blood,Human,551,3840332,Illumina MiSeq,humano,1580
-Acinetobacter baumannii KFMC_AB24,GCA_022809535.1,2016.0,Saudi Arabia,63140.0,blood,Human,149,3959673,Illumina MiSeq,humano,1580
-Acinetobacter baumannii A9,GCA_022937605.1,2012.0,China,147232.0,blood,Human,63,4061267,Illumina HiSeq,humano,2
-Acinetobacter baumannii E0305,GCA_022952875.1,2020.0,USA,78000.0,blood,Human,99,3818766,Illumina NextSeq,humano,2
-Acinetobacter baumannii CCBH29179,GCA_023060185.1,2020.0,Brazil,59568.0,blood,Human,115,3831734,Illumina MiSeq,humano,15
-Acinetobacter baumannii CCBH29243,GCA_023061035.1,2020.0,Brazil,81276.0,blood,Human,134,3928282,Illumina MiSeq,humano,79
-Acinetobacter baumannii CCBH29255,GCA_023572255.1,2020.0,Brazil,61759.0,blood,Human,110,3882876,Illumina MiSeq,humano,584
-Acinetobacter baumannii CCBH29253,GCA_023572275.1,2020.0,Brazil,39637.0,blood,Human,191,3884541,Illumina MiSeq,humano,15
-Acinetobacter baumannii CCBH29224,GCA_023572305.1,2020.0,Brazil,41091.0,blood,Human,181,4088909,Illumina MiSeq,humano,25
-Acinetobacter baumannii Ltt321,GCA_023605115.1,2017.0,China,167975.0,blood,Human,75,3940187,Illumina HiSeq,humano,2
-Acinetobacter baumannii Ltt240,GCA_023605205.1,2018.0,China,131080.0,blood,Human,103,4027953,Illumina HiSeq,humano,2
-Acinetobacter baumannii Ltt219,GCA_023605545.1,2018.0,China,157923.0,blood,Human,109,3982191,Illumina HiSeq,humano,2
-Acinetobacter baumannii 6921,GCA_023606345.1,2018.0,China,169212.0,blood,Human,63,4020624,Illumina HiSeq,humano,2
-Acinetobacter baumannii 280820,GCA_023809625.1,2020.0,India,4145318.0,blood,Human,4,4302277,Illumina HiSeq; Oxford Nanopore,humano,126
-Acinetobacter baumannii VB280821,GCA_023809705.1,2020.0,India,4048264.0,blood,Human,6,4340713,Illumina HiSeq; Oxford Nanopore,humano,126
-Acinetobacter baumannii BCU1-1,GCA_024124165.1,2020.0,USA,141917.0,blood,Human,69,3905556,Illumina NextSeq,humano,2
-Acinetobacter baumannii MICU10-1,GCA_024124255.1,2020.0,USA,141917.0,blood,Human,70,3904389,Illumina NextSeq,humano,2
-Acinetobacter baumannii KBN10P04593,GCA_024138105.1,2016.0,South Korea,3931555.0,blood,Human,1,3931555,PacBio; Illumina,humano,2
-Acinetobacter baumannii B55,GCA_024259245.1,2018.0,China,84159.0,blood,Human,104,3971584,Illumina,humano,2
-Acinetobacter baumannii H-80359,GCA_024357705.1,2020.0,Malaysia,73792.0,blood,Human,126,3896108,Illumina MiSeq,humano,2
-Acinetobacter baumannii H-11699,GCA_024357715.1,2018.0,Malaysia,16313.0,blood,Human,534,3809037,Illumina MiSeq,humano,2
-Acinetobacter baumannii H-6668,GCA_024357805.1,2020.0,Malaysia,37496.0,blood,Human,239,3849703,Illumina MiSeq,humano,459
-Acinetobacter baumannii CHSZNSAB23,GCA_025194955.1,2016.0,China,168007.0,blood,Human,56,3918936,Illumina HiSeq,humano,2
-Acinetobacter baumannii CHSZNSAB31,GCA_025245815.1,2017.0,China,143736.0,blood,Human,57,4148575,Illumina HiSeq,humano,2
-Acinetobacter baumannii H-7940,GCA_025938675.1,2020.0,Malaysia,42862.0,blood,Human,201,3846264,Illumina MiSeq,humano,2
-Acinetobacter baumannii H-80361,GCA_025938895.1,2020.0,Malaysia,42812.0,blood,Human,196,3866365,Illumina MiSeq,humano,2
-Acinetobacter baumannii CCBH31950,GCA_025950435.1,2021.0,Brazil,73721.0,blood,Human,168,4292828,Illumina MiSeq,humano,464
-Acinetobacter baumannii CCBH32465,GCA_025950485.1,2021.0,Brazil,129341.0,blood,Human,60,4051828,Illumina MiSeq,humano,-
-Acinetobacter baumannii CCBH32292,GCA_025971765.1,2021.0,Brazil,65419.0,blood,Human,163,4232824,Illumina MiSeq,humano,464
-Acinetobacter baumannii ZQ9,GCA_002837885.3,2016.0,Iraq,92823.0,blood,Human,101,4123732,Illumina MiSeq,humano,575
-Acinetobacter baumannii AIIMS5,GCA_027975905.1,2005.0,India,175548.0,blood,Human,76,3861940,Illumina NextSeq,humano,2
-Acinetobacter baumannii AIIMS7,GCA_027980255.1,2005.0,India,286824.0,blood,Human,211,3969592,Illumina NextSeq,humano,1
-Acinetobacter baumannii Acb_43,GCA_028435965.1,2014.0,Brazil,62394.0,blood,Human,115,3832477,Illumina MiSeq,humano,15
-Acinetobacter baumannii Acb_39,GCA_028439845.1,2014.0,Brazil,52572.0,blood,Human,151,3996563,Illumina MiSeq,humano,79
-Acinetobacter baumannii Acb_33,GCA_028440005.1,2014.0,Brazil,71120.0,blood,Human,126,4017717,Illumina MiSeq,humano,113
-Acinetobacter baumannii Acb_32,GCA_028440015.1,2010.0,Brazil,71634.0,blood,Human,127,3999289,Illumina MiSeq,humano,79
-Acinetobacter baumannii Acb_25,GCA_028440145.1,2010.0,Brazil,43227.0,blood,Human,171,3949348,Illumina MiSeq,humano,15
-Acinetobacter baumannii Acb_24,GCA_028440165.1,2010.0,Brazil,173845.0,blood,Human,64,4001835,Illumina MiSeq,humano,113
-Acinetobacter baumannii Acb_23,GCA_028440255.1,2010.0,Brazil,97102.0,blood,Human,119,4008894,Illumina MiSeq,humano,79
-Acinetobacter baumannii Acb_9,GCA_028440415.1,2012.0,Brazil,196540.0,blood,Human,45,3816446,Illumina MiSeq,humano,1
-Acinetobacter baumannii Acb_10,GCA_028440435.1,2012.0,Brazil,164484.0,blood,Human,79,4007898,Illumina MiSeq,humano,15
-Acinetobacter baumannii strain AB4498,GCF_001612285.1,2008.0,USA,128212.0,blood,Human,76,3905177,Illumina MiSeq,humano,2
-Acinetobacter baumannii AB75,GCA_028549495.1,2021.0,China,167724.0,blood,Human,60,4024290,Illumina HiSeq,humano,2
-Acinetobacter baumannii AB56,GCA_028549715.1,2021.0,China,168719.0,blood,Human,85,4135112,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB5001,GCF_001612395.1,2008.0,USA,223470.0,blood,Human,33,3789469,Illumina MiSeq,humano,2
-Acinetobacter baumannii AB28,GCA_028549995.1,2021.0,China,157344.0,blood,Human,74,4018596,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB5674,GCF_001612435.1,2009.0,USA,419504.0,blood,Human,34,3869253,Illumina MiSeq,humano,1
-Acinetobacter baumannii 2022CK-00839,GCA_028622715.1,2022.0,USA,4005723.0,blood,Human,3,4075237,Oxford Nanopore GridION; Illumina MiSeq,humano,2
-Acinetobacter baumannii SVJ-AC01,GCA_028598935.1,2022.0,India,179039.0,blood,Human,46,3730857,Illumina NovaSeq,humano,2
-Acinetobacter baumannii 5.14,GCA_029477905.1,2008.0,Brazil,59718.0,blood,Human,226,4044112,Illumina NextSeq,humano,79
-Acinetobacter baumannii GN1589,GCA_029679265.1,2021.0,Serbia,131012.0,blood,Human,136,3994004,Illumina MiSeq,humano,2
-Acinetobacter baumannii GN1443,GCA_029679445.1,2020.0,Serbia,131012.0,blood,Human,95,4085294,Illumina MiSeq,humano,2
-Acinetobacter baumannii GN1333,GCA_029679545.1,2020.0,Serbia,140984.0,blood,Human,119,3812267,Illumina MiSeq,humano,492
-Acinetobacter baumannii GN1355,GCA_029679515.1,2020.0,Serbia,157548.0,blood,Human,97,4098161,Illumina MiSeq,humano,2
-Acinetobacter baumannii GN1172,GCA_029679625.1,2019.0,Serbia,141512.0,blood,Human,104,4219819,Illumina MiSeq,humano,2
-Acinetobacter baumannii GN1284,GCA_029679785.1,2020.0,Serbia,131012.0,blood,Human,96,3976485,Illumina MiSeq,humano,2
-Acinetobacter baumannii GN1107,GCA_029679745.1,2019.0,Serbia,98486.0,blood,Human,102,3953071,Illumina MiSeq,humano,492
-Acinetobacter baumannii GN969,GCA_029679825.1,2018.0,Serbia,131012.0,blood,Human,107,4092417,Illumina MiSeq,humano,2
-Acinetobacter baumannii GN955,GCA_029679805.1,2018.0,Serbia,131167.0,blood,Human,110,3926502,Illumina MiSeq,humano,492
-Acinetobacter baumannii 49366,GCA_029761785.1,2007.0,Brazil,54583.0,blood,Human,196,4003815,Illumina,humano,79
-Acinetobacter baumannii SCCH66:Ab99738,GCA_029814335.1,2019.0,Russia,3975523.0,blood,Human,3,4056817,Illumina,humano,2
-Acinetobacter baumannii HEE89_1,GCA_029955785.1,2022.0,Ecuador,111058.0,blood,Human,141,4019106,Illumina NovaSeq,humano,2
-Acinetobacter baumannii HEE81_1,GCA_029955865.1,2022.0,Ecuador,94073.0,blood,Human,98,3956029,Illumina NovaSeq,humano,108
-Acinetobacter baumannii HEE41_1,GCA_029956025.1,2022.0,Ecuador,54739.0,blood,Human,153,4042536,Illumina NovaSeq,humano,108
-Acinetobacter baumannii HEE60_1,GCA_030016845.1,2022.0,Ecuador,167078.0,blood,Human,80,4068593,Illumina NovaSeq,humano,79
-Acinetobacter baumannii HEE31_1,GCA_030016875.1,2021.0,Ecuador,158733.0,blood,Human,113,4000594,Illumina NovaSeq,humano,2
-Acinetobacter baumannii strain AB2828,GCF_001611995.1,2006.0,USA,124070.0,blood,Human,107,4426896,Illumina MiSeq,humano,25
-Acinetobacter baumannii strain AB967,GCF_001612025.1,2003.0,USA,401652.0,blood,Human,27,3795032,Illumina MiSeq,humano,48
-Acinetobacter baumannii strain AB3340,GCF_001612005.1,2006.0,USA,132604.0,blood,Human,76,4010248,Illumina MiSeq,humano,20
-Acinetobacter baumannii strain AB3785,GCF_001612075.1,2007.0,USA,134647.0,blood,Human,70,3894584,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain AB3560,GCF_001612015.1,2006.0,USA,247914.0,blood,Human,58,4012126,Illumina MiSeq,humano,3
-Acinetobacter baumannii FAI132,GCA_030165035.1,2020.0,Brazil,82435.0,blood,,137,4101274,Illumina NextSeq,humano,15
-Acinetobacter baumannii LBMM 6399,GCA_030516535.1,2020.0,Egypt,110924.0,blood,Human,138,4221092,Illumina MiSeq,humano,15
-Acinetobacter baumannii LBMM 6411,GCA_030516295.1,2021.0,Egypt,331217.0,blood,Human,74,4036291,Illumina MiSeq,humano,158
-Acinetobacter baumannii LBMM 6413,GCA_030516315.1,2021.0,Egypt,349749.0,blood,Human,45,3956750,Illumina MiSeq,humano,158
-Acinetobacter baumannii LBMM 6389,GCA_030516725.1,2020.0,Egypt,209246.0,blood,Human,67,3995216,Illumina MiSeq,humano,158
-Acinetobacter baumannii Ab112,GCA_030550975.1,2022.0,Brazil,135177.0,blood,Human,127,3985112,Illumina HiSeq,humano,2
-Acinetobacter baumannii Ab106,GCA_030551035.1,2022.0,Brazil,106986.0,blood,Human,129,3925748,Illumina HiSeq,humano,2
-Acinetobacter baumannii Ab117,GCA_030550885.1,2022.0,Brazil,128733.0,blood,Human,127,3962839,Illumina HiSeq,humano,2
-Acinetobacter baumannii SGH0816,GCA_030553535.1,2008.0,Singapore,223268.0,blood,Human,156,4131857,Illumina HiSeq,humano,1
-Acinetobacter baumannii SGH0808,GCA_030553695.1,2008.0,Singapore,208230.0,blood,Human,160,4139796,Illumina HiSeq,humano,1
-Acinetobacter baumannii SGH0910,GCA_030553715.1,2009.0,Singapore,162301.0,blood,Human,106,4106437,Illumina HiSeq,humano,1
-Acinetobacter baumannii MDRACBA_1a,GCA_030553785.1,2008.0,Singapore,279682.0,blood,Human,105,4108077,Illumina HiSeq,humano,1
-Acinetobacter baumannii SGH 60 pre,GCA_030553815.1,2008.0,Singapore,243232.0,blood,Human,104,4107590,Illumina HiSeq,humano,1
-Acinetobacter baumannii SGH 46 pre,GCA_030553865.1,2009.0,Singapore,203510.0,blood,Human,101,4106912,Illumina HiSeq,humano,1
-Acinetobacter baumannii ARC7153,GCA_030756515.1,2022.0,USA,32050.0,blood,Human,254,3844778,Illumina MiSeq,humano,2
-Acinetobacter baumannii LACPHL-BACT-2023-00071,GCA_030850525.1,2023.0,USA,112564.0,blood,Human,79,3906797,Illumina MiSeq,humano,-
-Acinetobacter baumannii strain LIM1049,GCF_001649765.1,2011.0,Brazil,10534.0,blood,Human,646,4013413,Illumina MiSeq,humano,79
-Acinetobacter baumannii LACPHL-BACT-2023-00044,GCA_030851055.1,2023.0,USA,25410.0,blood,Human,260,3785106,Illumina MiSeq,humano,1022
-Acinetobacter baumannii LACPHL-BACT-2023-00042,GCA_030851135.1,2023.0,USA,93225.0,blood,Human,91,3946270,Illumina MiSeq,humano,2
-Acinetobacter baumannii LACPHL-BACT-2023-00037,GCA_030851205.1,2023.0,USA,68755.0,blood,Human,126,4054048,Illumina MiSeq,humano,15
-Acinetobacter baumannii LACPHL-BACT-2023-00008,GCA_030852065.1,2023.0,USA,34687.0,blood,Human,224,3971005,Illumina MiSeq,humano,2
-Acinetobacter baumannii LACPHL-BACT-2023-00100,GCA_032251995.1,2023.0,USA,88130.0,blood,Human,119,4018255,Illumina MiSeq,humano,2
-Acinetobacter baumannii AcbB365_126,GCA_032461515.1,2021.0,India,95008.0,Blood,Human,117,3983668,Illumina NextSeq,humano,2
-Acinetobacter baumannii SCCH65:Ab561520,GCA_033378945.1,2015.0,Russia,91913.0,blood,Human,103,3988425,Illumina,humano,78
-Acinetobacter baumannii 2023CK-00893,GCA_034494405.1,2023.0,USA,4154379.0,blood,Human,5,4312633,Oxford Nanopore GridION; Illumina MiSeq,humano,1142
-Acinetobacter baumannii 1010,GCA_036350495.1,2022.0,China,136498.0,blood,Human,149,3966040,Illumina HiSeq,humano,2
-Acinetobacter baumannii MGL_132_B9,GCA_036529755.1,2020.0,India,44878.0,blood,Human,158,3872255,Illumina MiSeq,humano,1
-Acinetobacter baumannii MGL_74_B5,GCA_036530615.1,2020.0,India,75652.0,blood,Human,104,3911187,Illumina MiSeq,humano,1
-Acinetobacter baumannii strain CU060707,GCF_001700395.1,2007.0,USA,150723.0,blood,Human,234,4116645,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain LIM3756,GCF_001758165.1,2004.0,Brazil,11582.0,blood,Human,609,3892335,Illumina MiSeq,humano,107
-Acinetobacter baumannii strain 4113,GCF_001922685.1,2013.0,Mexico,104927.0,Blood,Human,82,4041855,Illumina MiSeq,humano,156
-Acinetobacter baumannii strain ABUH426,GCF_002014175.1,2009.0,USA,96448.0,BLOOD,Human,122,3955510,Illumina NextSeq 500,humano,2
-Acinetobacter baumannii strain ABUH396,GCF_002014315.1,2009.0,USA,348541.0,BLOOD,Human,32,3716501,Illumina NextSeq 500,humano,1195
-Acinetobacter baumannii strain ABUH654,GCF_002016775.1,2013.0,USA,66016.0,BLOOD,Human,146,3936626,Illumina NextSeq 500,humano,2
-Acinetobacter baumannii strain ABUH690,GCF_002016865.1,2013.0,USA,132485.0,BLOOD,Human,103,4106880,Illumina NextSeq 500,humano,2
-Acinetobacter baumannii strain ABUH621,GCF_002017625.1,2012.0,USA,72095.0,BLOOD,Human,111,3938869,Illumina NextSeq 500,humano,2
-Acinetobacter baumannii strain 923,GCF_002019025.1,2011.0,Brazil,21670.0,blood,Human,364,3942650,Illumina MiSeq,humano,79
-Acinetobacter baumannii strain 071,GCA_002119265.1,2010.0,Spain,139653.0,Blood,Human,57,3951833,Illumina HiSeq,humano,81
-Acinetobacter baumannii strain 440,GCA_002119355.1,2010.0,Spain,156521.0,Blood,Human,54,3957708,Illumina HiSeq,humano,81
-Acinetobacter baumannii strain kayseri102,GCA_002150485.1,2013.0,Turkey,23416.0,blood,Human,371,4058713,Illumina NextSeq 500,humano,1
-Acinetobacter baumannii strain ABUH457,GCA_002182785.1,2009.0,USA,98918.0,blood,Human,132,4009569,Illumina NextSeq 500,humano,2
-Acinetobacter baumannii strain ABUH356,GCA_002182895.1,2009.0,USA,160837.0,blood,Human,73,3966597,Illumina NextSeq 500,humano,2
-Acinetobacter baumannii strain ABUH688,GCA_002183195.1,2013.0,USA,162508.0,blood,Human,99,4054830,Illumina NextSeq 500,humano,2
-Acinetobacter baumannii strain ABUH610,GCA_002183435.1,2012.0,USA,99245.0,blood,Human,106,3898214,Illumina NextSeq 500,humano,2
-Acinetobacter baumannii strain ABUH397,GCA_002183675.1,2009.0,USA,211138.0,blood,Human,36,3725952,Illumina NextSeq 500,humano,48
-Acinetobacter baumannii strain ABUH464,GCA_002183815.1,2009.0,USA,140350.0,blood,Human,69,4102408,Illumina NextSeq 500,humano,2
-Acinetobacter baumannii strain ABUH641,GCA_002184005.1,2013.0,USA,59104.0,blood,Human,160,4006207,Illumina NextSeq 500,humano,2
-Acinetobacter baumannii strain ARLG-1788,GCA_002184325.1,2008.0,USA,245102.0,blood,,64,4063360,Illumina NextSeq 500,humano,406
-Acinetobacter baumannii strain AB552,GCA_002212105.1,2013.0,Saudi Arabia,26314.0,Blood,Human,293,4001728,Illumina MiSeq,humano,-
-Acinetobacter baumannii strain AB309,GCA_002212165.1,2013.0,Saudi Arabia,66999.0,Blood,Human,244,4208417,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain AB543,GCA_002212305.1,2013.0,Saudi Arabia,13255.0,Blood,Human,523,3772954,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain AB578,GCA_002212365.1,2013.0,Saudi Arabia,44759.0,Blood,Human,146,3818025,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain AB492,GCA_002212645.1,2013.0,Saudi Arabia,21947.0,Blood,Human,318,3872221,Illumina MiSeq,humano,-
-Acinetobacter baumannii strain AC001-8-R1-S1,GCA_002416375.1,2015.0,Switzerland,111337.0,Blood,Human,116,4087670,Illumina MiSeq,humano,20
-Acinetobacter baumannii strain AC001-8-R1,GCA_002416475.1,2015.0,Switzerland,132167.0,Blood,Human,75,4078084,Illumina MiSeq,humano,20
-Acinetobacter baumannii strain AC001,GCA_002416345.1,2006.0,Switzerland,132413.0,Blood,Human,70,4075869,Illumina MiSeq,humano,20
-Acinetobacter baumannii strain MBL_M4,GCA_002760715.1,2015.0,Tunisia,23558.0,Blood,Human,359,4000414,Illumina MiSeq,humano,85
-Acinetobacter baumannii strain MBL_M10,GCA_002760835.1,2015.0,Tunisia,38228.0,Blood,Human,247,4007735,Illumina MiSeq,humano,85
-Acinetobacter baumannii strain AB307-0294,GCA_002803025.1,1994.0,USA,3759495.0,blood,Human,1,3759495,MinION; Illumina MiSeq,humano,1
-Acinetobacter baumannii strain ZQ8,GCA_002837895.1,2016.0,Iraq,136814.0,blood,Human,115,4076846,Illumina MiSeq,humano,513
-Acinetobacter baumannii strain ZQ4,GCA_002837945.1,2016.0,Iraq,48104.0,blood,Human,185,3839225,Illumina MiSeq,humano,203
-Acinetobacter baumannii strain ZQ3,GCA_002838025.1,2016.0,Iraq,98699.0,blood,Human,141,4046839,Illumina MiSeq,humano,717
-Acinetobacter baumannii strain HEU5,GCA_002927915.1,2016.0,Honduras,141620.0,blood,Human,117,4019414,Illumina MiSeq,humano,156
-Acinetobacter baumannii strain MCR6056,GCA_002928135.1,2015.0,Honduras,139722.0,blood,Human,115,4026438,Illumina MiSeq,humano,156
-Acinetobacter baumannii strain MCR56,GCA_002928195.1,2015.0,Honduras,70142.0,blood,Human,189,3831087,Illumina MiSeq,humano,106
-Acinetobacter baumannii strain R10,GCA_002950815.1,2014.0,USA,34291.0,blood,Human,252,3845946,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain S10,GCA_002950825.1,2014.0,USA,42820.0,blood,Human,193,3845461,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain AB38,GCA_003006835.1,2013.0,China,155225.0,blood,Human,70,3843681,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB36,GCA_003006845.1,2015.0,China,147251.0,blood,Human,86,3909753,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB35,GCA_003006885.1,2014.0,China,157828.0,blood,Human,77,3910238,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB40,GCA_003006875.1,2015.0,China,130940.0,blood,Human,69,3852570,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB31,GCA_003006945.1,2014.0,China,456244.0,blood,Human,37,3770947,Illumina HiSeq,humano,52
-Acinetobacter baumannii strain AB28,GCA_003006975.1,2015.0,China,166944.0,blood,Human,69,3845540,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB26,GCA_003006995.1,2013.0,China,157516.0,blood,Human,59,3896189,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB24,GCA_003007015.1,2015.0,China,130940.0,blood,Human,94,3921853,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB25,GCA_003007025.1,2012.0,China,131683.0,blood,Human,100,3850024,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB23,GCA_003007055.1,2014.0,China,149392.0,blood,Human,57,3876548,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB21,GCA_003007065.1,2012.0,China,148278.0,blood,Human,93,3912429,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB20,GCA_003007095.1,2015.0,China,167980.0,blood,Human,94,3922023,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB19,GCA_003007115.1,2014.0,China,153858.0,blood,Human,85,3864905,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB18,GCA_003007135.1,2013.0,China,167931.0,blood,Human,90,3927616,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB13,GCA_003007145.1,2012.0,China,167804.0,blood,Human,75,3915255,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB12,GCA_003007195.1,2015.0,China,153204.0,blood,Human,97,3962600,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB10,GCA_003007215.1,2013.0,China,212767.0,blood,Human,55,4113572,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB4,GCA_003007275.1,2015.0,China,133521.0,blood,Human,124,4099817,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB5,GCA_003007245.1,2012.0,China,486924.0,blood,Human,50,3932479,Illumina HiSeq,humano,626
-Acinetobacter baumannii strain AB42,GCA_003007285.1,2013.0,China,163710.0,blood,Human,62,3892973,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB39,GCA_003007335.1,2014.0,China,166975.0,blood,Human,68,3846649,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB37,GCA_003007355.1,2012.0,China,130244.0,blood,Human,84,3912634,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB34,GCA_003007375.1,2013.0,China,181435.0,blood,Human,73,3882390,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB30,GCA_003007395.1,2013.0,China,176907.0,blood,Human,66,3953326,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB29,GCA_003007405.1,2012.0,China,166666.0,blood,Human,71,3868746,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB22,GCA_003007435.1,2013.0,China,166955.0,blood,Human,78,3902297,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB27,GCA_003007455.1,2014.0,China,173256.0,blood,Human,80,3924837,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB17,GCA_003007475.1,2012.0,China,149325.0,blood,Human,79,3905040,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB15,GCA_003007485.1,2014.0,China,147251.0,blood,Human,65,3932609,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB16,GCA_003007515.1,2015.0,China,130940.0,blood,Human,80,3969312,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB8,GCA_003007535.1,2015.0,China,167804.0,blood,Human,111,3933151,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB9,GCA_003007585.1,2012.0,China,156386.0,blood,Human,86,3926905,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB3,GCA_003007615.1,2014.0,China,171925.0,blood,Human,81,3924449,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB2,GCA_003007635.1,2013.0,China,162390.0,blood,Human,64,3857389,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB1,GCA_003007655.1,2012.0,China,167808.0,blood,Human,88,3900673,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain SGH1011,GCA_003020285.1,2010.0,Singapore,168007.0,blood,Human,58,3949724,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain SGH0702,GCA_003020525.1,2007.0,Singapore,205040.0,blood,Human,76,4125741,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain SGH0905,GCA_003020505.1,2009.0,Singapore,162580.0,blood,Human,75,3959824,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain SGH0907,GCA_003020485.1,2009.0,Singapore,168007.0,blood,Human,62,3923847,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain SGH0807,GCA_003020405.1,2008.0,Singapore,279343.0,blood,Human,139,4135132,Illumina MiSeq,humano,1
-Acinetobacter baumannii strain SGH1113,GCA_003020385.1,2011.0,Singapore,162581.0,blood,Human,76,4014692,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain KUSSH25,GCA_002992875.1,2015.0,Kuwait,162586.0,blood,Human,88,3870670,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain KUSSH32,GCA_002992865.1,2015.0,Kuwait,110642.0,blood,Human,100,3871995,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain KUFAR67,GCA_002992705.1,2015.0,Kuwait,115651.0,blood,Human,105,3971603,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain KUFAR41,GCA_002992365.1,2016.0,Kuwait,95927.0,blood,Human,93,3939402,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain KUFAR42,GCA_002992345.1,2016.0,Kuwait,138282.0,blood,Human,89,3916090,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain KUFAR44,GCA_002992325.1,2016.0,Kuwait,153110.0,blood,Human,69,3940599,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain ISAB51,GCA_003352485.1,2010.0,Taiwan,147104.0,blood,Human,77,4069057,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain KMDRAB15,GCA_003352495.1,2012.0,Taiwan,167764.0,blood,Human,178,4112519,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain MDRAB16,GCA_003352595.1,2010.0,Taiwan,82302.0,blood,Human,265,4055328,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain MDRAB55,GCA_003352605.1,2009.0,Taiwan,116781.0,blood,Human,120,4027028,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain MDRAB41,GCA_003352615.1,2009.0,Taiwan,101154.0,blood,Human,147,4098340,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain MDRAB58,GCA_003352675.1,2009.0,Taiwan,83976.0,blood,Human,102,3936234,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain MDRAB19,GCA_003352725.1,2010.0,Taiwan,98722.0,blood,Human,279,4069639,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain MDRAB7,GCA_003352735.1,2010.0,Taiwan,79737.0,blood,Human,165,4094041,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain 7847,GCA_003516005.1,2008.0,Mexico,3986569.0,blood,Human,3,4080593,Illumina MiSeq and PacBio RSII,humano,1544
-Acinetobacter baumannii strain 9201,GCA_003522665.1,2013.0,Mexico,4119128.0,blood,Human,2,4128152,Illumina MiSeq and PacBio RSII,humano,422
-Acinetobacter baumannii 2011BJAB4,GCA_000804665.1,2011.0,China,164573.0,blood,Human,68,3942170,Illumina MiSeq,humano,2
-Acinetobacter baumannii 2011GDAB3,GCA_000804725.1,2011.0,China,126114.0,blood,Human,98,3876088,Illumina MiSeq,humano,2
-Acinetobacter baumannii 2011SHAB1,GCA_000804815.1,2011.0,China,132595.0,blood,Human,110,3931310,Illumina MiSeq,humano,2
-Acinetobacter baumannii 2011SDAB3,GCA_000804875.1,2011.0,China,111436.0,blood,Human,104,4045928,Illumina MiSeq,humano,2
-Acinetobacter baumannii 2011BJAB5,GCA_000804975.1,2011.0,China,115402.0,blood,Human,70,4146723,Illumina MiSeq,humano,2
-Acinetobacter baumannii 2011GDAB4,GCA_000805115.1,2011.0,China,129334.0,blood,Human,79,3933660,Illumina MiSeq,humano,2
-Acinetobacter baumannii 2011TJAB1,GCA_000805135.1,2011.0,China,78063.0,blood,Human,101,3801781,Illumina MiSeq,humano,105
-Acinetobacter baumannii 2011LNAB3,GCA_000805195.1,2011.0,China,135280.0,blood,Human,90,3944558,Illumina MiSeq,humano,2
-Acinetobacter baumannii 2011ZJAB3,GCA_000805225.1,2011.0,China,103536.0,blood,Human,118,4056387,Illumina MiSeq,humano,2
-Acinetobacter baumannii 2011ZJAB4,GCA_000805215.1,2011.0,China,102234.0,blood,Human,75,3818318,Illumina MiSeq,humano,10
-Acinetobacter baumannii strain TG91932,GCA_003947815.1,2015.0,USA,141046.0,blood,Human,60,3989213,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain TG70583,GCA_003948195.1,2006.0,USA,222066.0,blood,Human,68,4024673,Illumina MiSeq,humano,3
-Acinetobacter baumannii strain TG31307,GCA_003948305.2,2012.0,USA,123188.0,blood,Human,90,4006442,Illumina MiSeq,humano,78
-Acinetobacter baumannii strain TG89528,GCA_003948805.1,2015.0,USA,169473.0,blood,Human,58,3989735,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain TG29391,GCA_003948885.1,2012.0,USA,107046.0,blood,Human,81,4008012,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain TG40843,GCA_003949175.1,2012.0,USA,118666.0,blood,Human,82,3899167,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain TG91928,GCA_003949205.1,2015.0,USA,147274.0,blood,Human,61,3990295,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain TG80268,GCA_003949225.1,2015.0,USA,206123.0,blood,Human,47,4001253,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain TG91968,GCA_003949275.1,2015.0,USA,162201.0,blood,Human,63,3988348,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain TG89540,GCA_003949325.1,2015.0,USA,178111.0,blood,Human,68,4104336,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain TG91920,GCA_003949555.1,2015.0,USA,178111.0,blood,Human,88,4058957,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain TG91924,GCA_003949655.1,2015.0,USA,168550.0,blood,Human,57,3987821,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain TG29392,GCA_003949725.2,2012.0,USA,119210.0,blood,Human,87,3998823,Illumina MiSeq,humano,78
-Acinetobacter baumannii strain AB1,GCA_003984795.1,2014.0,Iran,24213.0,blood,Human,365,3879679,Illumina MiSeq,humano,2
-Acinetobacter baumannii ABUH430459,GCA_000810025.1,2009.0,USA,46526.0,BLOOD,Human,273,4107430,Illumina HiSeq 2000,humano,2
-Acinetobacter baumannii ABUH189355,GCA_000810345.1,2009.0,USA,64352.0,BLOOD,Human,191,4001383,Illumina HiSeq 2000,humano,2
-Acinetobacter baumannii ABUH66268,GCA_000810905.1,2008.0,USA,133555.0,BLOOD,Human,77,3873867,Illumina HiSeq 2000,humano,2
-Acinetobacter baumannii ABUH23684,GCA_000809605.1,2007.0,USA,133518.0,BLOOD,Human,83,3907803,Illumina HiSeq 2000,humano,2
-Acinetobacter baumannii ABUH34813,GCA_000809405.1,2007.0,USA,90187.0,BLOOD,Human,136,4036449,Illumina HiSeq 2000,humano,2
-Acinetobacter baumannii strain Ab-3,GCA_005048905.1,2016.0,China,168007.0,blood,Human,83,3926660,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain Ab33,GCA_005784645.1,2013.0,China,184563.0,blood,Human,66,3876686,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain Ab38,GCA_005784725.1,2013.0,China,184754.0,blood,Human,57,3871569,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain Ab189,GCA_005784825.1,2018.0,China,171885.0,blood,Human,126,3963414,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain Ab50,GCA_005784835.1,2014.0,China,167855.0,blood,Human,59,3833438,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain Ab2,GCA_005784945.1,2013.0,China,167760.0,blood,Human,174,3992127,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain Ab99,GCA_005785315.1,2015.0,China,180443.0,blood,Human,65,3906701,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain Ab89,GCA_005785405.1,2015.0,China,171869.0,blood,Human,65,3908406,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain Ab83,GCA_005785465.1,2014.0,China,171750.0,blood,Human,123,3952592,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB143,GCA_005785775.1,2015.0,China,162052.0,blood,Human,62,3962011,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB115,GCA_005785985.1,2015.0,China,163839.0,blood,Human,52,3815022,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB175,GCA_005786215.1,2018.0,China,155896.0,blood,Human,72,3969703,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB159,GCA_005786425.1,2015.0,China,164922.0,blood,Human,87,4047482,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB187,GCA_005786535.1,2018.0,China,171828.0,blood,Human,79,3903906,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-C95,GCA_006366515.1,2014.0,China,178076.0,blood,Human,112,4007239,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B48,GCA_006366535.1,2015.0,China,191063.0,blood,Human,93,4064186,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B07,GCA_006366545.1,2014.0,China,238839.0,blood,Human,54,3962267,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B05,GCA_006366575.1,2014.0,China,169250.0,blood,Human,52,3882765,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B46,GCA_006366585.1,2015.0,China,189859.0,blood,Human,105,4083611,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B43,GCA_006366635.1,2015.0,China,162917.0,blood,Human,53,3920288,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B44,GCA_006366645.1,2015.0,China,194301.0,blood,Human,62,3997484,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B41,GCA_006366665.1,2015.0,China,162571.0,blood,Human,60,3934166,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B42,GCA_006366685.1,2015.0,China,219290.0,blood,Human,52,3938448,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B40,GCA_006366715.1,2015.0,China,149642.0,blood,Human,48,4075487,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B30,GCA_006366735.1,2014.0,China,447367.0,blood,Human,30,4074076,Illumina HiSeq,humano,46
-Acinetobacter baumannii strain AB-HZ-B32,GCA_006366745.1,2014.0,China,137769.0,blood,Human,65,3943960,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B33,GCA_006366755.1,2015.0,China,146048.0,blood,Human,61,3944974,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B31,GCA_006366785.1,2014.0,China,123251.0,blood,Human,66,4037911,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B29,GCA_006366805.1,2014.0,China,162885.0,blood,Human,47,4095330,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B27,GCA_006366825.1,2014.0,China,195182.0,blood,Human,62,3983357,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B26,GCA_006366845.1,2014.0,China,185353.0,blood,Human,47,3975371,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B25,GCA_006366875.1,2014.0,China,217472.0,blood,Human,48,3969300,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B20,GCA_006366895.1,2014.0,China,134163.0,blood,Human,55,3969899,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B19,GCA_006366905.1,2014.0,China,131234.0,blood,Human,53,3965473,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B16,GCA_006366925.1,2014.0,China,141450.0,blood,Human,49,3970752,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B18,GCA_006366935.1,2014.0,China,134156.0,blood,Human,54,3971098,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B15,GCA_006366975.1,2014.0,China,207795.0,blood,Human,53,3969479,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B14,GCA_006366985.1,2013.0,China,195032.0,blood,Human,55,3973546,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B12,GCA_006367015.1,2014.0,China,134110.0,blood,Human,54,3974826,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B11,GCA_006367025.1,2015.0,China,146110.0,blood,Human,59,3939424,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B06,GCA_006367045.1,2014.0,China,207572.0,blood,Human,41,3969439,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B09,GCA_006367055.1,2014.0,China,166828.0,blood,Human,58,3994932,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B45,GCA_006367085.1,2015.0,China,149651.0,blood,Human,51,4168359,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B37,GCA_006367115.1,2014.0,China,223123.0,blood,Human,47,3949608,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B28,GCA_006367125.1,2014.0,China,347007.0,blood,Human,39,4072210,Illumina HiSeq,humano,46
-Acinetobacter baumannii strain AB-HZ-B23,GCA_006367135.1,2014.0,China,232542.0,blood,Human,54,3963865,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B24,GCA_006367175.1,2014.0,China,162518.0,blood,Human,47,3967828,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B01,GCA_006367195.1,2015.0,China,158864.0,blood,Human,67,4005953,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B21,GCA_006367205.1,2014.0,China,194955.0,blood,Human,48,3948838,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B02,GCA_006367225.1,2014.0,China,162635.0,blood,Human,61,3985893,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B17,GCA_006367245.1,2014.0,China,195086.0,blood,Human,51,3974685,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B86,GCA_006367275.1,2015.0,China,195113.0,blood,Human,58,3999600,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B82,GCA_006367285.1,2014.0,China,163311.0,blood,Human,44,3905709,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B85,GCA_006367295.1,2015.0,China,132057.0,blood,Human,60,3942110,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B79,GCA_006367335.1,2014.0,China,190557.0,blood,Human,50,3893551,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B77,GCA_006367345.1,2014.0,China,195241.0,blood,Human,43,3961240,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B76,GCA_006367375.1,2014.0,China,132537.0,blood,Human,67,4085359,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B75,GCA_006367395.1,2014.0,China,97557.0,blood,Human,121,3885146,Illumina HiSeq,humano,213
-Acinetobacter baumannii strain AB-HZ-B70,GCA_006367405.1,2014.0,China,195357.0,blood,Human,55,3973909,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B65,GCA_006367435.1,2014.0,China,207820.0,blood,Human,50,3964542,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B53,GCA_006367475.1,2014.0,China,222772.0,blood,Human,49,3963941,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B51,GCA_006367485.1,2014.0,China,169166.0,blood,Human,63,4008614,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B50,GCA_006367505.1,2014.0,China,206822.0,blood,Human,50,3965206,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B63,GCA_006367515.1,2014.0,China,195004.0,blood,Human,56,3969658,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B64,GCA_006367535.1,2014.0,China,221063.0,blood,Human,62,3958740,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B39,GCA_006367835.1,2014.0,China,137772.0,blood,Human,65,3951761,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B38,GCA_006367845.1,2014.0,China,139722.0,blood,Human,60,4025088,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B04,GCA_006367855.1,2014.0,China,215399.0,blood,Human,50,3944244,Illumina HiSeq,humano,221
-Acinetobacter baumannii strain AB-HZ-B36,GCA_006367895.1,2014.0,China,131923.0,blood,Human,100,4112233,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B35,GCA_006367905.1,2014.0,China,148365.0,blood,Human,55,3995606,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B34,GCA_006367915.1,2014.0,China,194999.0,blood,Human,63,4019507,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B03,GCA_006367945.1,2014.0,China,208012.0,blood,Human,42,3971922,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B22,GCA_006367965.1,2014.0,China,178444.0,blood,Human,47,4039622,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B13,GCA_006367995.1,2014.0,China,164591.0,blood,Human,61,3991179,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B10,GCA_006368005.1,2014.0,China,207154.0,blood,Human,51,3961167,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B08,GCA_006368025.1,2015.0,China,207806.0,blood,Human,58,4008572,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B84,GCA_006368045.1,2015.0,China,162872.0,blood,Human,55,3933046,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B47,GCA_006368055.1,2015.0,China,207530.0,blood,Human,57,4014214,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B80,GCA_006368095.1,2014.0,China,202752.0,blood,Human,56,3975322,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B66,GCA_006368105.1,2014.0,China,205192.0,blood,Human,48,3968993,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B57,GCA_006368125.1,2014.0,China,207430.0,blood,Human,59,3977850,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B52,GCA_006368155.1,2014.0,China,195068.0,blood,Human,53,3976029,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB-HZ-B49,GCA_006368165.1,2014.0,China,156122.0,blood,Human,52,3839150,Illumina HiSeq,humano,922
-Acinetobacter baumannii strain MRSN7067,GCA_006492575.1,2003.0,USA,111760.0,blood,Human,112,4026208,Illumina NextSeq,humano,81
-Acinetobacter baumannii strain MRSN351524,GCA_006492685.1,2011.0,Germany,141171.0,blood,Human,62,3833740,Illumina NextSeq,humano,113
-Acinetobacter baumannii strain MRSN3360,GCA_006492795.1,2011.0,USA,239269.0,blood,Human,63,3960624,Illumina MiSeq,humano,499
-Acinetobacter baumannii strain MRSN32076,GCA_006493005.1,2006.0,Germany,88615.0,blood,Human,109,3867941,Illumina NextSeq,humano,40
-Acinetobacter baumannii strain MRSN1174,GCA_006493655.1,2006.0,USA,100582.0,blood,Human,163,4019329,Illumina NextSeq,humano,2
-Acinetobacter baumannii strain MRSN24603,GCA_006493875.1,2014.0,Germany,52941.0,blood,Human,184,3799869,Illumina MiSeq,humano,428
-Acinetobacter baumannii strain MRSN22112,GCA_006493975.1,2013.0,Peru,47623.0,blood,Human,239,4052536,Illumina NextSeq,humano,193
-Acinetobacter baumannii strain MRSN1311,GCA_006494165.1,2007.0,USA,114894.0,blood,Human,129,3952074,Illumina NextSeq,humano,1
-Acinetobacter baumannii strain MRSN14427,GCA_006494175.1,2012.0,Afghanistan,106591.0,blood,Human,125,4206263,Illumina NextSeq,humano,622
-Acinetobacter baumannii strain MRSN16880,GCA_006494585.1,2011.0,USA,85688.0,blood,Human,117,3901251,Illumina NextSeq,humano,10
-Acinetobacter baumannii strain NIPH17_0019,GCA_006538225.1,2017.0,Cambodia,103256.0,blood,Human,136,3918551,Illumina MiniSeq,humano,571
-Acinetobacter baumannii strain S2,GCA_006937715.1,2018.0,China,129084.0,blood,Human,118,3885721,Illumina MiSeq,humano,2
-Acinetobacter baumannii strain TVGH-612,GCA_008123485.1,2002.0,Taiwan,12273.0,blood,Human,708,3813819,Illumina,humano,10
-Acinetobacter baumannii strain TVGH-1733,GCA_008123545.1,2007.0,Taiwan,14228.0,blood,Human,626,3867175,Illumina,humano,10
-Acinetobacter baumannii strain P14,GCA_008630265.1,2014.0,China,167851.0,blood,Human,204,3879744,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB23,GCA_008830785.1,2012.0,Malaysia,181526.0,blood,Human,64,3882686,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB21,GCA_008830795.1,2012.0,Malaysia,181526.0,blood,Human,62,3879637,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB18,GCA_008830805.1,2012.0,Malaysia,181526.0,blood,Human,65,3882595,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain AB17,GCA_008830885.1,2012.0,Malaysia,370047.0,blood,Human,27,3946388,Illumina HiSeq,humano,1230
-Acinetobacter baumannii strain AB8,GCA_008830905.1,2012.0,Malaysia,181188.0,blood,Human,65,3948429,Illumina HiSeq,humano,2
-Acinetobacter baumannii strain ABS104,GCA_009497505.1,2013.0,Iran,150144.0,blood,Human,102,4136827,Illumina MiSeq,humano,328
-Acinetobacter baumannii strain SI_2017_65,GCA_009759915.1,2017.0,Greece,167891.0,blood,Human,61,3973291,Illumina NovaSeq,humano,1
-Acinetobacter baumannii strain AO_2015_54,GCA_009760145.1,2015.0,Greece,130969.0,blood,Human,67,3915004,Illumina NovaSeq,humano,2
-Acinetobacter baumannii strain AO_2015_59,GCA_009760065.1,2015.0,Greece,132003.0,blood,Human,66,4000505,Illumina NovaSeq,humano,2
-Acinetobacter baumannii strain AO_2015_61,GCA_009760005.1,2015.0,Greece,152617.0,blood,Human,63,3924084,Illumina NovaSeq,humano,2
-Acinetobacter baumannii strain TR_2016_35,GCA_009760325.1,2016.0,Greece,111131.0,blood,Human,77,3921201,Illumina NovaSeq,humano,2
-Acinetobacter baumannii strain KT_2016_39,GCA_009760235.1,2016.0,Greece,130969.0,blood,Human,66,3926532,Illumina NovaSeq,humano,2
-Acinetobacter baumannii strain TR_2015_37,GCA_009760285.1,2015.0,Greece,120562.0,blood,Human,65,3928268,Illumina NovaSeq,humano,2
-Acinetobacter baumannii strain TR_2016_36,GCA_009760305.1,2016.0,Greece,98816.0,blood,Human,81,3934134,Illumina NovaSeq,humano,2
-Acinetobacter baumannii strain PU_2016_41,GCA_009760525.1,2016.0,Greece,136916.0,blood,Human,67,3950748,Illumina NovaSeq,humano,2
-Acinetobacter baumannii strain TR_2016_34,GCA_009760535.1,2016.0,Greece,144077.0,blood,Human,73,3933771,Illumina NovaSeq,humano,2
-Acinetobacter baumannii strain A-71.193,GCA_009829545.1,2016.0,Brazil,136455.0,blood,Human,53,3803354,Illumina MiSeq,humano,1
-Acinetobacter baumannii strain NFAb1,GCA_009910195.1,2007.0,USA,81219.0,blood,Human,97,4156151,Illumina MiSeq,humano,79
-Acinetobacter baumannii IS-235,GCA_000304695.1,2008.0,Iraq,169343.0,blood,Human,76,4060387,Illumina,humano,1
+Genome Name,Assembly,Date,Location,N50,Isolation source,Host Group,Contigs,Size,Platform,ST
+Acinetobacter baumannii BJAB07104,GCA_000419385.1,2007.0,China,3951920.0,Blood,Human,3,4042229,Illumina,2
+Acinetobacter baumannii NIPH 1669,GCA_000368105.1,1997.0,Netherlands,503026.0,Blood,Human,21,3861243,Illumina,3
+Acinetobacter baumannii ZWS1122,GCA_000299655.1,2011.0,China,129488.0,blood,Human,60,3937258,Illumina Hiseq,2
+Acinetobacter baumannii ZWS1219,GCA_000299675.1,2011.0,China,133541.0,blood,Human,70,3964728,Illumina Hiseq,2
+Acinetobacter baumannii UH0707,GCA_000515495.1,2007.0,USA,80335.0,blood,Human,227,4043283,Illumina GAIIx,2
+Acinetobacter baumannii UH14508,GCA_000515675.1,2008.0,USA,140932.0,blood,Human,138,4202102,Illumina GAIIx,2
+Acinetobacter baumannii UH7907,GCA_000516375.1,2007.0,USA,61177.0,blood,Human,185,4015169,Illumina GAIIx,79
+Acinetobacter baumannii UH8407,GCA_000515935.1,2007.0,USA,133591.0,blood,Human,92,3917690,Illumina GAIIx,2
+Acinetobacter baumannii UH8907,GCA_000515875.1,2007.0,USA,90907.0,blood,Human,159,3930810,Illumina GAIIx,524
+Acinetobacter baumannii UH9007,GCA_000515995.1,2007.0,USA,64410.0,blood,Human,217,4197251,Illumina GAIIx,2
+Acinetobacter baumannii strain BP12616,GCA_010178615.1,2019.0,India,121630.0,blood,Human,142,3956146,Illumina HiSeq,2
+Acinetobacter baumannii strain BA7036,GCA_010178625.1,2019.0,India,121027.0,blood,Human,127,3949512,Illumina HiSeq,2
+Acinetobacter baumannii strain BP5187,GCA_010178645.1,2019.0,India,152104.0,blood,Human,119,3963568,Illumina HiSeq,2
+Acinetobacter baumannii strain BA33767,GCA_010178715.1,2019.0,India,152104.0,blood,Human,86,3891108,Illumina HiSeq,2
+Acinetobacter baumannii strain BA8188,GCA_010178695.1,2019.0,India,130861.0,blood,Human,91,3911158,Illumina HiSeq,2
+Acinetobacter baumannii strain BA7577,GCA_010178725.1,2019.0,India,121176.0,blood,Human,119,3926564,Illumina HiSeq,2
+Acinetobacter baumannii strain BA4718,GCA_010178735.1,2019.0,India,116814.0,blood,Human,171,3873186,Illumina HiSeq,2
+Acinetobacter baumannii strain BA6233,GCA_010178765.1,2019.0,India,119426.0,blood,Human,120,3952953,Illumina HiSeq,2
+Acinetobacter baumannii strain BA3554,GCA_010178795.1,2019.0,India,152110.0,blood,Human,87,3908069,Illumina HiSeq,187
+Acinetobacter baumannii strain BA34044,GCA_010178815.1,2019.0,India,99970.0,blood,Human,91,3867893,Illumina HiSeq,2
+Acinetobacter baumannii strain BA27713,GCA_010178825.1,2019.0,India,139996.0,blood,Human,110,3908248,Illumina HiSeq,2
+Acinetobacter baumannii strain BA29413,GCA_010178855.1,2019.0,India,106257.0,blood,Human,116,3857841,Illumina HiSeq,2
+Acinetobacter baumannii strain BA29150,GCA_010178835.1,2019.0,India,82801.0,blood,Human,215,4053345,Illumina HiSeq,2
+Acinetobacter baumannii strain BA27267,GCA_010178895.1,2019.0,India,133449.0,blood,Human,80,3852877,Illumina HiSeq,2
+Acinetobacter baumannii strain BA25340,GCA_010178915.1,2019.0,India,109298.0,blood,Human,100,3914378,Illumina HiSeq,-
+Acinetobacter baumannii strain BA2485,GCA_010178925.1,2019.0,India,131272.0,blood,Human,87,3900883,Illumina HiSeq,2
+Acinetobacter baumannii strain BA27036,GCA_010178945.1,2019.0,India,117951.0,blood,Human,118,3991691,Illumina HiSeq,2
+Acinetobacter baumannii strain BA23801,GCA_010179015.1,2019.0,India,117951.0,blood,Human,123,4011072,Illumina HiSeq,2
+Acinetobacter baumannii strain BA22708,GCA_010178955.1,2019.0,India,55571.0,blood,Human,213,3895096,Illumina HiSeq,2
+Acinetobacter baumannii strain BA1691,GCA_010179035.1,2019.0,India,152111.0,blood,Human,163,4052962,Illumina HiSeq,2
+Acinetobacter baumannii strain BA20825,GCA_010179055.1,2019.0,India,121630.0,blood,Human,134,3934947,Illumina HiSeq,2
+Acinetobacter baumannii strain BA21245,GCA_010179065.1,2019.0,India,133449.0,blood,Human,171,4055201,Illumina HiSeq,2
+Acinetobacter baumannii strain BA18786,GCA_010179075.1,2019.0,India,140203.0,blood,Human,79,3877483,Illumina HiSeq,2
+Acinetobacter baumannii strain BA17806,GCA_010179105.1,2019.0,India,121630.0,blood,Human,147,3958862,Illumina HiSeq,2
+Acinetobacter baumannii strain BA14629,GCA_010179145.1,2019.0,India,223048.0,blood,Human,87,4165665,Illumina HiSeq,25
+Acinetobacter baumannii strain BA16059,GCA_010179135.1,2019.0,India,100539.0,blood,Human,164,4063775,Illumina HiSeq,2
+Acinetobacter baumannii strain BA13312,GCA_010179175.1,2019.0,India,139996.0,blood,Human,158,4055756,Illumina HiSeq,2
+Acinetobacter baumannii strain BA13405,GCA_010179185.1,2019.0,India,152104.0,blood,Human,163,4053558,Illumina HiSeq,2
+Acinetobacter baumannii strain BA167,GCA_010179205.1,2019.0,India,152103.0,blood,Human,107,3971115,Illumina HiSeq,2
+Acinetobacter baumannii strain BA14252,GCA_010179235.1,2019.0,India,121630.0,blood,Human,123,3934368,Illumina HiSeq,2
+Acinetobacter baumannii strain BA13711,GCA_010179245.1,2019.0,India,164225.0,blood,Human,105,3969297,Illumina HiSeq,2
+Acinetobacter baumannii strain BA11737,GCA_010179275.1,2019.0,India,152110.0,blood,Human,118,3964682,Illumina HiSeq,2
+Acinetobacter baumannii strain BA12840,GCA_010179285.1,2019.0,India,129661.0,blood,Human,195,3976011,Illumina HiSeq,2
+Acinetobacter baumannii strain BA12115,GCA_010179295.1,2019.0,India,90966.0,blood,Human,113,3913841,Illumina HiSeq,2
+Acinetobacter baumannii strain BA124,GCA_010179335.1,2019.0,India,157405.0,blood,Human,153,3803557,Illumina HiSeq,2
+Acinetobacter baumannii strain BA12262-I,GCA_010179355.1,2019.0,India,135492.0,blood,Human,87,3877988,Illumina HiSeq,2
+Acinetobacter baumannii strain BA11158,GCA_010179375.1,2019.0,India,72636.0,blood,Human,142,3883730,Illumina HiSeq,2
+Acinetobacter baumannii strain BA12262-II,GCA_010179385.1,2019.0,India,75368.0,blood,Human,117,3876661,Illumina HiSeq,2
+Acinetobacter baumannii strain BA11314,GCA_010179395.1,2019.0,India,139996.0,blood,Human,150,3998336,Illumina HiSeq,187
+Acinetobacter baumannii strain BA10982,GCA_010179435.1,2019.0,India,116845.0,blood,Human,91,3886756,Illumina HiSeq,2
+Acinetobacter baumannii strain BA10762,GCA_010179455.1,2019.0,India,135492.0,blood,Human,83,3838369,Illumina HiSeq,2
+Acinetobacter baumannii strain BA10441,GCA_010179475.1,2019.0,India,98330.0,blood,Human,103,3853887,Illumina HiSeq,2
+Acinetobacter baumannii strain BA996,GCA_010179495.1,2019.0,India,105684.0,blood,Human,147,4175400,Illumina HiSeq,149
+Acinetobacter baumannii strain BP101,GCA_010179515.1,2019.0,India,100539.0,blood,Human,179,3934322,Illumina HiSeq,2
+Acinetobacter baumannii strain BA82,GCA_010179525.1,2019.0,India,116151.0,blood,Human,160,4308278,Illumina HiSeq,25
+Acinetobacter baumannii strain BA3210,GCA_010179575.1,2019.0,India,117951.0,blood,Human,103,3861034,Illumina HiSeq,2
+Acinetobacter baumannii strain BA3576,GCA_010179545.1,2019.0,India,54478.0,blood,Human,218,3952231,Illumina HiSeq,2
+Acinetobacter baumannii strain BP629,GCA_010179585.1,2019.0,India,133934.0,blood,Human,138,3870455,Illumina HiSeq,2
+Acinetobacter baumannii strain PM4229,GCA_010499775.1,2019.0,India,122599.0,blood,Human,129,4027282,Illumina HiSeq,10
+Acinetobacter baumannii strain BP9029,GCA_010499705.1,2019.0,India,135492.0,blood,Human,108,3959552,Illumina HiSeq,2
+Acinetobacter baumannii strain BP8282,GCA_010499785.1,2019.0,India,150960.0,blood,Human,124,3815729,Illumina HiSeq,103
+Acinetobacter baumannii strain BP8175,GCA_010499885.1,2019.0,India,152110.0,blood,Human,114,3949553,Illumina HiSeq,2
+Acinetobacter baumannii strain PM6677,GCA_010500015.1,2019.0,India,40103.0,blood,Human,258,4086345,Illumina HiSeq,2
+Acinetobacter baumannii strain BP723,GCA_010500115.1,2019.0,India,134674.0,blood,Human,129,3814411,Illumina HiSeq,2
+Acinetobacter baumannii strain PM6635,GCA_010500255.1,2019.0,India,72475.0,blood,Human,147,3848873,Illumina HiSeq,2
+Acinetobacter baumannii strain PM3665,GCA_010500235.1,2019.0,India,81078.0,blood,Human,184,4020382,Illumina HiSeq,10
+Acinetobacter baumannii strain PM2700,GCA_010500265.1,2019.0,India,109958.0,blood,Human,158,4093460,Illumina HiSeq,2
+Acinetobacter baumannii strain BP8491,GCA_010500315.1,2019.0,India,139997.0,blood,Human,154,3954199,Illumina HiSeq,2
+Acinetobacter baumannii strain PM2098,GCA_010500455.1,2019.0,India,82749.0,blood,Human,171,4021377,Illumina HiSeq,10
+Acinetobacter baumannii strain PM2696,GCA_010500475.1,2019.0,India,113194.0,blood,Human,104,3952697,Illumina HiSeq,2
+Acinetobacter baumannii strain PM4122,GCA_010500565.1,2019.0,India,83149.0,blood,Human,162,4024742,Illumina HiSeq,10
+Acinetobacter baumannii strain PM2235,GCA_010500515.1,2019.0,India,103605.0,blood,Human,88,3851430,Illumina HiSeq,2
+Acinetobacter baumannii strain PM4095,GCA_010500635.1,2019.0,India,149377.0,blood,Human,136,3939047,Illumina HiSeq,2
+Acinetobacter baumannii strain PM4086,GCA_010500625.1,2019.0,India,53836.0,blood,Human,240,3963488,Illumina HiSeq,2
+Acinetobacter baumannii strain BA22685,GCA_011601365.1,2019.0,India,229133.0,blood,Human,82,4255339,Illumina HiSeq,149
+Acinetobacter baumannii strain BA20475,GCA_011601425.1,2019.0,India,219833.0,blood,Human,45,3937867,Illumina HiSeq,52
+Acinetobacter baumannii strain BA20688,GCA_011601445.1,2019.0,India,121548.0,blood,Human,94,3958161,Illumina HiSeq,2
+Acinetobacter baumannii strain BA20352,GCA_011601455.1,2019.0,India,215973.0,blood,Human,45,3937832,Illumina HiSeq,52
+Acinetobacter baumannii strain BA25629,GCA_011601385.1,2019.0,India,121548.0,blood,Human,94,3968687,Illumina HiSeq,2
+Acinetobacter baumannii strain BA1846,GCA_011601475.1,2019.0,India,154618.0,blood,Human,72,3996912,Illumina HiSeq,2
+Acinetobacter baumannii strain BA33390,GCA_011601585.1,2019.0,India,121548.0,blood,Human,94,3958176,Illumina HiSeq,2
+Acinetobacter baumannii strain BA18697,GCA_011601525.1,2019.0,India,154617.0,blood,Human,74,3996381,Illumina HiSeq,2
+Acinetobacter baumannii strain BA6942,GCA_011601485.1,2019.0,India,135491.0,blood,Human,78,3888901,Illumina HiSeq,2
+Acinetobacter baumannii strain BA32965,GCA_011601555.1,2019.0,India,117431.0,blood,Human,74,3900364,Illumina HiSeq,2
+Acinetobacter baumannii strain BA35394,GCA_011601545.1,2019.0,India,153321.0,blood,Human,106,4278120,Illumina HiSeq,25
+Acinetobacter baumannii strain BA33809,GCA_011601575.1,2019.0,India,130685.0,blood,Human,71,3906469,Illumina HiSeq,2
+Acinetobacter baumannii strain BA29646,GCA_011601665.1,2019.0,India,121548.0,blood,Human,99,3967655,Illumina HiSeq,2
+Acinetobacter baumannii strain BA31178,GCA_011601645.1,2019.0,India,121548.0,blood,Human,96,3968308,Illumina HiSeq,2
+Acinetobacter baumannii strain BA32824,GCA_011601625.1,2019.0,India,109987.0,blood,Human,111,3966420,Illumina HiSeq,2
+Acinetobacter baumannii strain BA7738,GCA_011601685.1,2019.0,India,130858.0,blood,Human,96,4014907,Illumina HiSeq,2
+Acinetobacter baumannii strain BA29783,GCA_011601695.1,2019.0,India,135491.0,blood,Human,72,3889010,Illumina HiSeq,2
+Acinetobacter baumannii strain BA28505,GCA_011602045.1,2019.0,India,121548.0,blood,Human,94,3968731,Illumina HiSeq,2
+Acinetobacter baumannii strain BA35737,GCA_011601935.1,2019.0,India,135491.0,blood,Human,72,3889456,Illumina HiSeq,2
+Acinetobacter baumannii strain BA27620,GCA_011602055.1,2019.0,India,135491.0,blood,Human,72,3889212,Illumina HiSeq,2
+Acinetobacter baumannii strain BP9590,GCA_011602145.1,2019.0,India,139172.0,blood,Human,71,3889452,Illumina HiSeq,2
+Acinetobacter baumannii strain BA27348,GCA_011602125.1,2019.0,India,124075.0,blood,Human,67,3827980,Illumina HiSeq,2
+Acinetobacter baumannii strain BA27713_19,GCA_011602095.1,2019.0,India,130685.0,blood,Human,74,3905143,Illumina HiSeq,2
+Acinetobacter baumannii strain CAb15_2,GCA_011683605.1,2018.0,China,162240.0,blood,Human,63,3966803,Illumina NovaSeq,2
+Acinetobacter baumannii strain VB82,GCA_012934905.1,2019.0,India,4210906.0,blood,Human,3,4433724,Illumina HiSeq; Oxford Nanopore GridION,25
+Acinetobacter baumannii strain VB11737,GCA_012934965.1,2019.0,India,3982992.0,blood,Human,9,4071841,Illumina HiSeq; Oxford Nanopore GridION,2
+Acinetobacter baumannii strain VB723,GCA_012934945.1,2019.0,India,3919631.0,blood,Human,2,3928362,Illumina HiSeq; Oxford Nanopore GridION,2
+Acinetobacter baumannii strain VB7036,GCA_012935145.1,2019.0,India,4052480.0,blood,Human,3,4062974,Illumina HiSeq; Oxford Nanopore GridION,2
+Acinetobacter baumannii strain E10,GCA_013387305.1,2017.0,China,128566.0,blood,Human,50,3989249,Illumina NextSeq,2
+Acinetobacter baumannii strain E9,GCA_013387385.1,2017.0,China,127181.0,blood,Human,50,3988573,Illumina NextSeq,2
+Acinetobacter baumannii strain ab10_HL,GCA_013618675.1,2015.0,China,167874.0,blood,Human,70,3870655,Illumina MiSeq,2
+Acinetobacter baumannii strain ab9_HL,GCA_013618685.1,2015.0,China,123457.0,blood,Human,111,3869478,Illumina MiSeq,2
+Acinetobacter baumannii strain XYAB2018,GCA_014267385.1,2018.0,China,3909403.0,blood,,1,3909403,Illumina HiSeq,2
+Acinetobacter baumannii strain 163561,GCA_014560275.1,2016.0,China,169221.0,blood,Human,40,3899275,Illumina HiSeq,2
+Acinetobacter baumannii strain 163563,GCA_014560245.1,2016.0,China,194243.0,blood,Human,43,3964520,Illumina HiSeq,2
+Acinetobacter baumannii strain 163453,GCA_014560295.1,2016.0,China,364933.0,blood,Human,38,4019314,Illumina HiSeq,2
+Acinetobacter baumannii strain 163560,GCA_014560305.1,2016.0,China,213605.0,blood,Human,37,3897993,Illumina HiSeq,2
+Acinetobacter baumannii strain 163001,GCA_014560315.1,2016.0,China,277031.0,blood,Human,39,3862228,Illumina HiSeq,2
+Acinetobacter baumannii strain 162912,GCA_014560325.1,2016.0,China,78409.0,blood,Human,100,3829399,Illumina HiSeq,-
+Acinetobacter baumannii strain 162487,GCA_014560375.1,2016.0,China,190896.0,blood,Human,44,4030846,Illumina HiSeq,2
+Acinetobacter baumannii strain 162456,GCA_014560395.1,2016.0,China,194243.0,blood,Human,45,3949346,Illumina HiSeq,2
+Acinetobacter baumannii strain 161988,GCA_014560405.1,2016.0,China,271901.0,blood,Human,38,4066994,Illumina HiSeq,2
+Acinetobacter baumannii strain 161636,GCA_014560425.1,2016.0,China,220399.0,blood,Human,45,3943435,Illumina HiSeq,2
+Acinetobacter baumannii strain 161600,GCA_014560475.1,2016.0,China,254512.0,blood,Human,50,4022167,Illumina HiSeq,40
+Acinetobacter baumannii strain 161382,GCA_014560495.1,2016.0,China,253589.0,blood,Human,38,3913966,Illumina HiSeq,2
+Acinetobacter baumannii strain 161381,GCA_014560515.1,2016.0,China,206905.0,blood,Human,43,3913064,Illumina HiSeq,2
+Acinetobacter baumannii strain 160152,GCA_014560525.1,2016.0,China,206918.0,blood,Human,47,3986514,Illumina HiSeq,2
+Acinetobacter baumannii strain 160058,GCA_014560535.1,2016.0,China,245701.0,blood,Human,39,3948934,Illumina HiSeq,2
+Acinetobacter baumannii strain 160098,GCA_014596675.1,2016.0,China,194421.0,blood,Human,44,3935843,Illumina HiSeq,2
+Acinetobacter baumannii strain AC1633,GCA_014874575.1,2016.0,Malaysia,4364474.0,blood,Human,5,4566577,Illumina HiSeq; PacBio RSII,126
+Acinetobacter baumannii strain A4,GCA_015265785.1,2018.0,South Africa,246390.0,blood,Human,93,3938318,Illumina MiSeq,49
+Acinetobacter baumannii strain A9,GCA_015265775.1,2018.0,South Africa,285850.0,blood,Human,64,4018073,Illumina MiSeq,79
+Acinetobacter baumannii strain A5,GCA_015265765.1,2018.0,South Africa,222273.0,blood,Human,111,4005280,Illumina MiSeq,164
+Acinetobacter baumannii strain A3,GCA_015265745.1,2018.0,South Africa,109239.0,blood,Human,83,4078412,Illumina MiSeq,1
+Acinetobacter baumannii strain 545_16,GCA_015536865.1,2016.0,Brazil,201442.0,blood,Human,86,4195866,Illumina HiSeq,1448
+Acinetobacter baumannii strain L053,GCA_015536925.1,2012.0,Brazil,118148.0,blood,Human,118,3972006,Illumina HiSeq,15
+Acinetobacter baumannii strain 648_16,GCA_015537045.1,2016.0,Brazil,65865.0,blood,Human,212,4119368,Illumina HiSeq,15
+Acinetobacter baumannii strain L019,GCA_015537165.1,2010.0,Brazil,154935.0,blood,Human,186,4322499,Illumina HiSeq,-
+Acinetobacter baumannii strain 541_17,GCA_015537175.1,2017.0,Brazil,67249.0,blood,Human,413,4093867,Illumina HiSeq,79
+Acinetobacter baumannii strain L071,GCA_015537255.1,2013.0,Brazil,164960.0,blood,Human,830,4284935,Illumina HiSeq,15
+Acinetobacter baumannii strain 398_16,GCA_015537275.1,2016.0,Brazil,73696.0,blood,Human,164,4036999,Illumina HiSeq,79
+Acinetobacter baumannii strain 837_16,GCA_015537295.1,2016.0,Brazil,123218.0,blood,Human,170,4109155,Illumina HiSeq,79
+Acinetobacter baumannii strain 606_16,GCA_015537345.1,2016.0,Brazil,168257.0,blood,Human,102,3953693,Illumina HiSeq,15
+Acinetobacter baumannii strain 397_16,GCA_015537365.1,2016.0,Brazil,102187.0,blood,Human,113,4000325,Illumina HiSeq,79
+Acinetobacter baumannii strain L060,GCA_015537415.1,2012.0,Brazil,173923.0,blood,Human,108,3970265,Illumina HiSeq,15
+Acinetobacter baumannii strain 494_16,GCA_015537505.1,2016.0,Brazil,140609.0,blood,Human,89,3858991,Illumina HiSeq,1
+Acinetobacter baumannii strain L070,GCA_015537565.1,2013.0,Brazil,176121.0,blood,Human,114,4173474,Illumina HiSeq,25
+Acinetobacter baumannii strain 961_16,GCA_015537605.1,2016.0,Brazil,84837.0,blood,Human,183,4144652,Illumina HiSeq,79
+Acinetobacter baumannii strain 808_16,GCA_015537615.1,2016.0,Brazil,89750.0,blood,Human,154,4039217,Illumina HiSeq,79
+Acinetobacter baumannii strain 366_16,GCA_015537675.1,2016.0,Brazil,143779.0,blood,Human,84,3846310,Illumina HiSeq,1
+Acinetobacter baumannii strain 563_16,GCA_015537755.1,2016.0,Brazil,179529.0,blood,Human,81,3841101,Illumina HiSeq,1
+Acinetobacter baumannii strain 300_16,GCA_015537915.1,2016.0,Brazil,147778.0,blood,Human,85,3894058,Illumina HiSeq,1
+Acinetobacter baumannii strain L066,GCA_015537965.1,2013.0,Brazil,147775.0,blood,Human,120,3961854,Illumina HiSeq,1
+Acinetobacter baumannii strain 479_16,GCA_015538085.1,2016.0,Brazil,166117.0,blood,Human,114,3933781,Illumina HiSeq,15
+Acinetobacter baumannii strain L006,GCA_015538125.1,2008.0,Brazil,258944.0,blood,Human,85,3883737,Illumina HiSeq,20
+Acinetobacter baumannii strain 181_17,GCA_015538275.1,2017.0,Brazil,306955.0,blood,Human,235,3926714,Illumina HiSeq,1
+Acinetobacter baumannii strain 763_16,GCA_015538305.1,2016.0,Brazil,113865.0,blood,Human,149,4003558,Illumina HiSeq,25
+Acinetobacter baumannii strain CCBH28908,GCA_015666365.1,2020.0,Brazil,34972.0,blood,Human,198,3822049,Illumina,79
+Acinetobacter baumannii strain CCBH28803,GCA_015666475.1,2020.0,Brazil,31835.0,blood,Human,213,3903828,Illumina,79
+Acinetobacter baumannii strain CCBH28245,GCA_015666515.1,2020.0,Brazil,62044.0,blood,Human,127,3956031,Illumina,1
+Acinetobacter baumannii strain SQ096,GCA_015694655.1,2010.0,China,139179.0,blood,Human,99,4000886,Illumina MiSeq,2
+Acinetobacter baumannii strain abC4,GCA_015731955.1,2017.0,China,157629.0,blood,Human,208,3789886,Illumina NextSeq,2
+Acinetobacter baumannii strain abC6,GCA_015731975.1,2017.0,China,162092.0,blood,Human,150,3775514,Illumina NextSeq,2
+Acinetobacter baumannii strain abA2,GCA_015732075.1,2018.0,China,131813.0,blood,Human,199,4041029,Illumina NextSeq,1555
+Acinetobacter baumannii strain ATCC 17961 strain not applicable,GCA_015910475.1,2016.0,USA,4016386.0,blood,Human,3,4032448,Illumina MiSeq; Oxford Nanopore MinION,438
+Acinetobacter baumannii strain CCBH28083,GCA_016054925.1,2020.0,Brazil,39150.0,blood,Human,201,3922868,Illumina,848
+Acinetobacter baumannii strain CCBH27996,GCA_016055015.1,2020.0,Brazil,85838.0,blood,Human,131,4104145,Illumina,79
+Acinetobacter baumannii strain CCBH28194,GCA_016054975.1,2020.0,Brazil,53842.0,blood,Human,186,3974003,Illumina,78
+Acinetobacter baumannii strain CCBH27848,GCA_016055335.1,2020.0,Brazil,35801.0,blood,Human,282,3953203,Illumina,79
+Acinetobacter baumannii strain CCBH27700,GCA_016055375.1,2020.0,Brazil,30833.0,blood,Human,693,4342154,Illumina,79
+Acinetobacter baumannii strain CCBH27628,GCA_016055485.1,2018.0,Brazil,77235.0,blood,Human,157,4062441,Illumina,79
+Acinetobacter baumannii strain CCBH27624,GCA_016055475.1,2020.0,Brazil,38765.0,blood,Human,216,4127277,Illumina,79
+Acinetobacter baumannii strain CCBH27570,GCA_016055595.1,2019.0,Brazil,68630.0,blood,Human,141,4092335,Illumina,79
+Acinetobacter baumannii strain CCBH27449,GCA_016055685.1,2019.0,Brazil,80378.0,blood,Human,143,4073505,Illumina,79
+Acinetobacter baumannii strain CCBH27458,GCA_016055715.1,2019.0,Brazil,39533.0,blood,Human,180,3817232,Illumina,1
+Acinetobacter baumannii strain CCBH27135,GCA_016055945.1,2019.0,Brazil,65770.0,blood,Human,278,4011978,Illumina,1
+Acinetobacter baumannii strain CCBH26881,GCA_016056005.1,2019.0,Brazil,48685.0,blood,Human,177,3936076,Illumina,1
+Acinetobacter baumannii strain CCBH26772,GCA_016056045.1,2019.0,Brazil,21195.0,blood,Human,408,3982100,Illumina,79
+Acinetobacter baumannii strain CCBH26454,GCA_016056095.1,2019.0,Brazil,114624.0,blood,Human,100,4278045,Illumina,25
+Acinetobacter baumannii strain CCBH26789,GCA_016056125.1,2019.0,Brazil,95203.0,blood,Human,94,3823350,Illumina,1
+Acinetobacter baumannii strain CCBH26689,GCA_016056145.1,2019.0,Brazil,61242.0,blood,Human,165,4079860,Illumina,79
+Acinetobacter baumannii strain CCBH28031,GCA_016416045.1,2020.0,Brazil,116837.0,blood,Human,75,3900866,Illumina,1
+Acinetobacter baumannii strain ACIN00267,GCA_016506005.1,2019.0,USA,70004.0,blood,Human,135,3762353,Illumina NextSeq,132
+Acinetobacter baumannii strain ACIN00252,GCA_016506195.1,2019.0,USA,160502.0,blood,Human,75,3935840,Illumina NextSeq,2
+Acinetobacter baumannii strain ACIN00211,GCA_016506505.1,2018.0,USA,369937.0,blood,Human,35,3880628,Illumina NextSeq,221
+Acinetobacter baumannii strain ACIN00164,GCA_016506945.1,2017.0,USA,168006.0,blood,Human,76,3977322,Illumina NextSeq,2
+Acinetobacter baumannii strain ABBL099,GCF_000738845.1,2010.0,USA,53298.0,Blood,Human,155,3917671,Illumina HiSeq,499
+Acinetobacter baumannii strain AC1532,GCA_017349055.1,2015.0,Malaysia,324863.0,blood,Human,51,3917664,Illumina HiSeq,25
+Acinetobacter baumannii strain AC1521,GCA_017349175.1,2015.0,Malaysia,131159.0,blood,Human,96,3970371,Illumina HiSeq,2
+Acinetobacter baumannii strain AC15139,GCA_017349155.1,2015.0,Malaysia,122024.0,blood,Human,66,3600705,Illumina HiSeq,721
+Acinetobacter baumannii strain GIMC5510:ABT-897-17,GCA_017584105.1,2017.0,Russia,3787675.0,blood,Human,2,3801155,Illumina MiSeq,45
+Acinetobacter baumannii strain ORAB01,GCF_000939415.1,2012.0,USA,114179.0,blood,Human,126,4011765,Illumina NextSeq 500,2
+Acinetobacter baumannii strain ORAB14,GCF_000939535.1,2013.0,USA,114179.0,blood,Human,119,4003819,Illumina NextSeq 500,2
+Acinetobacter baumannii strain ACI 51,GCA_018156745.1,2016.0,Brazil,23233.0,blood,Human,335,3898741,Illumina MiSeq,79
+Acinetobacter baumannii strain Ab32,GCA_018221345.1,2009.0,Israel,103945.0,blood,Human,62,4014152,Illumina HiSeq,3
+Acinetobacter baumannii strain Ab105,GCA_018221375.1,2019.0,Israel,4053143.0,blood,Human,3,4174989,Illumina HiSeq,2
+Acinetobacter baumannii strain Ab905,GCA_018221385.1,2019.0,Israel,113586.0,blood,Human,64,3944145,Illumina HiSeq,3
+Acinetobacter baumannii strain Ab241,GCA_018221365.1,2019.0,Israel,4069288.0,blood,Human,2,4077795,Illumina HiSeq,3
+Acinetobacter baumannii strain Ab238,GCA_018221425.1,2019.0,Israel,3993835.0,blood,Human,3,4072886,Illumina HiSeq,3
+Acinetobacter baumannii strain Cl415,GCA_018604365.1,2017.0,Lebanon,3965259.0,blood,Human,3,3976267,Illumina; Oxford Nanopore MinION,2
+Acinetobacter baumannii strain MRSN16897,GCF_000972525.1,2011.0,USA,156145.0,blood,,86,3918537,Illumina MiSeq,10
+Acinetobacter baumannii strain Ab164,GCA_018863255.1,2018.0,USA,222701.0,blood,Human,31,3876391,Illumina NextSeq,1756
+Acinetobacter baumannii strain M20,GCA_019188935.1,2020.0,Egypt,15430.0,blood,Human,546,3919604,Illumina MiSeq,570
+Acinetobacter baumannii strain M16,GCA_019188895.1,2020.0,Egypt,27010.0,blood,Human,314,3945738,Illumina MiSeq,2
+Acinetobacter baumannii strain M18,GCA_019188885.1,2020.0,Egypt,26535.0,blood,Human,463,4029452,Illumina MiSeq,85
+Acinetobacter baumannii strain M03,GCA_019189185.1,2020.0,Egypt,11611.0,blood,Human,725,4180252,Illumina MiSeq,113
+Acinetobacter baumannii strain K11,GCA_019336715.1,2019.0,China,121807.0,blood,Human,62,4018265,Illumina HiSeq,2
+Acinetobacter baumannii strain K15,GCA_019336665.1,2019.0,China,132005.0,blood,Human,62,4018114,Illumina HiSeq,2
+Acinetobacter baumannii strain K14,GCA_019336685.1,2019.0,China,131688.0,blood,Human,60,4007319,Illumina HiSeq,2
+Acinetobacter baumannii strain K13,GCA_019336705.1,2019.0,China,132005.0,blood,Human,60,4014191,Illumina HiSeq,2
+Acinetobacter baumannii strain K12,GCA_019336745.1,2019.0,China,123465.0,blood,Human,60,4009506,Illumina HiSeq,2
+Acinetobacter baumannii strain K2,GCA_019336905.1,2019.0,China,123465.0,blood,Human,55,4002097,Illumina HiSeq,2
+Acinetobacter baumannii strain K5,GCA_019336865.1,2019.0,China,133166.0,blood,Human,61,4036380,Illumina HiSeq,2
+Acinetobacter baumannii strain K4,GCA_019336845.1,2019.0,China,133166.0,blood,Human,52,4023359,Illumina HiSeq,2
+Acinetobacter baumannii strain K3,GCA_019336885.1,2019.0,China,132027.0,blood,Human,60,4014494,Illumina HiSeq,2
+Acinetobacter baumannii strain K1,GCA_019336925.1,2019.0,China,132027.0,blood,Human,55,4002351,Illumina HiSeq,2
+Acinetobacter baumannii strain 20A2950,GCA_019352225.1,2020.0,Reunion,36293.0,blood,Human,205,3940220,Illumina NextSeq,1
+Acinetobacter baumannii strain 20A2942,GCA_019352235.1,2020.0,Reunion,24571.0,blood,Human,325,3863379,Illumina NextSeq,1
+Acinetobacter baumannii strain 20A2940,GCA_019352295.1,2020.0,Reunion,22082.0,blood,Human,343,3853706,Illumina NextSeq,1
+Acinetobacter baumannii strain 19A2668,GCA_019352415.1,2019.0,Reunion,46146.0,blood,Human,188,3883484,Illumina NextSeq,1
+Acinetobacter baumannii strain ABBL055,GCF_001414565.1,2008.0,USA,60720.0,Blood,Human,117,4099497,Illumina HiSeq,79
+Acinetobacter baumannii strain ABBL060,GCF_001414645.1,2008.0,USA,37283.0,Blood,Human,218,4040002,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL061,GCF_001414655.1,2008.0,USA,101526.0,Blood,Human,93,3960869,Illumina HiSeq,406
+Acinetobacter baumannii strain ABBL067,GCF_001414765.1,2008.0,USA,114946.0,Blood,Human,82,4033938,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL067a,GCF_001414785.1,2005.0,USA,22794.0,Blood,Human,362,4007157,Illumina HiSeq,79
+Acinetobacter baumannii strain ABBL067b,GCF_001414805.1,2005.0,USA,22394.0,Blood,Human,396,4073564,Illumina HiSeq,79
+Acinetobacter baumannii strain ABBL056,GCF_001414815.1,2008.0,USA,80470.0,Blood,Human,89,4013997,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL062,GCF_001414865.1,2008.0,USA,106486.0,Blood,Human,70,3870667,Illumina HiSeq,2
+Acinetobacter baumannii strain 21A3140,GCA_020251125.1,2021.0,France,60064.0,blood,Human,153,3810326,Illumina NextSeq,2
+Acinetobacter baumannii strain 20A2964,GCA_020251285.1,2020.0,France,47677.0,blood,Human,173,3815666,Illumina NextSeq,2
+Acinetobacter baumannii strain 20A2903,GCA_020251345.1,2020.0,France,22291.0,blood,Human,345,3797798,Illumina NextSeq,2
+Acinetobacter baumannii strain 20A2942,GCA_020251365.1,2020.0,France,59320.0,blood,Human,173,3932397,Illumina NextSeq,1
+Acinetobacter baumannii strain ABBL067c,GCF_001414885.1,2005.0,USA,19274.0,Blood,Human,456,4033992,Illumina HiSeq,-
+Acinetobacter baumannii strain 17A1688,GCA_020254585.1,2017.0,France,61480.0,blood,Human,163,4047157,Illumina NextSeq,2
+Acinetobacter baumannii strain 17A2037,GCA_020254545.1,2017.0,France,12693.0,blood,Human,560,3853856,Illumina NextSeq,2
+Acinetobacter baumannii strain 17A2015,GCA_020254595.1,2017.0,France,97165.0,blood,Human,96,3898991,Illumina NextSeq,2
+Acinetobacter baumannii strain ABBL067f,GCF_001414905.1,2006.0,USA,16375.0,Blood,Human,530,3998279,Illumina HiSeq,79
+Acinetobacter baumannii strain 16A1365,GCA_020254705.1,2016.0,France,45515.0,blood,Human,189,3924383,Illumina NextSeq,10
+Acinetobacter baumannii strain 17A1762,GCA_020254635.1,2017.0,France,57990.0,blood,Human,143,4076857,Illumina NextSeq,1
+Acinetobacter baumannii strain ABBL067e,GCF_001414925.1,2005.0,USA,21308.0,Blood,Human,420,4016445,Illumina HiSeq,-
+Acinetobacter baumannii strain 19A2740,GCA_020255025.1,2019.0,France,24959.0,blood,Human,330,3888971,Illumina NextSeq,2
+Acinetobacter baumannii strain 19A2728,GCA_020255045.1,2019.0,France,81390.0,blood,Human,112,3913113,Illumina NextSeq,1
+Acinetobacter baumannii strain ABBL067g,GCF_001414935.1,2006.0,USA,16454.0,Blood,Human,517,4000937,Illumina HiSeq,79
+Acinetobacter baumannii strain 14A750,GCA_020255225.1,2014.0,France,44570.0,blood,Human,192,4017109,Illumina NextSeq,1
+Acinetobacter baumannii strain ABBL067k,GCF_001414985.1,2007.0,USA,82155.0,Blood,Human,103,4003544,Illumina HiSeq,-
+Acinetobacter baumannii strain 14A626,GCA_020255585.1,2014.0,France,44821.0,blood,Human,193,4142151,Illumina NextSeq,25
+Acinetobacter baumannii strain 15A835,GCA_020255525.1,2015.0,France,196766.0,blood,Human,71,4140438,Illumina NextSeq,25
+Acinetobacter baumannii strain ABBL067h,GCF_001414995.1,2006.0,USA,19467.0,Blood,Human,482,4028103,Illumina HiSeq,-
+Acinetobacter baumannii strain 18A2184,GCA_020255885.1,2018.0,France,75069.0,blood,Human,112,3902195,Illumina NextSeq,2
+Acinetobacter baumannii strain 17A2021,GCA_020255985.1,2017.0,France,48697.0,blood,Human,161,4029800,Illumina NextSeq,78
+Acinetobacter baumannii strain ABBL067l,GCF_001415015.1,2008.0,USA,86209.0,Blood,Human,103,4001312,Illumina HiSeq,79
+Acinetobacter baumannii strain 18A2229,GCA_020256165.1,2018.0,France,78969.0,blood,Human,91,3996693,Illumina NextSeq,3
+Acinetobacter baumannii strain ABBL068,GCF_001415025.1,2009.0,USA,35378.0,Blood,Human,229,4138547,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL071,GCF_001415085.1,2009.0,USA,63583.0,Blood,Human,124,4095763,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL073,GCF_001415095.1,2009.0,USA,78381.0,Blood,Human,137,4093685,Illumina HiSeq,2
+Acinetobacter baumannii strain ABBL076,GCF_001415165.1,2009.0,USA,19568.0,Blood,Human,439,3885827,Illumina HiSeq,406
+Acinetobacter baumannii strain ABBL082,GCF_001415215.1,2009.0,USA,25470.0,Blood,Human,328,3862831,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL088,GCF_001415255.1,2009.0,USA,24974.0,Blood,Human,370,4034693,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL091,GCF_001415275.1,2009.0,USA,19496.0,Blood,Human,509,4138700,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL067i,GCF_001415295.1,2006.0,USA,17399.0,Blood,Human,478,4002526,Illumina HiSeq,79
+Acinetobacter baumannii strain ABBL067j,GCF_001415325.1,2007.0,USA,52671.0,Blood,Human,141,4090270,Illumina HiSeq,79
+Acinetobacter baumannii strain ABBL069,GCF_001415345.1,2009.0,USA,25495.0,Blood,Human,355,4101875,Illumina HiSeq,79
+Acinetobacter baumannii strain ABBL072,GCF_001415355.1,2009.0,USA,45835.0,Blood,Human,210,4328144,Illumina HiSeq,79
+Acinetobacter baumannii strain ABBL079,GCF_001415385.1,2009.0,USA,22807.0,Blood,Human,384,4279073,Illumina HiSeq,79
+Acinetobacter baumannii strain ABBL085,GCF_001415435.1,2009.0,USA,29772.0,Blood,Human,261,3820624,Illumina HiSeq,103
+Acinetobacter baumannii strain ABBL089,GCF_001415465.1,2009.0,USA,25433.0,Blood,Human,365,4010549,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL092,GCF_001415505.1,2009.0,USA,19303.0,Blood,Human,481,3909225,Illumina HiSeq,499
+Acinetobacter baumannii strain ABBL093,GCF_001415515.1,2009.0,USA,25329.0,Blood,Human,361,3891768,Illumina HiSeq,499
+Acinetobacter baumannii strain ABBL095,GCF_001415535.1,2009.0,USA,30203.0,Blood,Human,233,3890289,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL105,GCF_001415595.1,2010.0,USA,21631.0,Blood,Human,418,4133559,Illumina HiSeq,79
+Acinetobacter baumannii strain ABBL107,GCF_001415615.1,2010.0,USA,27143.0,Blood,Human,323,3989621,Illumina HiSeq,499
+Acinetobacter baumannii strain ABBL109,GCF_001415645.1,2010.0,USA,29282.0,Blood,Human,309,3964559,Illumina HiSeq,2
+Acinetobacter baumannii strain ABBL113,GCF_001415695.1,2010.0,USA,26483.0,Blood,Human,333,4027761,Illumina HiSeq,2
+Acinetobacter baumannii strain ABBL116,GCF_001415765.1,2011.0,USA,23293.0,Blood,Human,436,4064273,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL117,GCF_001415785.1,2011.0,USA,13992.0,Blood,Human,629,4144126,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL118,GCF_001415805.1,2011.0,USA,18175.0,Blood,Human,623,3996376,Illumina HiSeq,406
+Acinetobacter baumannii strain ABBL121,GCF_001415815.1,2011.0,USA,17305.0,Blood,Human,541,4063382,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL122,GCF_001415835.1,2011.0,USA,23151.0,Blood,Human,354,3937804,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL127,GCF_001415875.1,2011.0,USA,22834.0,Blood,Human,411,4169985,Illumina HiSeq,79
+Acinetobacter baumannii strain ABBL100,GCF_001415985.1,2010.0,USA,30882.0,Blood,Human,256,3944977,Illumina HiSeq,406
+Acinetobacter baumannii strain ABBL106,GCF_001416035.1,2010.0,USA,21780.0,Blood,Human,412,4140131,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL124,GCF_001416095.1,2011.0,USA,34239.0,Blood,Human,215,4019327,Illumina HiSeq,2
+Acinetobacter baumannii strain ABBL131,GCF_001416145.1,2012.0,USA,19650.0,Blood,Human,459,4010870,Illumina HiSeq,499
+Acinetobacter baumannii strain ABBL132,GCF_001416155.1,2012.0,USA,19969.0,Blood,Human,454,4005429,Illumina HiSeq,499
+Acinetobacter baumannii strain ABBL134,GCF_001416165.1,2012.0,USA,23593.0,Blood,Human,439,4076457,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL137,GCF_001416225.1,2012.0,USA,18605.0,Blood,Human,511,3946735,Illumina HiSeq,2
+Acinetobacter baumannii strain ABBL147,GCF_001416315.1,2012.0,USA,19257.0,Blood,Human,453,3735770,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL129,GCF_001416515.1,2012.0,USA,38732.0,Blood,Human,204,4032732,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL130,GCF_001416545.1,2012.0,USA,21064.0,Blood,Human,397,3950049,Illumina HiSeq,406
+Acinetobacter baumannii strain ABBL142,GCF_001416565.1,2012.0,USA,29463.0,Blood,Human,296,3990686,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL144,GCF_001416585.1,2012.0,USA,20834.0,Blood,Human,442,3964039,Illumina HiSeq,406
+Acinetobacter baumannii strain ABBL003,GCF_001432375.1,2005.0,USA,114915.0,Blood,Human,70,3954365,Illumina HiSeq,406
+Acinetobacter baumannii strain ABBL006,GCF_001432385.1,2005.0,USA,92563.0,Blood,Human,77,4067745,Illumina HiSeq,79
+Acinetobacter baumannii strain ABBL014,GCF_001432425.1,2005.0,USA,52131.0,Blood,Human,194,3852216,Illumina HiSeq,372
+Acinetobacter baumannii strain ABBL009,GCF_001432445.1,2005.0,USA,101602.0,Blood,Human,72,4020183,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL011,GCF_001432455.1,2005.0,USA,118605.0,Blood,Human,70,4003629,Illumina HiSeq,6
+Acinetobacter baumannii strain Ab-HCG1217-85,GCA_021173305.1,2017.0,Mexico,164007.0,blood,Human,82,4043667,Illumina MiSeq,2
+Acinetobacter baumannii strain Ab-HCG1016-83,GCA_021173655.1,2016.0,Mexico,173229.0,blood,Human,46,3881823,Illumina MiSeq,2
+Acinetobacter baumannii strain Ab-HCG1217-84,GCA_021173665.1,2017.0,Mexico,156421.0,blood,Human,80,4041030,Illumina MiSeq,2
+Acinetobacter baumannii strain Ab-HCG0216-66,GCA_021173725.1,2016.0,Mexico,147232.0,blood,Human,71,4024230,Illumina MiSeq,2
+Acinetobacter baumannii strain Ab-HCG0216-65,GCA_021173925.1,2016.0,Mexico,148182.0,blood,Human,73,4025083,Illumina MiSeq,2
+Acinetobacter baumannii strain Ab-HCG0911-61,GCA_021173935.1,2011.0,Mexico,210787.0,blood,Human,55,3901551,Illumina MiSeq,2
+Acinetobacter baumannii strain Ab-HCG0911-62,GCA_021173945.1,2011.0,Mexico,178110.0,blood,Human,56,3970263,Illumina MiSeq,2
+Acinetobacter baumannii strain Ab-HCG0911-57,GCA_021174025.1,2011.0,Mexico,178110.0,blood,Human,54,3970840,Illumina MiSeq,2
+Acinetobacter baumannii strain Ab-HCG0911-59,GCA_021174055.1,2011.0,Mexico,210787.0,blood,Human,50,3902552,Illumina MiSeq,2
+Acinetobacter baumannii strain Ab-HCG1110-52,GCA_021174185.1,2010.0,Mexico,178433.0,blood,Human,87,3995431,Illumina MiSeq,2
+Acinetobacter baumannii strain ABBL018,GCF_001432545.1,2005.0,USA,105657.0,Blood,Human,207,4334741,Illumina HiSeq,25
+Acinetobacter baumannii strain Ab-HCG0309-46,GCA_021174245.1,2009.0,Mexico,129274.0,blood,Human,82,4032675,Illumina MiSeq,2
+Acinetobacter baumannii strain Ab-HCG0109-42,GCA_021174345.1,2009.0,Mexico,147772.0,blood,Human,78,4031410,Illumina MiSeq,2
+Acinetobacter baumannii strain ABBL022,GCF_001432585.1,2006.0,USA,105023.0,Blood,Human,84,3995203,Illumina HiSeq,-
+Acinetobacter baumannii strain Ab-HCG0109-38,GCA_021174395.1,2009.0,Mexico,150863.0,blood,Human,76,4033703,Illumina MiSeq,2
+Acinetobacter baumannii strain ABBL021,GCF_001432595.1,2006.0,USA,132629.0,Blood,Human,70,3949704,Illumina HiSeq,-
+Acinetobacter baumannii strain Ab-HCG0908-25,GCA_021174685.1,2008.0,Mexico,165587.0,blood,Human,75,3960347,Illumina MiSeq,2
+Acinetobacter baumannii strain ABBL023,GCF_001432625.1,2006.0,USA,12267.0,Blood,Human,641,4002227,Illumina MiSeq,79
+Acinetobacter baumannii strain ABBL025,GCF_001432665.1,2006.0,USA,171086.0,Blood,Human,75,4067524,Illumina HiSeq,78
+Acinetobacter baumannii strain Ab-HCG0807-2,GCA_021175125.1,2007.0,Mexico,164315.0,blood,Human,54,3935656,Illumina MiSeq,2
+Acinetobacter baumannii strain Ab-HCG0307-1,GCA_021175145.1,2007.0,Mexico,178110.0,blood,Human,51,3935173,Illumina MiSeq,2
+Acinetobacter baumannii strain ABBL001,GCF_001432685.1,2005.0,USA,122252.0,Blood,Human,85,3871656,Illumina HiSeq,1022
+Acinetobacter baumannii strain ABBL004,GCF_001432705.1,2005.0,USA,129801.0,Blood,Human,77,3855049,Illumina HiSeq,1022
+Acinetobacter baumannii strain ABBL008,GCF_001432755.1,2005.0,USA,139396.0,Blood,Human,89,4064187,Illumina HiSeq,2
+Acinetobacter baumannii strain ABBL012,GCF_001432785.1,2005.0,USA,110206.0,Blood,Human,90,3928030,Illumina HiSeq,406
+Acinetobacter baumannii strain ABBL030,GCF_001432925.1,2006.0,USA,84636.0,Blood,Human,199,4046128,Illumina MiSeq,-
+Acinetobacter baumannii strain ABBL037,GCF_001432975.1,2007.0,USA,109239.0,Blood,Human,81,4181335,Illumina HiSeq,79
+Acinetobacter baumannii strain ABBL038,GCF_001433005.1,2007.0,USA,110028.0,Blood,Human,92,4045272,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL044,GCF_001433015.1,2007.0,USA,64973.0,Blood,Human,178,4126075,Illumina MiSeq,-
+Acinetobacter baumannii strain ABBL050,GCF_001433055.1,2008.0,USA,27050.0,Blood,Human,314,4180484,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL045,GCF_001433205.1,2007.0,USA,101492.0,Blood,Human,108,4054075,Illumina HiSeq,2
+Acinetobacter baumannii strain ABBL049,GCF_001433245.1,2007.0,USA,116905.0,Blood,Human,145,4156273,Illumina MiSeq,79
+Acinetobacter baumannii strain ABBL041,GCF_001433265.1,2007.0,USA,85413.0,Blood,Human,108,4012632,Illumina HiSeq,-
+Acinetobacter baumannii strain ABBL043,GCF_001433275.1,2007.0,USA,79829.0,Blood,Human,149,4202522,Illumina MiSeq,79
+Acinetobacter baumannii strain ABBL039,GCF_001433655.1,2007.0,USA,59483.0,Blood,Human,120,4004921,Illumina HiSeq,79
+Acinetobacter baumannii strain ABBL040,GCF_001433675.1,2007.0,USA,16992.0,Blood,Human,504,3910768,Illumina HiSeq,2
+Acinetobacter baumannii strain ABBL053,GCF_001433695.1,2008.0,USA,90003.0,Blood,Human,90,4081155,Illumina HiSeq,79
+Acinetobacter baumannii strain MRSN17592,GCF_001441355.1,2013.0,USA,156144.0,blood,Human,80,3857306,Illumina MiSeq,10
+Acinetobacter baumannii strain MRSN17593,GCF_001441405.1,2013.0,USA,156143.0,blood,Human,82,3870522,Illumina MiSeq,10
+Acinetobacter baumannii strain MRSN16901,GCF_001441415.1,2011.0,USA,160715.0,blood,Human,78,3917878,Illumina MiSeq,10
+Acinetobacter baumannii strain MRSN16874,GCF_001442575.1,2011.0,USA,148079.0,blood,Human,114,4103087,Illumina MiSeq,2
+Acinetobacter baumannii strain MRSN5540,GCF_001444225.1,2011.0,USA,87980.0,blood,Human,117,4028653,Illumina MiSeq,94
+Acinetobacter baumannii strain Ab04-mff,GCF_001077655.1,2012.0,Canada,3935688.0,blood,Human,3,4192280,Illumina; PacBio,10
+Acinetobacter baumannii CriePir331,GCA_021294925.1,2020.0,Russia,4022563.0,blood,Human,2,4033757,Illumina; Oxford Nanopore MinION,2
+Acinetobacter baumannii NGCE1008,GCA_022395485.1,2020.0,Bangladesh,131012.0,blood,Human,84,3940652,Illumina MiSeq,2
+Acinetobacter baumannii NGCE1005,GCA_022395555.1,2020.0,Bangladesh,135425.0,blood,Human,80,3941955,Illumina MiSeq,2
+Acinetobacter baumannii NGCE1011,GCA_022395455.1,2020.0,Bangladesh,122061.0,blood,Human,86,3941223,Illumina MiSeq,2
+Acinetobacter baumannii NGCE1004,GCA_022395655.1,2020.0,Bangladesh,140356.0,blood,Human,76,3941505,Illumina MiSeq,2
+Acinetobacter baumannii AB9,GCA_022661915.1,2020.0,Croatia,90553.0,blood,Human,180,3960113,Illumina NextSeq,2
+Acinetobacter baumannii AB3,GCA_022661995.1,2020.0,Croatia,72740.0,blood,Human,180,3898909,Illumina NextSeq,2
+Acinetobacter baumannii AB5,GCA_022662025.1,2020.0,Croatia,80430.0,blood,Human,184,4031118,Illumina NextSeq,2
+Acinetobacter baumannii AB2,GCA_022662035.1,2020.0,Croatia,67069.0,blood,Human,168,4024064,Illumina NextSeq,2
+Acinetobacter baumannii AB1,GCA_022662055.1,2020.0,Croatia,89637.0,blood,Human,149,3794739,Illumina NextSeq,492
+Acinetobacter baumannii KFMC_AB20,GCA_022809455.1,2016.0,Saudi Arabia,12310.0,blood,Human,551,3840332,Illumina MiSeq,1580
+Acinetobacter baumannii KFMC_AB24,GCA_022809535.1,2016.0,Saudi Arabia,63140.0,blood,Human,149,3959673,Illumina MiSeq,1580
+Acinetobacter baumannii A9,GCA_022937605.1,2012.0,China,147232.0,blood,Human,63,4061267,Illumina HiSeq,2
+Acinetobacter baumannii E0305,GCA_022952875.1,2020.0,USA,78000.0,blood,Human,99,3818766,Illumina NextSeq,2
+Acinetobacter baumannii CCBH29179,GCA_023060185.1,2020.0,Brazil,59568.0,blood,Human,115,3831734,Illumina MiSeq,15
+Acinetobacter baumannii CCBH29243,GCA_023061035.1,2020.0,Brazil,81276.0,blood,Human,134,3928282,Illumina MiSeq,79
+Acinetobacter baumannii CCBH29255,GCA_023572255.1,2020.0,Brazil,61759.0,blood,Human,110,3882876,Illumina MiSeq,584
+Acinetobacter baumannii CCBH29253,GCA_023572275.1,2020.0,Brazil,39637.0,blood,Human,191,3884541,Illumina MiSeq,15
+Acinetobacter baumannii CCBH29224,GCA_023572305.1,2020.0,Brazil,41091.0,blood,Human,181,4088909,Illumina MiSeq,25
+Acinetobacter baumannii Ltt321,GCA_023605115.1,2017.0,China,167975.0,blood,Human,75,3940187,Illumina HiSeq,2
+Acinetobacter baumannii Ltt240,GCA_023605205.1,2018.0,China,131080.0,blood,Human,103,4027953,Illumina HiSeq,2
+Acinetobacter baumannii Ltt219,GCA_023605545.1,2018.0,China,157923.0,blood,Human,109,3982191,Illumina HiSeq,2
+Acinetobacter baumannii 6921,GCA_023606345.1,2018.0,China,169212.0,blood,Human,63,4020624,Illumina HiSeq,2
+Acinetobacter baumannii 280820,GCA_023809625.1,2020.0,India,4145318.0,blood,Human,4,4302277,Illumina HiSeq; Oxford Nanopore,126
+Acinetobacter baumannii VB280821,GCA_023809705.1,2020.0,India,4048264.0,blood,Human,6,4340713,Illumina HiSeq; Oxford Nanopore,126
+Acinetobacter baumannii BCU1-1,GCA_024124165.1,2020.0,USA,141917.0,blood,Human,69,3905556,Illumina NextSeq,2
+Acinetobacter baumannii MICU10-1,GCA_024124255.1,2020.0,USA,141917.0,blood,Human,70,3904389,Illumina NextSeq,2
+Acinetobacter baumannii KBN10P04593,GCA_024138105.1,2016.0,South Korea,3931555.0,blood,Human,1,3931555,PacBio; Illumina,2
+Acinetobacter baumannii B55,GCA_024259245.1,2018.0,China,84159.0,blood,Human,104,3971584,Illumina,2
+Acinetobacter baumannii H-80359,GCA_024357705.1,2020.0,Malaysia,73792.0,blood,Human,126,3896108,Illumina MiSeq,2
+Acinetobacter baumannii H-11699,GCA_024357715.1,2018.0,Malaysia,16313.0,blood,Human,534,3809037,Illumina MiSeq,2
+Acinetobacter baumannii H-6668,GCA_024357805.1,2020.0,Malaysia,37496.0,blood,Human,239,3849703,Illumina MiSeq,459
+Acinetobacter baumannii CHSZNSAB23,GCA_025194955.1,2016.0,China,168007.0,blood,Human,56,3918936,Illumina HiSeq,2
+Acinetobacter baumannii CHSZNSAB31,GCA_025245815.1,2017.0,China,143736.0,blood,Human,57,4148575,Illumina HiSeq,2
+Acinetobacter baumannii H-7940,GCA_025938675.1,2020.0,Malaysia,42862.0,blood,Human,201,3846264,Illumina MiSeq,2
+Acinetobacter baumannii H-80361,GCA_025938895.1,2020.0,Malaysia,42812.0,blood,Human,196,3866365,Illumina MiSeq,2
+Acinetobacter baumannii CCBH31950,GCA_025950435.1,2021.0,Brazil,73721.0,blood,Human,168,4292828,Illumina MiSeq,464
+Acinetobacter baumannii CCBH32465,GCA_025950485.1,2021.0,Brazil,129341.0,blood,Human,60,4051828,Illumina MiSeq,-
+Acinetobacter baumannii CCBH32292,GCA_025971765.1,2021.0,Brazil,65419.0,blood,Human,163,4232824,Illumina MiSeq,464
+Acinetobacter baumannii ZQ9,GCA_002837885.3,2016.0,Iraq,92823.0,blood,Human,101,4123732,Illumina MiSeq,575
+Acinetobacter baumannii AIIMS5,GCA_027975905.1,2005.0,India,175548.0,blood,Human,76,3861940,Illumina NextSeq,2
+Acinetobacter baumannii AIIMS7,GCA_027980255.1,2005.0,India,286824.0,blood,Human,211,3969592,Illumina NextSeq,1
+Acinetobacter baumannii Acb_43,GCA_028435965.1,2014.0,Brazil,62394.0,blood,Human,115,3832477,Illumina MiSeq,15
+Acinetobacter baumannii Acb_39,GCA_028439845.1,2014.0,Brazil,52572.0,blood,Human,151,3996563,Illumina MiSeq,79
+Acinetobacter baumannii Acb_33,GCA_028440005.1,2014.0,Brazil,71120.0,blood,Human,126,4017717,Illumina MiSeq,113
+Acinetobacter baumannii Acb_32,GCA_028440015.1,2010.0,Brazil,71634.0,blood,Human,127,3999289,Illumina MiSeq,79
+Acinetobacter baumannii Acb_25,GCA_028440145.1,2010.0,Brazil,43227.0,blood,Human,171,3949348,Illumina MiSeq,15
+Acinetobacter baumannii Acb_24,GCA_028440165.1,2010.0,Brazil,173845.0,blood,Human,64,4001835,Illumina MiSeq,113
+Acinetobacter baumannii Acb_23,GCA_028440255.1,2010.0,Brazil,97102.0,blood,Human,119,4008894,Illumina MiSeq,79
+Acinetobacter baumannii Acb_9,GCA_028440415.1,2012.0,Brazil,196540.0,blood,Human,45,3816446,Illumina MiSeq,1
+Acinetobacter baumannii Acb_10,GCA_028440435.1,2012.0,Brazil,164484.0,blood,Human,79,4007898,Illumina MiSeq,15
+Acinetobacter baumannii strain AB4498,GCF_001612285.1,2008.0,USA,128212.0,blood,Human,76,3905177,Illumina MiSeq,2
+Acinetobacter baumannii AB75,GCA_028549495.1,2021.0,China,167724.0,blood,Human,60,4024290,Illumina HiSeq,2
+Acinetobacter baumannii AB56,GCA_028549715.1,2021.0,China,168719.0,blood,Human,85,4135112,Illumina HiSeq,2
+Acinetobacter baumannii strain AB5001,GCF_001612395.1,2008.0,USA,223470.0,blood,Human,33,3789469,Illumina MiSeq,2
+Acinetobacter baumannii AB28,GCA_028549995.1,2021.0,China,157344.0,blood,Human,74,4018596,Illumina HiSeq,2
+Acinetobacter baumannii strain AB5674,GCF_001612435.1,2009.0,USA,419504.0,blood,Human,34,3869253,Illumina MiSeq,1
+Acinetobacter baumannii 2022CK-00839,GCA_028622715.1,2022.0,USA,4005723.0,blood,Human,3,4075237,Oxford Nanopore GridION; Illumina MiSeq,2
+Acinetobacter baumannii SVJ-AC01,GCA_028598935.1,2022.0,India,179039.0,blood,Human,46,3730857,Illumina NovaSeq,2
+Acinetobacter baumannii 5.14,GCA_029477905.1,2008.0,Brazil,59718.0,blood,Human,226,4044112,Illumina NextSeq,79
+Acinetobacter baumannii GN1589,GCA_029679265.1,2021.0,Serbia,131012.0,blood,Human,136,3994004,Illumina MiSeq,2
+Acinetobacter baumannii GN1443,GCA_029679445.1,2020.0,Serbia,131012.0,blood,Human,95,4085294,Illumina MiSeq,2
+Acinetobacter baumannii GN1333,GCA_029679545.1,2020.0,Serbia,140984.0,blood,Human,119,3812267,Illumina MiSeq,492
+Acinetobacter baumannii GN1355,GCA_029679515.1,2020.0,Serbia,157548.0,blood,Human,97,4098161,Illumina MiSeq,2
+Acinetobacter baumannii GN1172,GCA_029679625.1,2019.0,Serbia,141512.0,blood,Human,104,4219819,Illumina MiSeq,2
+Acinetobacter baumannii GN1284,GCA_029679785.1,2020.0,Serbia,131012.0,blood,Human,96,3976485,Illumina MiSeq,2
+Acinetobacter baumannii GN1107,GCA_029679745.1,2019.0,Serbia,98486.0,blood,Human,102,3953071,Illumina MiSeq,492
+Acinetobacter baumannii GN969,GCA_029679825.1,2018.0,Serbia,131012.0,blood,Human,107,4092417,Illumina MiSeq,2
+Acinetobacter baumannii GN955,GCA_029679805.1,2018.0,Serbia,131167.0,blood,Human,110,3926502,Illumina MiSeq,492
+Acinetobacter baumannii 49366,GCA_029761785.1,2007.0,Brazil,54583.0,blood,Human,196,4003815,Illumina,79
+Acinetobacter baumannii SCCH66:Ab99738,GCA_029814335.1,2019.0,Russia,3975523.0,blood,Human,3,4056817,Illumina,2
+Acinetobacter baumannii HEE89_1,GCA_029955785.1,2022.0,Ecuador,111058.0,blood,Human,141,4019106,Illumina NovaSeq,2
+Acinetobacter baumannii HEE81_1,GCA_029955865.1,2022.0,Ecuador,94073.0,blood,Human,98,3956029,Illumina NovaSeq,108
+Acinetobacter baumannii HEE41_1,GCA_029956025.1,2022.0,Ecuador,54739.0,blood,Human,153,4042536,Illumina NovaSeq,108
+Acinetobacter baumannii HEE60_1,GCA_030016845.1,2022.0,Ecuador,167078.0,blood,Human,80,4068593,Illumina NovaSeq,79
+Acinetobacter baumannii HEE31_1,GCA_030016875.1,2021.0,Ecuador,158733.0,blood,Human,113,4000594,Illumina NovaSeq,2
+Acinetobacter baumannii strain AB2828,GCF_001611995.1,2006.0,USA,124070.0,blood,Human,107,4426896,Illumina MiSeq,25
+Acinetobacter baumannii strain AB967,GCF_001612025.1,2003.0,USA,401652.0,blood,Human,27,3795032,Illumina MiSeq,48
+Acinetobacter baumannii strain AB3340,GCF_001612005.1,2006.0,USA,132604.0,blood,Human,76,4010248,Illumina MiSeq,20
+Acinetobacter baumannii strain AB3785,GCF_001612075.1,2007.0,USA,134647.0,blood,Human,70,3894584,Illumina MiSeq,2
+Acinetobacter baumannii strain AB3560,GCF_001612015.1,2006.0,USA,247914.0,blood,Human,58,4012126,Illumina MiSeq,3
+Acinetobacter baumannii FAI132,GCA_030165035.1,2020.0,Brazil,82435.0,blood,,137,4101274,Illumina NextSeq,15
+Acinetobacter baumannii LBMM 6399,GCA_030516535.1,2020.0,Egypt,110924.0,blood,Human,138,4221092,Illumina MiSeq,15
+Acinetobacter baumannii LBMM 6411,GCA_030516295.1,2021.0,Egypt,331217.0,blood,Human,74,4036291,Illumina MiSeq,158
+Acinetobacter baumannii LBMM 6413,GCA_030516315.1,2021.0,Egypt,349749.0,blood,Human,45,3956750,Illumina MiSeq,158
+Acinetobacter baumannii LBMM 6389,GCA_030516725.1,2020.0,Egypt,209246.0,blood,Human,67,3995216,Illumina MiSeq,158
+Acinetobacter baumannii Ab112,GCA_030550975.1,2022.0,Brazil,135177.0,blood,Human,127,3985112,Illumina HiSeq,2
+Acinetobacter baumannii Ab106,GCA_030551035.1,2022.0,Brazil,106986.0,blood,Human,129,3925748,Illumina HiSeq,2
+Acinetobacter baumannii Ab117,GCA_030550885.1,2022.0,Brazil,128733.0,blood,Human,127,3962839,Illumina HiSeq,2
+Acinetobacter baumannii SGH0816,GCA_030553535.1,2008.0,Singapore,223268.0,blood,Human,156,4131857,Illumina HiSeq,1
+Acinetobacter baumannii SGH0808,GCA_030553695.1,2008.0,Singapore,208230.0,blood,Human,160,4139796,Illumina HiSeq,1
+Acinetobacter baumannii SGH0910,GCA_030553715.1,2009.0,Singapore,162301.0,blood,Human,106,4106437,Illumina HiSeq,1
+Acinetobacter baumannii MDRACBA_1a,GCA_030553785.1,2008.0,Singapore,279682.0,blood,Human,105,4108077,Illumina HiSeq,1
+Acinetobacter baumannii SGH 60 pre,GCA_030553815.1,2008.0,Singapore,243232.0,blood,Human,104,4107590,Illumina HiSeq,1
+Acinetobacter baumannii SGH 46 pre,GCA_030553865.1,2009.0,Singapore,203510.0,blood,Human,101,4106912,Illumina HiSeq,1
+Acinetobacter baumannii ARC7153,GCA_030756515.1,2022.0,USA,32050.0,blood,Human,254,3844778,Illumina MiSeq,2
+Acinetobacter baumannii LACPHL-BACT-2023-00071,GCA_030850525.1,2023.0,USA,112564.0,blood,Human,79,3906797,Illumina MiSeq,-
+Acinetobacter baumannii strain LIM1049,GCF_001649765.1,2011.0,Brazil,10534.0,blood,Human,646,4013413,Illumina MiSeq,79
+Acinetobacter baumannii LACPHL-BACT-2023-00044,GCA_030851055.1,2023.0,USA,25410.0,blood,Human,260,3785106,Illumina MiSeq,1022
+Acinetobacter baumannii LACPHL-BACT-2023-00042,GCA_030851135.1,2023.0,USA,93225.0,blood,Human,91,3946270,Illumina MiSeq,2
+Acinetobacter baumannii LACPHL-BACT-2023-00037,GCA_030851205.1,2023.0,USA,68755.0,blood,Human,126,4054048,Illumina MiSeq,15
+Acinetobacter baumannii LACPHL-BACT-2023-00008,GCA_030852065.1,2023.0,USA,34687.0,blood,Human,224,3971005,Illumina MiSeq,2
+Acinetobacter baumannii LACPHL-BACT-2023-00100,GCA_032251995.1,2023.0,USA,88130.0,blood,Human,119,4018255,Illumina MiSeq,2
+Acinetobacter baumannii AcbB365_126,GCA_032461515.1,2021.0,India,95008.0,Blood,Human,117,3983668,Illumina NextSeq,2
+Acinetobacter baumannii SCCH65:Ab561520,GCA_033378945.1,2015.0,Russia,91913.0,blood,Human,103,3988425,Illumina,78
+Acinetobacter baumannii 2023CK-00893,GCA_034494405.1,2023.0,USA,4154379.0,blood,Human,5,4312633,Oxford Nanopore GridION; Illumina MiSeq,1142
+Acinetobacter baumannii 1010,GCA_036350495.1,2022.0,China,136498.0,blood,Human,149,3966040,Illumina HiSeq,2
+Acinetobacter baumannii MGL_132_B9,GCA_036529755.1,2020.0,India,44878.0,blood,Human,158,3872255,Illumina MiSeq,1
+Acinetobacter baumannii MGL_74_B5,GCA_036530615.1,2020.0,India,75652.0,blood,Human,104,3911187,Illumina MiSeq,1
+Acinetobacter baumannii strain CU060707,GCF_001700395.1,2007.0,USA,150723.0,blood,Human,234,4116645,Illumina MiSeq,2
+Acinetobacter baumannii strain LIM3756,GCF_001758165.1,2004.0,Brazil,11582.0,blood,Human,609,3892335,Illumina MiSeq,107
+Acinetobacter baumannii strain 4113,GCF_001922685.1,2013.0,Mexico,104927.0,Blood,Human,82,4041855,Illumina MiSeq,156
+Acinetobacter baumannii strain ABUH426,GCF_002014175.1,2009.0,USA,96448.0,BLOOD,Human,122,3955510,Illumina NextSeq 500,2
+Acinetobacter baumannii strain ABUH396,GCF_002014315.1,2009.0,USA,348541.0,BLOOD,Human,32,3716501,Illumina NextSeq 500,1195
+Acinetobacter baumannii strain ABUH654,GCF_002016775.1,2013.0,USA,66016.0,BLOOD,Human,146,3936626,Illumina NextSeq 500,2
+Acinetobacter baumannii strain ABUH690,GCF_002016865.1,2013.0,USA,132485.0,BLOOD,Human,103,4106880,Illumina NextSeq 500,2
+Acinetobacter baumannii strain ABUH621,GCF_002017625.1,2012.0,USA,72095.0,BLOOD,Human,111,3938869,Illumina NextSeq 500,2
+Acinetobacter baumannii strain 923,GCF_002019025.1,2011.0,Brazil,21670.0,blood,Human,364,3942650,Illumina MiSeq,79
+Acinetobacter baumannii strain 071,GCA_002119265.1,2010.0,Spain,139653.0,Blood,Human,57,3951833,Illumina HiSeq,81
+Acinetobacter baumannii strain 440,GCA_002119355.1,2010.0,Spain,156521.0,Blood,Human,54,3957708,Illumina HiSeq,81
+Acinetobacter baumannii strain kayseri102,GCA_002150485.1,2013.0,Turkey,23416.0,blood,Human,371,4058713,Illumina NextSeq 500,1
+Acinetobacter baumannii strain ABUH457,GCA_002182785.1,2009.0,USA,98918.0,blood,Human,132,4009569,Illumina NextSeq 500,2
+Acinetobacter baumannii strain ABUH356,GCA_002182895.1,2009.0,USA,160837.0,blood,Human,73,3966597,Illumina NextSeq 500,2
+Acinetobacter baumannii strain ABUH688,GCA_002183195.1,2013.0,USA,162508.0,blood,Human,99,4054830,Illumina NextSeq 500,2
+Acinetobacter baumannii strain ABUH610,GCA_002183435.1,2012.0,USA,99245.0,blood,Human,106,3898214,Illumina NextSeq 500,2
+Acinetobacter baumannii strain ABUH397,GCA_002183675.1,2009.0,USA,211138.0,blood,Human,36,3725952,Illumina NextSeq 500,48
+Acinetobacter baumannii strain ABUH464,GCA_002183815.1,2009.0,USA,140350.0,blood,Human,69,4102408,Illumina NextSeq 500,2
+Acinetobacter baumannii strain ABUH641,GCA_002184005.1,2013.0,USA,59104.0,blood,Human,160,4006207,Illumina NextSeq 500,2
+Acinetobacter baumannii strain ARLG-1788,GCA_002184325.1,2008.0,USA,245102.0,blood,,64,4063360,Illumina NextSeq 500,406
+Acinetobacter baumannii strain AB552,GCA_002212105.1,2013.0,Saudi Arabia,26314.0,Blood,Human,293,4001728,Illumina MiSeq,-
+Acinetobacter baumannii strain AB309,GCA_002212165.1,2013.0,Saudi Arabia,66999.0,Blood,Human,244,4208417,Illumina MiSeq,2
+Acinetobacter baumannii strain AB543,GCA_002212305.1,2013.0,Saudi Arabia,13255.0,Blood,Human,523,3772954,Illumina MiSeq,2
+Acinetobacter baumannii strain AB578,GCA_002212365.1,2013.0,Saudi Arabia,44759.0,Blood,Human,146,3818025,Illumina MiSeq,2
+Acinetobacter baumannii strain AB492,GCA_002212645.1,2013.0,Saudi Arabia,21947.0,Blood,Human,318,3872221,Illumina MiSeq,-
+Acinetobacter baumannii strain AC001-8-R1-S1,GCA_002416375.1,2015.0,Switzerland,111337.0,Blood,Human,116,4087670,Illumina MiSeq,20
+Acinetobacter baumannii strain AC001-8-R1,GCA_002416475.1,2015.0,Switzerland,132167.0,Blood,Human,75,4078084,Illumina MiSeq,20
+Acinetobacter baumannii strain AC001,GCA_002416345.1,2006.0,Switzerland,132413.0,Blood,Human,70,4075869,Illumina MiSeq,20
+Acinetobacter baumannii strain MBL_M4,GCA_002760715.1,2015.0,Tunisia,23558.0,Blood,Human,359,4000414,Illumina MiSeq,85
+Acinetobacter baumannii strain MBL_M10,GCA_002760835.1,2015.0,Tunisia,38228.0,Blood,Human,247,4007735,Illumina MiSeq,85
+Acinetobacter baumannii strain AB307-0294,GCA_002803025.1,1994.0,USA,3759495.0,blood,Human,1,3759495,MinION; Illumina MiSeq,1
+Acinetobacter baumannii strain ZQ8,GCA_002837895.1,2016.0,Iraq,136814.0,blood,Human,115,4076846,Illumina MiSeq,513
+Acinetobacter baumannii strain ZQ4,GCA_002837945.1,2016.0,Iraq,48104.0,blood,Human,185,3839225,Illumina MiSeq,203
+Acinetobacter baumannii strain ZQ3,GCA_002838025.1,2016.0,Iraq,98699.0,blood,Human,141,4046839,Illumina MiSeq,717
+Acinetobacter baumannii strain HEU5,GCA_002927915.1,2016.0,Honduras,141620.0,blood,Human,117,4019414,Illumina MiSeq,156
+Acinetobacter baumannii strain MCR6056,GCA_002928135.1,2015.0,Honduras,139722.0,blood,Human,115,4026438,Illumina MiSeq,156
+Acinetobacter baumannii strain MCR56,GCA_002928195.1,2015.0,Honduras,70142.0,blood,Human,189,3831087,Illumina MiSeq,106
+Acinetobacter baumannii strain R10,GCA_002950815.1,2014.0,USA,34291.0,blood,Human,252,3845946,Illumina NextSeq,2
+Acinetobacter baumannii strain S10,GCA_002950825.1,2014.0,USA,42820.0,blood,Human,193,3845461,Illumina NextSeq,2
+Acinetobacter baumannii strain AB38,GCA_003006835.1,2013.0,China,155225.0,blood,Human,70,3843681,Illumina HiSeq,2
+Acinetobacter baumannii strain AB36,GCA_003006845.1,2015.0,China,147251.0,blood,Human,86,3909753,Illumina HiSeq,2
+Acinetobacter baumannii strain AB35,GCA_003006885.1,2014.0,China,157828.0,blood,Human,77,3910238,Illumina HiSeq,2
+Acinetobacter baumannii strain AB40,GCA_003006875.1,2015.0,China,130940.0,blood,Human,69,3852570,Illumina HiSeq,2
+Acinetobacter baumannii strain AB31,GCA_003006945.1,2014.0,China,456244.0,blood,Human,37,3770947,Illumina HiSeq,52
+Acinetobacter baumannii strain AB28,GCA_003006975.1,2015.0,China,166944.0,blood,Human,69,3845540,Illumina HiSeq,2
+Acinetobacter baumannii strain AB26,GCA_003006995.1,2013.0,China,157516.0,blood,Human,59,3896189,Illumina HiSeq,2
+Acinetobacter baumannii strain AB24,GCA_003007015.1,2015.0,China,130940.0,blood,Human,94,3921853,Illumina HiSeq,2
+Acinetobacter baumannii strain AB25,GCA_003007025.1,2012.0,China,131683.0,blood,Human,100,3850024,Illumina HiSeq,2
+Acinetobacter baumannii strain AB23,GCA_003007055.1,2014.0,China,149392.0,blood,Human,57,3876548,Illumina HiSeq,2
+Acinetobacter baumannii strain AB21,GCA_003007065.1,2012.0,China,148278.0,blood,Human,93,3912429,Illumina HiSeq,2
+Acinetobacter baumannii strain AB20,GCA_003007095.1,2015.0,China,167980.0,blood,Human,94,3922023,Illumina HiSeq,2
+Acinetobacter baumannii strain AB19,GCA_003007115.1,2014.0,China,153858.0,blood,Human,85,3864905,Illumina HiSeq,2
+Acinetobacter baumannii strain AB18,GCA_003007135.1,2013.0,China,167931.0,blood,Human,90,3927616,Illumina HiSeq,2
+Acinetobacter baumannii strain AB13,GCA_003007145.1,2012.0,China,167804.0,blood,Human,75,3915255,Illumina HiSeq,2
+Acinetobacter baumannii strain AB12,GCA_003007195.1,2015.0,China,153204.0,blood,Human,97,3962600,Illumina HiSeq,2
+Acinetobacter baumannii strain AB10,GCA_003007215.1,2013.0,China,212767.0,blood,Human,55,4113572,Illumina HiSeq,2
+Acinetobacter baumannii strain AB4,GCA_003007275.1,2015.0,China,133521.0,blood,Human,124,4099817,Illumina HiSeq,2
+Acinetobacter baumannii strain AB5,GCA_003007245.1,2012.0,China,486924.0,blood,Human,50,3932479,Illumina HiSeq,626
+Acinetobacter baumannii strain AB42,GCA_003007285.1,2013.0,China,163710.0,blood,Human,62,3892973,Illumina HiSeq,2
+Acinetobacter baumannii strain AB39,GCA_003007335.1,2014.0,China,166975.0,blood,Human,68,3846649,Illumina HiSeq,2
+Acinetobacter baumannii strain AB37,GCA_003007355.1,2012.0,China,130244.0,blood,Human,84,3912634,Illumina HiSeq,2
+Acinetobacter baumannii strain AB34,GCA_003007375.1,2013.0,China,181435.0,blood,Human,73,3882390,Illumina HiSeq,2
+Acinetobacter baumannii strain AB30,GCA_003007395.1,2013.0,China,176907.0,blood,Human,66,3953326,Illumina HiSeq,2
+Acinetobacter baumannii strain AB29,GCA_003007405.1,2012.0,China,166666.0,blood,Human,71,3868746,Illumina HiSeq,2
+Acinetobacter baumannii strain AB22,GCA_003007435.1,2013.0,China,166955.0,blood,Human,78,3902297,Illumina HiSeq,2
+Acinetobacter baumannii strain AB27,GCA_003007455.1,2014.0,China,173256.0,blood,Human,80,3924837,Illumina HiSeq,2
+Acinetobacter baumannii strain AB17,GCA_003007475.1,2012.0,China,149325.0,blood,Human,79,3905040,Illumina HiSeq,2
+Acinetobacter baumannii strain AB15,GCA_003007485.1,2014.0,China,147251.0,blood,Human,65,3932609,Illumina HiSeq,2
+Acinetobacter baumannii strain AB16,GCA_003007515.1,2015.0,China,130940.0,blood,Human,80,3969312,Illumina HiSeq,2
+Acinetobacter baumannii strain AB8,GCA_003007535.1,2015.0,China,167804.0,blood,Human,111,3933151,Illumina HiSeq,2
+Acinetobacter baumannii strain AB9,GCA_003007585.1,2012.0,China,156386.0,blood,Human,86,3926905,Illumina HiSeq,2
+Acinetobacter baumannii strain AB3,GCA_003007615.1,2014.0,China,171925.0,blood,Human,81,3924449,Illumina HiSeq,2
+Acinetobacter baumannii strain AB2,GCA_003007635.1,2013.0,China,162390.0,blood,Human,64,3857389,Illumina HiSeq,2
+Acinetobacter baumannii strain AB1,GCA_003007655.1,2012.0,China,167808.0,blood,Human,88,3900673,Illumina HiSeq,2
+Acinetobacter baumannii strain SGH1011,GCA_003020285.1,2010.0,Singapore,168007.0,blood,Human,58,3949724,Illumina MiSeq,2
+Acinetobacter baumannii strain SGH0702,GCA_003020525.1,2007.0,Singapore,205040.0,blood,Human,76,4125741,Illumina MiSeq,2
+Acinetobacter baumannii strain SGH0905,GCA_003020505.1,2009.0,Singapore,162580.0,blood,Human,75,3959824,Illumina MiSeq,2
+Acinetobacter baumannii strain SGH0907,GCA_003020485.1,2009.0,Singapore,168007.0,blood,Human,62,3923847,Illumina MiSeq,2
+Acinetobacter baumannii strain SGH0807,GCA_003020405.1,2008.0,Singapore,279343.0,blood,Human,139,4135132,Illumina MiSeq,1
+Acinetobacter baumannii strain SGH1113,GCA_003020385.1,2011.0,Singapore,162581.0,blood,Human,76,4014692,Illumina MiSeq,2
+Acinetobacter baumannii strain KUSSH25,GCA_002992875.1,2015.0,Kuwait,162586.0,blood,Human,88,3870670,Illumina MiSeq,2
+Acinetobacter baumannii strain KUSSH32,GCA_002992865.1,2015.0,Kuwait,110642.0,blood,Human,100,3871995,Illumina MiSeq,2
+Acinetobacter baumannii strain KUFAR67,GCA_002992705.1,2015.0,Kuwait,115651.0,blood,Human,105,3971603,Illumina MiSeq,2
+Acinetobacter baumannii strain KUFAR41,GCA_002992365.1,2016.0,Kuwait,95927.0,blood,Human,93,3939402,Illumina MiSeq,2
+Acinetobacter baumannii strain KUFAR42,GCA_002992345.1,2016.0,Kuwait,138282.0,blood,Human,89,3916090,Illumina MiSeq,2
+Acinetobacter baumannii strain KUFAR44,GCA_002992325.1,2016.0,Kuwait,153110.0,blood,Human,69,3940599,Illumina MiSeq,2
+Acinetobacter baumannii strain ISAB51,GCA_003352485.1,2010.0,Taiwan,147104.0,blood,Human,77,4069057,Illumina HiSeq,2
+Acinetobacter baumannii strain KMDRAB15,GCA_003352495.1,2012.0,Taiwan,167764.0,blood,Human,178,4112519,Illumina HiSeq,2
+Acinetobacter baumannii strain MDRAB16,GCA_003352595.1,2010.0,Taiwan,82302.0,blood,Human,265,4055328,Illumina HiSeq,2
+Acinetobacter baumannii strain MDRAB55,GCA_003352605.1,2009.0,Taiwan,116781.0,blood,Human,120,4027028,Illumina HiSeq,2
+Acinetobacter baumannii strain MDRAB41,GCA_003352615.1,2009.0,Taiwan,101154.0,blood,Human,147,4098340,Illumina HiSeq,2
+Acinetobacter baumannii strain MDRAB58,GCA_003352675.1,2009.0,Taiwan,83976.0,blood,Human,102,3936234,Illumina HiSeq,2
+Acinetobacter baumannii strain MDRAB19,GCA_003352725.1,2010.0,Taiwan,98722.0,blood,Human,279,4069639,Illumina HiSeq,2
+Acinetobacter baumannii strain MDRAB7,GCA_003352735.1,2010.0,Taiwan,79737.0,blood,Human,165,4094041,Illumina HiSeq,2
+Acinetobacter baumannii strain 7847,GCA_003516005.1,2008.0,Mexico,3986569.0,blood,Human,3,4080593,Illumina MiSeq and PacBio RSII,1544
+Acinetobacter baumannii strain 9201,GCA_003522665.1,2013.0,Mexico,4119128.0,blood,Human,2,4128152,Illumina MiSeq and PacBio RSII,422
+Acinetobacter baumannii 2011BJAB4,GCA_000804665.1,2011.0,China,164573.0,blood,Human,68,3942170,Illumina MiSeq,2
+Acinetobacter baumannii 2011GDAB3,GCA_000804725.1,2011.0,China,126114.0,blood,Human,98,3876088,Illumina MiSeq,2
+Acinetobacter baumannii 2011SHAB1,GCA_000804815.1,2011.0,China,132595.0,blood,Human,110,3931310,Illumina MiSeq,2
+Acinetobacter baumannii 2011SDAB3,GCA_000804875.1,2011.0,China,111436.0,blood,Human,104,4045928,Illumina MiSeq,2
+Acinetobacter baumannii 2011BJAB5,GCA_000804975.1,2011.0,China,115402.0,blood,Human,70,4146723,Illumina MiSeq,2
+Acinetobacter baumannii 2011GDAB4,GCA_000805115.1,2011.0,China,129334.0,blood,Human,79,3933660,Illumina MiSeq,2
+Acinetobacter baumannii 2011TJAB1,GCA_000805135.1,2011.0,China,78063.0,blood,Human,101,3801781,Illumina MiSeq,105
+Acinetobacter baumannii 2011LNAB3,GCA_000805195.1,2011.0,China,135280.0,blood,Human,90,3944558,Illumina MiSeq,2
+Acinetobacter baumannii 2011ZJAB3,GCA_000805225.1,2011.0,China,103536.0,blood,Human,118,4056387,Illumina MiSeq,2
+Acinetobacter baumannii 2011ZJAB4,GCA_000805215.1,2011.0,China,102234.0,blood,Human,75,3818318,Illumina MiSeq,10
+Acinetobacter baumannii strain TG91932,GCA_003947815.1,2015.0,USA,141046.0,blood,Human,60,3989213,Illumina MiSeq,2
+Acinetobacter baumannii strain TG70583,GCA_003948195.1,2006.0,USA,222066.0,blood,Human,68,4024673,Illumina MiSeq,3
+Acinetobacter baumannii strain TG31307,GCA_003948305.2,2012.0,USA,123188.0,blood,Human,90,4006442,Illumina MiSeq,78
+Acinetobacter baumannii strain TG89528,GCA_003948805.1,2015.0,USA,169473.0,blood,Human,58,3989735,Illumina MiSeq,2
+Acinetobacter baumannii strain TG29391,GCA_003948885.1,2012.0,USA,107046.0,blood,Human,81,4008012,Illumina MiSeq,2
+Acinetobacter baumannii strain TG40843,GCA_003949175.1,2012.0,USA,118666.0,blood,Human,82,3899167,Illumina MiSeq,2
+Acinetobacter baumannii strain TG91928,GCA_003949205.1,2015.0,USA,147274.0,blood,Human,61,3990295,Illumina MiSeq,2
+Acinetobacter baumannii strain TG80268,GCA_003949225.1,2015.0,USA,206123.0,blood,Human,47,4001253,Illumina MiSeq,2
+Acinetobacter baumannii strain TG91968,GCA_003949275.1,2015.0,USA,162201.0,blood,Human,63,3988348,Illumina MiSeq,2
+Acinetobacter baumannii strain TG89540,GCA_003949325.1,2015.0,USA,178111.0,blood,Human,68,4104336,Illumina MiSeq,2
+Acinetobacter baumannii strain TG91920,GCA_003949555.1,2015.0,USA,178111.0,blood,Human,88,4058957,Illumina MiSeq,2
+Acinetobacter baumannii strain TG91924,GCA_003949655.1,2015.0,USA,168550.0,blood,Human,57,3987821,Illumina MiSeq,2
+Acinetobacter baumannii strain TG29392,GCA_003949725.2,2012.0,USA,119210.0,blood,Human,87,3998823,Illumina MiSeq,78
+Acinetobacter baumannii strain AB1,GCA_003984795.1,2014.0,Iran,24213.0,blood,Human,365,3879679,Illumina MiSeq,2
+Acinetobacter baumannii ABUH430459,GCA_000810025.1,2009.0,USA,46526.0,BLOOD,Human,273,4107430,Illumina HiSeq 2000,2
+Acinetobacter baumannii ABUH189355,GCA_000810345.1,2009.0,USA,64352.0,BLOOD,Human,191,4001383,Illumina HiSeq 2000,2
+Acinetobacter baumannii ABUH66268,GCA_000810905.1,2008.0,USA,133555.0,BLOOD,Human,77,3873867,Illumina HiSeq 2000,2
+Acinetobacter baumannii ABUH23684,GCA_000809605.1,2007.0,USA,133518.0,BLOOD,Human,83,3907803,Illumina HiSeq 2000,2
+Acinetobacter baumannii ABUH34813,GCA_000809405.1,2007.0,USA,90187.0,BLOOD,Human,136,4036449,Illumina HiSeq 2000,2
+Acinetobacter baumannii strain Ab-3,GCA_005048905.1,2016.0,China,168007.0,blood,Human,83,3926660,Illumina HiSeq,2
+Acinetobacter baumannii strain Ab33,GCA_005784645.1,2013.0,China,184563.0,blood,Human,66,3876686,Illumina HiSeq,2
+Acinetobacter baumannii strain Ab38,GCA_005784725.1,2013.0,China,184754.0,blood,Human,57,3871569,Illumina HiSeq,2
+Acinetobacter baumannii strain Ab189,GCA_005784825.1,2018.0,China,171885.0,blood,Human,126,3963414,Illumina HiSeq,2
+Acinetobacter baumannii strain Ab50,GCA_005784835.1,2014.0,China,167855.0,blood,Human,59,3833438,Illumina HiSeq,2
+Acinetobacter baumannii strain Ab2,GCA_005784945.1,2013.0,China,167760.0,blood,Human,174,3992127,Illumina HiSeq,2
+Acinetobacter baumannii strain Ab99,GCA_005785315.1,2015.0,China,180443.0,blood,Human,65,3906701,Illumina HiSeq,2
+Acinetobacter baumannii strain Ab89,GCA_005785405.1,2015.0,China,171869.0,blood,Human,65,3908406,Illumina HiSeq,2
+Acinetobacter baumannii strain Ab83,GCA_005785465.1,2014.0,China,171750.0,blood,Human,123,3952592,Illumina HiSeq,2
+Acinetobacter baumannii strain AB143,GCA_005785775.1,2015.0,China,162052.0,blood,Human,62,3962011,Illumina HiSeq,2
+Acinetobacter baumannii strain AB115,GCA_005785985.1,2015.0,China,163839.0,blood,Human,52,3815022,Illumina HiSeq,2
+Acinetobacter baumannii strain AB175,GCA_005786215.1,2018.0,China,155896.0,blood,Human,72,3969703,Illumina HiSeq,2
+Acinetobacter baumannii strain AB159,GCA_005786425.1,2015.0,China,164922.0,blood,Human,87,4047482,Illumina HiSeq,2
+Acinetobacter baumannii strain AB187,GCA_005786535.1,2018.0,China,171828.0,blood,Human,79,3903906,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-C95,GCA_006366515.1,2014.0,China,178076.0,blood,Human,112,4007239,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B48,GCA_006366535.1,2015.0,China,191063.0,blood,Human,93,4064186,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B07,GCA_006366545.1,2014.0,China,238839.0,blood,Human,54,3962267,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B05,GCA_006366575.1,2014.0,China,169250.0,blood,Human,52,3882765,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B46,GCA_006366585.1,2015.0,China,189859.0,blood,Human,105,4083611,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B43,GCA_006366635.1,2015.0,China,162917.0,blood,Human,53,3920288,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B44,GCA_006366645.1,2015.0,China,194301.0,blood,Human,62,3997484,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B41,GCA_006366665.1,2015.0,China,162571.0,blood,Human,60,3934166,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B42,GCA_006366685.1,2015.0,China,219290.0,blood,Human,52,3938448,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B40,GCA_006366715.1,2015.0,China,149642.0,blood,Human,48,4075487,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B30,GCA_006366735.1,2014.0,China,447367.0,blood,Human,30,4074076,Illumina HiSeq,46
+Acinetobacter baumannii strain AB-HZ-B32,GCA_006366745.1,2014.0,China,137769.0,blood,Human,65,3943960,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B33,GCA_006366755.1,2015.0,China,146048.0,blood,Human,61,3944974,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B31,GCA_006366785.1,2014.0,China,123251.0,blood,Human,66,4037911,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B29,GCA_006366805.1,2014.0,China,162885.0,blood,Human,47,4095330,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B27,GCA_006366825.1,2014.0,China,195182.0,blood,Human,62,3983357,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B26,GCA_006366845.1,2014.0,China,185353.0,blood,Human,47,3975371,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B25,GCA_006366875.1,2014.0,China,217472.0,blood,Human,48,3969300,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B20,GCA_006366895.1,2014.0,China,134163.0,blood,Human,55,3969899,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B19,GCA_006366905.1,2014.0,China,131234.0,blood,Human,53,3965473,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B16,GCA_006366925.1,2014.0,China,141450.0,blood,Human,49,3970752,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B18,GCA_006366935.1,2014.0,China,134156.0,blood,Human,54,3971098,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B15,GCA_006366975.1,2014.0,China,207795.0,blood,Human,53,3969479,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B14,GCA_006366985.1,2013.0,China,195032.0,blood,Human,55,3973546,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B12,GCA_006367015.1,2014.0,China,134110.0,blood,Human,54,3974826,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B11,GCA_006367025.1,2015.0,China,146110.0,blood,Human,59,3939424,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B06,GCA_006367045.1,2014.0,China,207572.0,blood,Human,41,3969439,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B09,GCA_006367055.1,2014.0,China,166828.0,blood,Human,58,3994932,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B45,GCA_006367085.1,2015.0,China,149651.0,blood,Human,51,4168359,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B37,GCA_006367115.1,2014.0,China,223123.0,blood,Human,47,3949608,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B28,GCA_006367125.1,2014.0,China,347007.0,blood,Human,39,4072210,Illumina HiSeq,46
+Acinetobacter baumannii strain AB-HZ-B23,GCA_006367135.1,2014.0,China,232542.0,blood,Human,54,3963865,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B24,GCA_006367175.1,2014.0,China,162518.0,blood,Human,47,3967828,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B01,GCA_006367195.1,2015.0,China,158864.0,blood,Human,67,4005953,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B21,GCA_006367205.1,2014.0,China,194955.0,blood,Human,48,3948838,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B02,GCA_006367225.1,2014.0,China,162635.0,blood,Human,61,3985893,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B17,GCA_006367245.1,2014.0,China,195086.0,blood,Human,51,3974685,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B86,GCA_006367275.1,2015.0,China,195113.0,blood,Human,58,3999600,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B82,GCA_006367285.1,2014.0,China,163311.0,blood,Human,44,3905709,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B85,GCA_006367295.1,2015.0,China,132057.0,blood,Human,60,3942110,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B79,GCA_006367335.1,2014.0,China,190557.0,blood,Human,50,3893551,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B77,GCA_006367345.1,2014.0,China,195241.0,blood,Human,43,3961240,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B76,GCA_006367375.1,2014.0,China,132537.0,blood,Human,67,4085359,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B75,GCA_006367395.1,2014.0,China,97557.0,blood,Human,121,3885146,Illumina HiSeq,213
+Acinetobacter baumannii strain AB-HZ-B70,GCA_006367405.1,2014.0,China,195357.0,blood,Human,55,3973909,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B65,GCA_006367435.1,2014.0,China,207820.0,blood,Human,50,3964542,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B53,GCA_006367475.1,2014.0,China,222772.0,blood,Human,49,3963941,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B51,GCA_006367485.1,2014.0,China,169166.0,blood,Human,63,4008614,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B50,GCA_006367505.1,2014.0,China,206822.0,blood,Human,50,3965206,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B63,GCA_006367515.1,2014.0,China,195004.0,blood,Human,56,3969658,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B64,GCA_006367535.1,2014.0,China,221063.0,blood,Human,62,3958740,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B39,GCA_006367835.1,2014.0,China,137772.0,blood,Human,65,3951761,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B38,GCA_006367845.1,2014.0,China,139722.0,blood,Human,60,4025088,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B04,GCA_006367855.1,2014.0,China,215399.0,blood,Human,50,3944244,Illumina HiSeq,221
+Acinetobacter baumannii strain AB-HZ-B36,GCA_006367895.1,2014.0,China,131923.0,blood,Human,100,4112233,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B35,GCA_006367905.1,2014.0,China,148365.0,blood,Human,55,3995606,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B34,GCA_006367915.1,2014.0,China,194999.0,blood,Human,63,4019507,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B03,GCA_006367945.1,2014.0,China,208012.0,blood,Human,42,3971922,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B22,GCA_006367965.1,2014.0,China,178444.0,blood,Human,47,4039622,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B13,GCA_006367995.1,2014.0,China,164591.0,blood,Human,61,3991179,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B10,GCA_006368005.1,2014.0,China,207154.0,blood,Human,51,3961167,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B08,GCA_006368025.1,2015.0,China,207806.0,blood,Human,58,4008572,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B84,GCA_006368045.1,2015.0,China,162872.0,blood,Human,55,3933046,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B47,GCA_006368055.1,2015.0,China,207530.0,blood,Human,57,4014214,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B80,GCA_006368095.1,2014.0,China,202752.0,blood,Human,56,3975322,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B66,GCA_006368105.1,2014.0,China,205192.0,blood,Human,48,3968993,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B57,GCA_006368125.1,2014.0,China,207430.0,blood,Human,59,3977850,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B52,GCA_006368155.1,2014.0,China,195068.0,blood,Human,53,3976029,Illumina HiSeq,2
+Acinetobacter baumannii strain AB-HZ-B49,GCA_006368165.1,2014.0,China,156122.0,blood,Human,52,3839150,Illumina HiSeq,922
+Acinetobacter baumannii strain MRSN7067,GCA_006492575.1,2003.0,USA,111760.0,blood,Human,112,4026208,Illumina NextSeq,81
+Acinetobacter baumannii strain MRSN351524,GCA_006492685.1,2011.0,Germany,141171.0,blood,Human,62,3833740,Illumina NextSeq,113
+Acinetobacter baumannii strain MRSN3360,GCA_006492795.1,2011.0,USA,239269.0,blood,Human,63,3960624,Illumina MiSeq,499
+Acinetobacter baumannii strain MRSN32076,GCA_006493005.1,2006.0,Germany,88615.0,blood,Human,109,3867941,Illumina NextSeq,40
+Acinetobacter baumannii strain MRSN1174,GCA_006493655.1,2006.0,USA,100582.0,blood,Human,163,4019329,Illumina NextSeq,2
+Acinetobacter baumannii strain MRSN24603,GCA_006493875.1,2014.0,Germany,52941.0,blood,Human,184,3799869,Illumina MiSeq,428
+Acinetobacter baumannii strain MRSN22112,GCA_006493975.1,2013.0,Peru,47623.0,blood,Human,239,4052536,Illumina NextSeq,193
+Acinetobacter baumannii strain MRSN1311,GCA_006494165.1,2007.0,USA,114894.0,blood,Human,129,3952074,Illumina NextSeq,1
+Acinetobacter baumannii strain MRSN14427,GCA_006494175.1,2012.0,Afghanistan,106591.0,blood,Human,125,4206263,Illumina NextSeq,622
+Acinetobacter baumannii strain MRSN16880,GCA_006494585.1,2011.0,USA,85688.0,blood,Human,117,3901251,Illumina NextSeq,10
+Acinetobacter baumannii strain NIPH17_0019,GCA_006538225.1,2017.0,Cambodia,103256.0,blood,Human,136,3918551,Illumina MiniSeq,571
+Acinetobacter baumannii strain S2,GCA_006937715.1,2018.0,China,129084.0,blood,Human,118,3885721,Illumina MiSeq,2
+Acinetobacter baumannii strain TVGH-612,GCA_008123485.1,2002.0,Taiwan,12273.0,blood,Human,708,3813819,Illumina,10
+Acinetobacter baumannii strain TVGH-1733,GCA_008123545.1,2007.0,Taiwan,14228.0,blood,Human,626,3867175,Illumina,10
+Acinetobacter baumannii strain P14,GCA_008630265.1,2014.0,China,167851.0,blood,Human,204,3879744,Illumina HiSeq,2
+Acinetobacter baumannii strain AB23,GCA_008830785.1,2012.0,Malaysia,181526.0,blood,Human,64,3882686,Illumina HiSeq,2
+Acinetobacter baumannii strain AB21,GCA_008830795.1,2012.0,Malaysia,181526.0,blood,Human,62,3879637,Illumina HiSeq,2
+Acinetobacter baumannii strain AB18,GCA_008830805.1,2012.0,Malaysia,181526.0,blood,Human,65,3882595,Illumina HiSeq,2
+Acinetobacter baumannii strain AB17,GCA_008830885.1,2012.0,Malaysia,370047.0,blood,Human,27,3946388,Illumina HiSeq,1230
+Acinetobacter baumannii strain AB8,GCA_008830905.1,2012.0,Malaysia,181188.0,blood,Human,65,3948429,Illumina HiSeq,2
+Acinetobacter baumannii strain ABS104,GCA_009497505.1,2013.0,Iran,150144.0,blood,Human,102,4136827,Illumina MiSeq,328
+Acinetobacter baumannii strain SI_2017_65,GCA_009759915.1,2017.0,Greece,167891.0,blood,Human,61,3973291,Illumina NovaSeq,1
+Acinetobacter baumannii strain AO_2015_54,GCA_009760145.1,2015.0,Greece,130969.0,blood,Human,67,3915004,Illumina NovaSeq,2
+Acinetobacter baumannii strain AO_2015_59,GCA_009760065.1,2015.0,Greece,132003.0,blood,Human,66,4000505,Illumina NovaSeq,2
+Acinetobacter baumannii strain AO_2015_61,GCA_009760005.1,2015.0,Greece,152617.0,blood,Human,63,3924084,Illumina NovaSeq,2
+Acinetobacter baumannii strain TR_2016_35,GCA_009760325.1,2016.0,Greece,111131.0,blood,Human,77,3921201,Illumina NovaSeq,2
+Acinetobacter baumannii strain KT_2016_39,GCA_009760235.1,2016.0,Greece,130969.0,blood,Human,66,3926532,Illumina NovaSeq,2
+Acinetobacter baumannii strain TR_2015_37,GCA_009760285.1,2015.0,Greece,120562.0,blood,Human,65,3928268,Illumina NovaSeq,2
+Acinetobacter baumannii strain TR_2016_36,GCA_009760305.1,2016.0,Greece,98816.0,blood,Human,81,3934134,Illumina NovaSeq,2
+Acinetobacter baumannii strain PU_2016_41,GCA_009760525.1,2016.0,Greece,136916.0,blood,Human,67,3950748,Illumina NovaSeq,2
+Acinetobacter baumannii strain TR_2016_34,GCA_009760535.1,2016.0,Greece,144077.0,blood,Human,73,3933771,Illumina NovaSeq,2
+Acinetobacter baumannii strain A-71.193,GCA_009829545.1,2016.0,Brazil,136455.0,blood,Human,53,3803354,Illumina MiSeq,1
+Acinetobacter baumannii strain NFAb1,GCA_009910195.1,2007.0,USA,81219.0,blood,Human,97,4156151,Illumina MiSeq,79
+Acinetobacter baumannii IS-235,GCA_000304695.1,2008.0,Iraq,169343.0,blood,Human,76,4060387,Illumina,1
